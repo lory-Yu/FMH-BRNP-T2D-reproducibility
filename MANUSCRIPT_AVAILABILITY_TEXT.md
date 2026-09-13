@@ -1,15 +1,16 @@
 # Manuscript availability text
 
-Status: draft for manuscript use. The public GitHub repository is verified;
-the Zenodo DOI remains a placeholder until release archiving is complete.
+Status: verified for manuscript use. The public GitHub repository and the
+Zenodo archive for release `v1.0.0-submission` are available.
 
 ## Code availability
 
 The analysis code, reproducible workflows, environment specifications, and
 instructions required to reproduce the publicly redistributable components of
 this study are available at
-https://github.com/lory-Yu/FMH-BRNP-T2D-reproducibility and will be archived at
-Zenodo upon release [Zenodo DOI].
+https://github.com/lory-Yu/FMH-BRNP-T2D-reproducibility. The submission-frozen
+release `v1.0.0-submission` is archived at Zenodo
+(https://doi.org/10.5281/zenodo.22731841).
 
 ## Data availability
 
@@ -27,9 +28,7 @@ released materials. Complete from-scratch execution of the metabolism-aware v2
 workflow additionally requires reconstruction of the non-redistributed
 third-party database-derived transformation input.
 
-## Author checks before submission
+## Statements to retain in the manuscript
 
-- Replace `[Zenodo DOI]` only after the authorised release has been archived
-  and the DOI verified.
 - Do not state that all underlying third-party data are openly available.
 - Keep the direct-versus-conditional reproducibility distinction unchanged.

@@ -1,6 +1,8 @@
 # FMH BRNP T2D data and code
 
-This release-candidate package supports the manuscript *Biotransformation-resolved network pharmacology for food-medicine homology materials in type 2 diabetes*. It contains portable analysis code, configurations, author-generated derived results and Figures 2–6. It is assembled from `PUBLIC_RELEASE_ALLOWLIST.tsv`; manuscripts, author forms, reviewer-specific assessments, signatures and restricted third-party inputs are excluded.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22731841.svg)](https://doi.org/10.5281/zenodo.22731841)
+
+This repository supports the manuscript *Biotransformation-resolved network pharmacology for food-medicine homology materials in type 2 diabetes*. The submission-frozen release `v1.0.0-submission` is archived at Zenodo (https://doi.org/10.5281/zenodo.22731841). It contains portable analysis code, configurations, author-generated derived results and Figures 2–6. It is assembled from `PUBLIC_RELEASE_ALLOWLIST.tsv`; manuscripts, author forms, reviewer-specific assessments, signatures and restricted third-party inputs are excluded.
 
 The RCT synthesis and Figures 2–6 are **DIRECTLY REPRODUCIBLE** from redistributed structured inputs. Metabolism-aware v2 is **CONDITIONALLY REPRODUCIBLE**: its code, schemas, provenance information, safe derived outputs, checksums and reconstruction instructions are provided, but a complete from-scratch run requires local reconstruction of a non-redistributed third-party database-derived transformation input. Optional upstream reconstruction, AGORA2 model scanning and raw-data reprocessing are classified **REQUIRES EXTERNAL INPUT**. See `RUN_REPRODUCTION.md`.
 
@@ -8,7 +10,7 @@ Certain row-level integrated inputs derived from third-party databases are not r
 
 ## Integrity and privacy
 
-Do not make this private engineering repository public. Use the clean candidate described in `FINAL_PUBLIC_RELEASE_AUDIT.md`. Signed reviewer forms, trial PDFs, raw GBD/IDF extracts, commercial database exports, FASTQ, SILVA and AGORA2 model copies are excluded from the clean package.
+This is the public clean repository described in `FINAL_PUBLIC_RELEASE_AUDIT.md`. Signed reviewer forms, trial PDFs, raw GBD/IDF extracts, commercial database exports, FASTQ, SILVA and AGORA2 model copies are excluded from the clean package.
 
 Review `DATA_SOURCES.md`, `INPUT_SCHEMAS.md`, `PUBLIC_RELEASE_ALLOWLIST.tsv` and `RUN_REPRODUCTION.md` before rerunning a conditional upstream workflow.
 
@@ -20,6 +22,8 @@ Author-written code is licensed under the MIT licence (`LICENSE`). Explicitly id
 
 ## Release status
 
-Target tag: v1.0.0-submission. No public repository, GitHub release or Zenodo deposit has been created. The final audit deliberately stops before those actions.
+Release: `v1.0.0-submission`.
 
-Zenodo automatic GitHub archiving requires a public repository. If the GitHub repository remains private, use a manual Zenodo deposit with Restricted or Embargoed file access instead.
+- GitHub: https://github.com/lory-Yu/FMH-BRNP-T2D-reproducibility/releases/tag/v1.0.0-submission
+- Zenodo version DOI: https://doi.org/10.5281/zenodo.22731841
+- Zenodo concept DOI: https://doi.org/10.5281/zenodo.22731840

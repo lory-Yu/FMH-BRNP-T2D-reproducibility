@@ -1,0 +1,9 @@
+Primary endpoint: positive pathway abundance among detected samples.
+Effect scale: adjusted log2 abundance ratio (T2D versus Control).
+Primary pooling: random-effects REML with modified Knapp-Hartung (test='adhoc').
+Reason for modified KH: k=3 and ordinary KH can yield spuriously smaller SE when residual dispersion is <1.
+Ordinary Knapp-Hartung is retained only as a method comparison.
+Detection effects were not pooled because Qin/Karlsson showed near-universal detection and separation/non-estimability.
+No-metformin analysis is exploratory because Qin treatment metadata are missing for 218/363 participants.
+No funnel plot, Egger test, or publication-bias test was performed because k=3.
+Leave-one-cohort-out results are diagnostic and not independent confirmatory analyses.

@@ -1,0 +1,19 @@
+# Data licence (author-generated derived materials)
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Simiao Yu, Xiaodong Lu, Zhouping Wang
+
+This licence applies to author-generated derived tables, figure source files,
+and reproducibility records included in this repository that the authors are
+entitled to distribute.
+
+It does NOT apply to third-party restricted materials excluded from public
+release (including, without limitation, raw GBD/IHME extracts, IDF Atlas
+source extracts, copyrighted RCT full texts, signed ethics or assessment
+PDFs, and proprietary model binaries). Those materials remain under their
+original terms and are listed in EXCLUDED_FILES.tsv / private_internal
+records.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/

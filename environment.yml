@@ -1,0 +1,22 @@
+name: fmh-brnp-t2d
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.13
+  - numpy=2.4
+  - pandas=2.3
+  - scipy=1.17
+  - matplotlib=3.10
+  - requests=2.32
+  - rdkit=2025.09
+  - pillow=12.1
+  - python-docx=1.2
+  - pymupdf=1.24
+  - r-base=4.5
+  - r-metafor
+  - r-vegan
+  - r-ggplot2
+  - r-jsonlite
+  - bioconductor-dada2=1.38.0
+  - bioconductor-biocparallel=1.44

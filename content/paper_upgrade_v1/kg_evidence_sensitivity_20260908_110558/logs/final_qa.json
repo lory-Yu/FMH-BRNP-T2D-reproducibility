@@ -1,0 +1,17 @@
+{
+  "created_at_utc": "2026-09-08T03:49:01.025878+00:00",
+  "source_files_modified": false,
+  "v2_rank_reproduced": true,
+  "unique_cids_audited": 10911,
+  "pubchem_problem_cids": 288,
+  "pubchem_resolved": 258,
+  "unresolved_after_pubchem": 30,
+  "primary_routes_strict_usable": 40,
+  "agora_models_scanned": 7302,
+  "agora_read_failures": 0,
+  "agora_target_positive_models": 0,
+  "corrected_pmid": "23638073",
+  "corrected_sra_records": 0,
+  "emails_sent": false,
+  "cobrapy_or_micom_run": false
+}

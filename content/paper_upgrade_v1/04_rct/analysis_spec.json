@@ -1,0 +1,22 @@
+{
+  "input": "meta_input_clean.csv",
+  "frozen_trial_count": 19,
+  "frozen_endpoint_rows": 33,
+  "effect": "raw mean difference; intervention minus control",
+  "units": {
+    "HbA1c": "%",
+    "FPG": "mg/dL"
+  },
+  "tau2": "REML",
+  "primary_small_sample_inference": "modified Hartung-Knapp, scale=max(1,q)",
+  "secondary_inference": "ordinary Hartung-Knapp",
+  "multiplicity": "BH across all herb-by-outcome pools with k>=2",
+  "k2": "exploratory",
+  "k1": "narrative only",
+  "publication_bias": "not assessed where k<10",
+  "prediction_interval": "t(k-2), reported only for k>=3",
+  "python": "3.13.12",
+  "numpy": "2.4.3",
+  "pandas": "2.3.3",
+  "scipy": "1.17.1"
+}

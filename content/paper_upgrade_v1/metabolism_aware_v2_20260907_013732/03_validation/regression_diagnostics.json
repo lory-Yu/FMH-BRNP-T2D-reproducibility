@@ -1,0 +1,23 @@
+{
+  "direct": {
+    "intercept": -0.5252439459105823,
+    "beta_log1p_n_compounds": 0.012765532124211637,
+    "beta_log1p_n_t2d_targets": 0.21496822761181406,
+    "r_squared": 0.8485782765144948,
+    "residual_sd": 0.050836279240562374
+  },
+  "primary_transform": {
+    "intercept": 0.06250112421263831,
+    "beta_log1p_n_compounds": -0.03877824233441454,
+    "beta_log1p_n_opportunities": 1.317614867380119,
+    "r_squared": 0.9149352244899491,
+    "residual_sd": 0.21678884932301473
+  },
+  "inclusive_transform": {
+    "intercept": 0.33148440425395037,
+    "beta_log1p_n_compounds": -0.09821341967126038,
+    "beta_log1p_n_opportunities": 1.1444889867962524,
+    "r_squared": 0.8207484799621347,
+    "residual_sd": 0.34304078808141036
+  }
+}

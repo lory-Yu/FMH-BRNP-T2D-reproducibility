@@ -1,0 +1,14 @@
+stage_id	count	unit	source	definition	status
+U01	482777	record rows	non-redistributed multi-database merge	multi-database raw merge	verified
+U02	271636	record rows	non-redistributed screening intermediate	L1 diabetes-and-herb filter	verified
+U02d	228157	deduplicated records	frozen cohort-build log	L1 records after deduplication	verified_log
+U03	53887	record rows	non-redistributed screening intermediate	L2 human/RCT filter	verified
+U04	41074	record rows	non-redistributed screening intermediate	L3 T2DM-treatment filter	verified
+S01	12857	record rows	full12857_codex_review/tier1_from12857_CODEX全量精筛结果_12857.csv	可核实规则预筛起点	frozen
+S02	589	title/abstract hit rows	meta_outputs/meta_analysis_report.md	Figure 5 采用的行级题摘命中	frozen_with_alternative
+S03	322	deduplicated independent records	meta_outputs/meta_analysis_report.md	去重独立记录	frozen
+S04a	105	flagged records	meta_outputs/meta_analysis_report.md	预排除旗标	frozen
+S04b	217	records	meta_outputs/meta_analysis_report.md	进入 Codex 精筛队列	frozen
+S05	32	eligible independent full texts	meta_outputs/meta_analysis_report.md	单味临床全文清单终点；并非全部可量化	frozen
+S06	19	independent trials	meta_outputs/meta_input_clean.csv	当前 HbA1c/FPG endpoint 主 Meta	verified
+S07	33	endpoint rows	meta_outputs/meta_input_clean.csv	19 个试验的可用 endpoint 行	verified

@@ -1,0 +1,48 @@
+herb	n_single_herb_trials_main	n_formula_records_all_v2	n_formula_rct_t2dm_soft_v2	n_formula_title_soft_v2	top_formulas	evidence_maturity	was_v1_gap24	was_zero_hit5	evidence_map_cell_v1	upgraded_from_none	interpretation	source_sha256
+天麻	0	10	8	5	天麻钩藤饮(2); 轻断饮食疗法联合半夏白术天麻汤(1); 中药汤(1)	仅含药复方信号	否	否	仅含药复方信号	否	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+桑叶	5	5	5	2	中药代茶饮(1); 桑叶代茶饮(1); 桑叶多糖对高糖饮(1)	单味+复方均有	否	否	单味+复方均有	否	attributable single-herb evidence plus formula signal	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+淡豆豉	0	0	0	0		两层皆无	否	否	仅含药复方信号	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+金银花	0	4	2	0	栝楼牡蛎散(1); 补肾健脾方(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+山药	0	22	16	3	补肾健脾方(3); 乌梅山药饮(1); 二仙地黄汤(1)	仅含药复方信号	否	否	仅含药复方信号	否	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+白芷	0	0	0	0		两层皆无	是	否	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+枸杞子	2	8	4	0	益气生津散(1)	单味+复方均有	否	否	仅单味	否	attributable single-herb evidence plus formula signal	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+槐花	0	0	0	0		两层皆无	否	是	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+灵芝	3	5	1	0		单味+复方均有	否	否	单味+复方均有	否	attributable single-herb evidence plus formula signal	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+当归	0	27	22	14	当归六黄汤(7); 当归四逆汤(2); 二仙地黄汤(1)	仅含药复方信号	否	否	仅含药复方信号	否	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+山茱萸	0	12	5	0	二仙地黄汤(1); 自拟知芍消渴丸(1); 补肾健脾方(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+沙棘	0	1	0	0		两层皆无	是	否	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+白茅根	0	2	1	0	益气养阴降糖方(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+香橼	0	0	0	0		两层皆无	是	否	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+芦根	0	0	0	0		两层皆无	否	是	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+蜂蜜	2	2	2	1		单味+复方均有	否	否	单味+复方均有	否	attributable single-herb evidence plus formula signal	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+胖大海	0	0	0	0		两层皆无	否	是	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+黄芪	3	86	75	46	黄芪四君子汤(9); 加味黄芪桂枝五物汤(7); 中药饮(3)	单味+复方均有	否	否	单味+复方均有	否	attributable single-herb evidence plus formula signal	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+天冬	0	10	10	0	补肾健脾方(1); 柔肝化纤颗粒(1); 养阴益肺汤(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+薤白	0	3	3	3	加味枳实薤白桂枝汤(2); 枳实薤白桂枝汤(1)	仅含药复方信号	否	否	仅含药复方信号	否	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+莱菔子	0	2	1	0	平糖脂方(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+刀豆	0	0	0	0		两层皆无	是	否	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+人参	10	29	27	22	白虎加人参汤(10); 白虎人参汤(5); 干姜黄芩黄连人参汤(3)	单味+复方均有	否	否	单味+复方均有	否	attributable single-herb evidence plus formula signal	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+薏苡仁	0	7	5	0	二黄降浊汤(1); 参苓白术散(1); 四妙丸(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+杜仲	0	4	2	0		仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+桑椹	1	0	0	0		仅单味	否	否	仅单味	否	attributable single-herb evidence only	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+赤小豆	0	1	1	0		仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+党参	0	12	8	0	五味消渴方合白虎汤(1); 参芪复方(1); 基于痰瘀理论自拟疏肝祛痰化湿汤(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+肉苁蓉	0	1	0	0		两层皆无	是	否	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+蒲公英	0	5	2	0		仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+丁香	0	1	0	0		两层皆无	是	否	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+西洋参	4	2	1	0	益气生津散(1)	单味+复方均有	否	否	单味+复方均有	否	attributable single-herb evidence plus formula signal	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+姜黄	10	10	5	4	干姜黄芩黄连人参汤(3); 藏药四味姜黄汤(1)	单味+复方均有	否	否	单味+复方均有	否	attributable single-herb evidence plus formula signal	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+陈皮	0	7	7	0	二黄降浊汤(1); 五积散(1); 基于痰瘀理论自拟疏肝祛痰化湿汤(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+槐米	0	0	0	0		两层皆无	否	是	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+杏仁	0	4	3	2	基于杏仁的低碳水化合物饮(1); 基于杏仁的低碳水化合物饮食方(1); 型糖尿病病人低碳水化合物饮(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+莲子	0	3	3	2	加味清心莲子饮(1); 参苓白术散(1); 清心莲子饮(1)	仅含药复方信号	否	否	仅含药复方信号	否	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+鱼腥草	0	1	1	0		仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+广藿香	0	1	1	0		仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+藿香	0	0	0	0		两层皆无	是	否	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+麦冬	0	23	18	8	麦冬汤合牛膝饮(4); 糖尿病合并高血压患者应用麦冬汤(1); 中药代茶饮(1)	仅含药复方信号	否	否	仅含药复方信号	否	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+栀子	0	5	4	0	二黄降浊汤(1); 平糖脂方(1); 栝楼牡蛎散(1)	仅含药复方信号	是	否	两层皆无	是	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+榧子	0	0	0	0		两层皆无	否	是	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+肉豆蔻	0	1	0	0		两层皆无	是	否	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+西红花	7	1	1	0		单味+复方均有	否	否	仅单味	否	attributable single-herb evidence plus formula signal	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+覆盆子	0	0	0	0		两层皆无	是	否	两层皆无	否	no signal in either screened layer; not evidence of ineffectiveness	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782
+茯苓	0	33	23	10	三因茯苓汤(1); 乌头汤合桂枝茯苓丸(1); 二黄降浊汤(1)	仅含药复方信号	否	否	仅含药复方信号	否	formula-level signal; not attributable to this herb	6cd1d8a16f27b3feb1619a0d3f8ce1ad6d75114bf30bfee9205cdfb943c41782

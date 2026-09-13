@@ -1,0 +1,3 @@
+definition	reported_or_inferred_interval_1based	matched_locus_tag	matched_protein_id	annotation	strand	nt_length	aa_length	forward_primer_mismatches	reverse_primer_mismatches	both_primers_exact	interpretation
+coordinates reported in Methods	1366947..1368227	B689b_1168	AHJ23177.1	Hypothetical protein	minus	1281	426	10	11	False	coordinate-defined candidate; primers do not match
+exact primer-defined amplicon in CP006715.1	1364534..1366786 (CDS bounds; minus strand)	B689b_1167	AHJ23176.1	Beta-glucosidase	minus	2253	750	0	0	True	primer-defined candidate; distinct adjacent CDS

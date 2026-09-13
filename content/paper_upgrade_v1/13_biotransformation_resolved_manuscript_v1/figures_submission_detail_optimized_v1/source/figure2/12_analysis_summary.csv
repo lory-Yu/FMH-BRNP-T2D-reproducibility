@@ -1,0 +1,15 @@
+metric,value
+source_chain_rows,8063
+taxa,147
+mapped_taxa,133
+taxon_routes,300
+strain_models,2906
+models_loaded,2906
+models_encoding_sanitized,1094
+compounds,90
+matrix_rows,9571
+both_structures_verified,2170
+formal_flux_rows,1058
+formal_flux_routes,26
+t2d_formal_flux_rows,17
+t2d_formal_flux_routes,9

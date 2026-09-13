@@ -1,0 +1,13 @@
+{
+  "frozen_baseline_rows": 104,
+  "frozen_baseline_unique_materials": 104,
+  "frozen_reported_order_matches_frozen_score": true,
+  "route_ids_unique": true,
+  "microbial_terminal_routes": 75,
+  "host_terminal_routes": 20,
+  "mapping_conflict_routes": 8,
+  "mapping_conflict_paths_have_zero_weight": true,
+  "alpha_zero_matches_direct_adjusted_comparator": true,
+  "all_104_materials_retained": true,
+  "clinical_data_used_for_tuning": false
+}

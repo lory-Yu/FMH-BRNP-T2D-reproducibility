@@ -1,0 +1,6 @@
+scenario	n_paths_used	n_routes_used	n_herbs_with_paths	spearman_rank_vs_original	top20_overlap_vs_original	top20_jaccard_vs_original	max_absolute_rank_shift	bbBgl_or_ginsenoside_paths_removed
+original_primary	572	35	85	1.0	20	1.0	0	0
+local_consensus_strict	537	30	85	0.9812011223847475	18	0.8181818181818182	36	0
+pubchem_resolved_strict	572	35	85	1.0	20	1.0	0	0
+pubchem_resolved_structure_deduplicated	572	35	85	1.0	20	1.0	0	0
+bbBgl_dispute_removed	572	35	85	1.0	20	1.0	0	0

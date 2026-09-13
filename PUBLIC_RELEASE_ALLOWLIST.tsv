@@ -1,0 +1,155 @@
+path	status	reason	category
+.gitignore	KEEP	Safe public-release documentation or licence file.	documentation
+CITATION.cff	KEEP	Safe public-release documentation or licence file.	documentation
+CODE_RELEASE_AUDIT_20260913.md	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+CODE_UPLOAD_AUDIT.tsv	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+DATA_CODE_UPLOAD_SUMMARY_CN.md	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+DATA_SOURCES.md	KEEP	Safe public-release documentation or licence file.	documentation
+EXCLUDED_FILES.tsv	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+FIGURE_REPRODUCTION_QA.md	KEEP	Safe public-release documentation or licence file.	documentation
+FINAL_PUBLIC_RELEASE_AUDIT.md	KEEP	Safe public-release documentation or licence file.	documentation
+CLEAN_CANDIDATE_MANIFEST.tsv	KEEP	Generated path, size and SHA256 inventory for the clean candidate.	documentation
+GITHUB_ZENODO_UPLOAD_CHECKLIST.md	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+INPUT_SCHEMAS.md	KEEP	Safe public-release documentation or licence file.	documentation
+LICENCE_DECISIONS_REQUIRED.md	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+LICENSE	KEEP	Safe public-release documentation or licence file.	documentation
+LICENSE-DATA	KEEP	Safe public-release documentation or licence file.	documentation
+LOCAL_PATH_AUDIT.tsv	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+MANIFEST.tsv	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+PUBLIC_RELEASE_ALLOWLIST.tsv	KEEP	Safe public-release documentation or licence file.	documentation
+PUBLIC_RELEASE_BLOCKERS.md	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+README.md	KEEP	Safe public-release documentation or licence file.	documentation
+RELEASE_METADATA.json	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+RUN_REPRODUCTION.md	KEEP	Safe public-release documentation or licence file.	documentation
+SHA256SUMS.txt	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+CLEAN_SHA256SUMS.txt	KEEP	Generated checksums for all clean-candidate files except the checksum file itself.	documentation
+ZENODO_METADATA_DRAFT.json	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
+content/paper_upgrade_v1/04_rct/RCT_REVALIDATION_REPORT.md	KEEP	Study-generated scientific report or analysis specification.	report
+content/paper_upgrade_v1/04_rct/analysis_spec.json	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
+content/paper_upgrade_v1/04_rct/comparison_with_previous_meta.tsv	OPTIONAL	Implementation comparison to a prior result; not required for core pooled estimates.	internal_comparison
+content/paper_upgrade_v1/04_rct/meta_results_revalidated.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/figure_source_crosswalk.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/audit_panel_alignment.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/make_figure2_detail_optimized.py	EXCLUDE	Superseded wrapper with local runtime path; portable authoritative builder retained.	superseded_code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/make_figure2_detail_optimized_standalone.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/make_figure3_evidence_completion.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/make_figure3_source.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/make_figure4_detail_optimized.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/make_figure4_evidence_completion.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/make_figure5_redesign_v1.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/make_figure5_source.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/make_figure6_detail_optimized.py	EXCLUDE	Superseded wrapper with local runtime path; portable authoritative builder retained.	superseded_code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/scripts/redesign_common.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure2/12_analysis_summary.csv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure4/Figure3_cohort_context.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure4/Figure3_cohort_effects.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure4/Figure3_expanded_SCFA_audit.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure4/Figure3_metformin_sensitivity.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure4/Figure3_pooled_effects.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure5/Figure4_alpha_by_donor.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure5/Figure4_alpha_stats.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure5/Figure4_beta_stats.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure5/Figure4_candidate_genera.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure5/Figure4_global_genera.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure5/Figure4_pcoa.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure5/Figure4_qc_summary.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure6/Figure5_TRIAL028_RoB2.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure6/Figure5_TRIAL028_sensitivity.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure6/Figure5_maturity47.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure6/Figure5_primary_meta.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1/source/figure6/Figure5_screening_flow.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/01_Chinese_Medicine_Research_manuscript_author_details_v5_RoB2_GRADE_FINAL.md	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/02_AUTHOR_SUBMISSION_INFORMATION_FORM_v2.md	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/03_RoB2_and_GRADE_completion_workflow.md	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/04_RoB2_reviewer1_SY_final_20260912.tsv	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/04_RoB2_reviewer2_XL_final_20260912.tsv	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/05_RoB2_consensus_final_20260912.tsv	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/06_GRADE_evidence_profile_final_20260912.tsv	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/07_RELEASE_FREEZE_GUIDE.md	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/08_SUBMISSION_READINESS_CHECKLIST_v2_20260912.tsv	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/09_protocol_amendments_v1.tsv	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/13_AUTHOR_DECLARATIONS_AND_RELEASE_PACKAGE_20260913.md	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/Chinese_Medicine_Research_manuscript_v5_declarations_synced_20260913.docx	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/figures/Figure2.pdf	KEEP	Final author-generated Figure 2–6 PDF.	figure
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/figures/Figure3.pdf	KEEP	Final author-generated Figure 2–6 PDF.	figure
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/figures/Figure4.pdf	KEEP	Final author-generated Figure 2–6 PDF.	figure
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/figures/Figure5.pdf	KEEP	Final author-generated Figure 2–6 PDF.	figure
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/figures/Figure6.pdf	KEEP	Final author-generated Figure 2–6 PDF.	figure
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/figures/scripts/make_figure6_final_signed.py	KEEP	Portable final Figure 6 builder; does not require signed forms.	code
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/scripts/build_chinese_medicine_docx.py	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/scripts/build_github_upload_candidate_r4.py	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/15_chinese_medicine_submission_v1/scripts/finalize_submission_docx_metadata.py	EXCLUDE	Manuscript, author form, reviewer/consensus/GRADE record, submission helper or local packaging tool.	manuscript_or_author_internal
+content/paper_upgrade_v1/evidence_completion_20260906_185743/04_rct/TRIAL028_RoB2_signalling_questions.tsv	EXCLUDE	Outcome-specific reviewer working record; aggregate figure source is retained.	reviewer_internal
+content/paper_upgrade_v1/evidence_completion_20260906_185743/04_rct/TRIAL028_three_scenario_meta_results.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/evidence_completion_human_gut_20260908_005251/cleaned/10_BbBgl_coordinate_primer_conflict.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/evidence_completion_human_gut_20260908_005251/cleaned/11_BglX_exact_sequence_record.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/00_spec/ANALYSIS_SPEC.md	KEEP	Study-generated scientific report or analysis specification.	report
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/00_missing_structure_cids_before_pubchem.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/03_cross_cid_exact_duplicate_groups.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/04_cross_cid_parent_duplicate_groups.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/05_cross_cid_tautomer_parent_groups.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/06_herb_entity_qc_summary.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/07_route_entity_crosswalk.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/08A_pubchem_resolution_failures.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/08_problem_cid_pubchem_resolution.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/11_route_entity_crosswalk_final.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/12_herb_entity_qc_summary_final.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/01_chemistry/13_unresolved_entity_list.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/02_ranking/01_ranking_scenarios_long.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/02_ranking/02_ranking_scenario_summary.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/02_ranking/03_herb_rank_shifts.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/02_ranking/04_top20_by_scenario.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/02_ranking/05_regression_diagnostics.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/03_agora2/01_full_model_coverage_scan.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/03_agora2/02_target_positive_xml_parse.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/03_agora2/agora2_query_compounds_pubchem.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/logs/final_qa.json	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/scripts/run_ranking_evidence_sensitivity.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/scripts/run_rdkit_entity_audit.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/scripts/scan_agora2_full_coverage.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/00_spec/ANALYSIS_SPEC.md	KEEP	Study-generated scientific report or analysis specification.	report
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/00_spec/analysis_spec.json	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/01_routes/herb_transformation_paths_v2.tsv	OPTIONAL	Row-level join to multi-database herb occurrences; excluded until database-by-database redistribution review.	source_terms_pending
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/01_routes/transformation_routes_audited_v2.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/02_rankings/KG_metabolism_aware_v2_alpha_sensitivity.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/02_rankings/KG_metabolism_aware_v2_evidence_scenarios.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/02_rankings/KG_metabolism_aware_v2_tiered_ranking.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/02_rankings/KG_metabolism_aware_v2_two_axis.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/03_validation/alpha_sensitivity_summary.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/03_validation/degree_and_rank_correlations.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/03_validation/evidence_scenario_summary.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/03_validation/regression_diagnostics.json	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/03_validation/topology_null_1000.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/03_validation/topology_null_summary.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/03_validation/validation_checks.json	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/logs/run_manifest.json	EXCLUDE	Contains historical personal absolute paths; not a runtime dependency.	historical_private_provenance
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/scripts/run_metabolism_aware_v2.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/tests/test_v2_outputs.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/scripts/build_rct_ledgers.py	EXCLUDE	Requires internal extraction/QC provenance not redistributed.	internal_code
+content/paper_upgrade_v1/scripts/run_rct_rebuild.py	KEEP	Portable scientific analysis or figure code.	code
+content/paper_upgrade_v1/submission_completion_20260906_211921/03_rct/trial_outcome_estimand_audit.tsv	EXCLUDE	Internal extraction/estimand QC ledger; not required for the public pooled-analysis rerun.	internal_qc
+content/three_cohort_curatedMetagenomicData/analysis_ready_v1/01_butyrate_core_meta.R	EXCLUDE	Legacy unadjusted script is not the final adjusted analysis and requires missing local RDS objects.	legacy_code
+content/three_cohort_curatedMetagenomicData/analysis_ready_v1/three_cohort_adjusted_meta_analysis_decisions.txt	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
+content/three_cohort_curatedMetagenomicData/analysis_ready_v1/three_cohort_adjusted_meta_input_effects.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/three_cohort_curatedMetagenomicData/analysis_ready_v1/three_cohort_adjusted_meta_leave_one_out.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/three_cohort_curatedMetagenomicData/analysis_ready_v1/three_cohort_adjusted_meta_sessionInfo.txt	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
+content/three_cohort_curatedMetagenomicData/analysis_ready_v1/three_cohort_adjusted_meta_summary.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/tier1_screening_output/b47_deficiency/meta_outputs/meta_input_clean.csv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/FINAL_WEI2025_REANALYSIS_REPORT.md	KEEP	Study-generated scientific report or analysis specification.	report
+content/wei_2025_calibration/config/analysis_plan.yml	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
+content/wei_2025_calibration/config/environment_locked.yml	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
+content/wei_2025_calibration/metadata/Wei2025_D1_D50_phenotype_SRA_crosswalk.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/metadata/Wei2025_ENA_fastq_manifest.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/results/alpha_diversity_by_donor.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/results/alpha_diversity_high_vs_low.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/results/beta_bray_anosim_high_vs_low.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/results/beta_bray_dispersion_high_vs_low.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/results/beta_bray_pcoa_high_vs_low.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/results/beta_bray_permanova_high_vs_low.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/results/genus_high_vs_low_clr.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/results/prespecified_candidate_genera_high_vs_low.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
+content/wei_2025_calibration/scripts/06_run_dada2.R	KEEP	Portable scientific analysis or figure code.	code
+content/wei_2025_calibration/scripts/07_analyze_rb1_groups.R	KEEP	Portable scientific analysis or figure code.	code
+content/wei_2025_calibration/scripts/12_rarefaction_sensitivity.R	KEEP	Portable scientific analysis or figure code.	code
+environment.yml	KEEP	Safe public-release documentation or licence file.	documentation
+requirements.txt	KEEP	Safe public-release documentation or licence file.	documentation

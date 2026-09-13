@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the archived release and associated article."
+title: "Data and code for biotransformation-resolved network pharmacology of FMH materials in type 2 diabetes"
+type: software
+version: "1.0.0-submission"
+license: "MIT"
+authors:
+  - family-names: "Yu"
+    given-names: "Simiao"
+    affiliation: "Jiangnan University"
+  - family-names: "Lu"
+    given-names: "Xiaodong"
+    affiliation: "Jiangnan University"
+  - family-names: "Wang"
+    given-names: "Zhouping"
+    affiliation: "Jiangnan University"
+repository-code: "https://github.com/lory-Yu/FMH-BRNP-T2D"
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: "Insert after Zenodo archives the GitHub release"

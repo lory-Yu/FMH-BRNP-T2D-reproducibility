@@ -1,0 +1,545 @@
+representative_tautomer_parent_smiles	n_cids	cids	compound_names	n_herbs
+C#CCCCCCCCCCCCCCC[C]([O])[O]_1_0	2	585174;5312626	16-Heptadecynoic Acid; 16-heptadecynoic acid; 16-heptadecynoic acid	2
+C=C(C)C1CC=C(C)CC1_0_0	3	22311;176363;5317591	1-Methyl-4-(Prop-1-En-2-Yl)Cyclohex-1-Ene,Limonene,Dipentene,Î‘-Limonene; 1-Methyl-4-Prop-1-En-2-Ylcyclohexene; Alpha-Limonene; Dipentene; limonene; Bicyclo［3． 1． 1］Heptane,6,6-Dimethyl-2-Methylene; Hemo-sol; L-Limonen; L-limonen	50
+C=C(C)C1CC=C(C[O])CC1_1_0	2	10819;10549683	3,6,6-trimethyl-cyclohex-2-enol; Isocembrol; PERILLYL ALCOHOL; Sirenin; lanceol; [(4r)-4-isopropenyl-1-cyclohexenyl]methanol	11
+C=C(C)C1CCC2(C)CCC=C(C)C2C1_0_0	2	10123;21599927	(3R,4aR,8aR)-3-isopropenyl-5,8a-dimethyl-2,3,4,4a,7,8-hexahydro-1H-naphthalene; (3r,4ar,8ar)-3-isopropenyl-5,8a-dimethyl-2,3,4,4a,7,8-hexahydro-1h-naphthalene; OZQAPQSEYFAMCY-UHFFFAOYSA-N; α-Selinene	6
+C=C(C)C1CCC2(C)CCCC(=C)C2C1_0_0	2	190797;519361	Eudesma-4(14),11-Diene; YOVSPTNQHMDJAG-UHFFFAOYSA-N; Selinene; Wilforonide	19
+C=C(C)C1C[CH][C](C)[C]([O])C1_0_0	2	7439;10695370	2-methyl-5-(1-methylethenyl)-2-cyclohexen-1-one; CARVONE; Carvacrol; Carvone; carvone; L-carvone	16
+C=C(C)[C@@H]1CC[C@]2([C]([O])[O])CC[C@]3(C)[C@H](CC[C@@H]4[C@@]5(C)C[C@@H]([O])[C@H](O[C]([O])[CH][CH][C]6[CH][CH][C]([O])[CH][CH]6)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]12_3_0	2	11758552;102014801	3-O-(Cis-P-Coumaroyl)-Alphitolic Acid; 3-O-(Trans-P-Coumaroyl)-Alphitolic Acid	2
+C=C(CCC=C(C)C)C1CC=C(C)CC1_0_0	2	77667;403919	1,2,3,4,5-Pentamethylcyclopentadiene; Beta-bisabolene; beta-Bisabolene; 1-Methyl-4-(6-Methylhepta-1,5-Dien-2-Yl)Cyclohexene	19
+C=C(CCC=C(C)C)C1CCC=C(CCC=C(C)C)C1_0_0	2	5315649;12312687	Gamma-camphorene; OIRFZVJHADZVMD-UHFFFAOYSA-N	2
+C=C(CC[C@@H]([C]([O])[O])[C@H]1CC[C@@]2(C)[C]3[CH]C[C@H]4C(C)(C)[C]([O])CC[C@]4(C)[C]3[CH]C[C@]12C)C(C)C_1_0	2	12133302;24202864	Dehydroeburiconic Acid	3
+C=C1C2CCC(C2)C1(C)C_0_0	4	6616;28456;22155067;100966793	(-)-Comphene; (-)-comphene; Camphene; 2,2-Dimethyl-3-Methylenebicyclo[2.2.1]Heptane,Camphene; Camphene; camphene; CIPMFUYUYFTHPO-UHFFFAOYSA-N; D-camphene	41
+C=C1CC23CC1([O])CCC2C12C=CC([O])C(C)([C]([O])O1)C2C3[C]([O])[O]_3_0	2	10175;522636	Gibberellin; Gibberellin; gibberellin	3
+C=C1CCC(C(C)(C)[O])CC1_1_0	2	81722;11825153	Delta-Terpineol; Delta-terpineol; SQIFACVGCPWBQZ-UHFFFAOYSA-N; d- terpineol	7
+C=C1CCC(C(C)C)C2C=C(C)CCC12_0_0	2	15094;22457197	Naphthalene,1,2,3,4,4a,5,6,8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl)-,(1alpha,4abeta,8aalpha)-; WRHGORWNJGOVQY-UHFFFAOYSA-N	12
+C=C1CCC2(C(C)C)CC12_0_0	3	18818;146101;12133315	(1S,5S)-1-isopropyl-4-methylenebicyclo[3.1.0]hexane; (1s,5s)-1-isopropyl-4-methylenebicyclo[3.1.0]hexane; 1-Isopropyl-4-Methylenebicyclo[3.1.0]Hexane,Sabinene; Sabinene; sabinene; Sabinene	34
+C=C1CCC23C(C)CCC(C(C)C)C2C13_0_0	2	518814;14121774	Beta-cubebene; beta-Cubebene; FSRZGYRCMPZNJF-UHFFFAOYSA-N	12
+C=C1CCC2C(C3C(C)CCC13)C2(C)C_0_0	4	15507;91354;136316;11106484	(+)-aromadendrene; (1S,2S,4R)-2-methyl-3-methylene-2-(4-methylpent-3-enyl)norbornane; 1,2,3-trimethylcyclohexane; Alloaromadendrene; Alloaromadedrene; ITYNGVSTWVVPIC-UHFFFAOYSA-N; alloaromadedrene	29
+C=C1CCC2C(C3C1CCC3(C)[O])C2(C)C_1_0	2	522266;5495920	136458-42-9; FRMCCTDTYSRUBE-UHFFFAOYSA-N	7
+C=C1CCC2CC1C2(C)C_0_0	3	14896;184475;102216734	(-)-nopinene; 6,6-Dimethyl-2-Methylenebicyclo[3.1.1]Heptane,Î’-Pinene; 6,6-Dimethyl-2-Methylenebicyclo[3.1.1]Heptane,Β-Pinene; Beta-Pinene; beta-pinene; Β-Pinene; Beta-Pinene; Beta-pinene	65
+C=C1CCC2OC2(C)CCC2C1CC2(C)C_0_0	4	14350;7330518;15404650;15812759	(-)-Caryophyllene oxide; (-)-caryophyllene oxide; (2R)-7-hydroxy-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]chroman-4-one; Caryophyllene Epoxid; Caryophyllene epoxid; Caryophyllene Epoxide; NVEQFIOZRFFVFW-UHFFFAOYSA-N; Caryophyllene Oxide; Caryophyllene oxide	38
+C=C1CCC=C(C)CCC2C1CC2(C)C_0_0	2	2724702;101022604	Isocaryophyllene; Trans-Caryophyllene; Trans-caryophyllene	19
+C=C1CCCC2(C)CCC(C(C)(C)[O])CC12_1_0	2	521215;5365674	BOPIMTNSYWYZOC-UHFFFAOYSA-N; Beta-eudesmol	7
+C=C1CC[C@H]2/C(C)=C\C[C@@H]3[C@H](C(C)C)C[C]([O])[C@@]3(C)C[C@@H]12_0_0	6	62073;543335;5362687;5367670;6431297;129685482	(E)-13-Octadecenal; 13-Octadecenal; 7,11-Hexadecadienal; 9,17-octadecadienal; Cis-dodec-5-enal; Ergosta-7,22-Diene-3-One; ergosta-7,22-diene-3-one; hexadec-11-enal	9
+C=C1CC[C@H]2C(C)(C)CCC[C@]2(C)[C@H]1C[CH][C]([CH][O])C[CH][O]_0_0	2	9796432;11077520	(2E)-2-[2-[(1S,4aS,8aS)-5,5,8a-trimethyl-2-methylene-1-decalinyl]ethylidene]butanedial; (E)-Labda-8(17),12-Diene-15,16-Dial; Labda-8(17),12-Diene-15,16-Dial; Labdadienedial	2
+C=CC(C)(CCC=C(C)C)O[C]([O])[C]1[CH][CH][CH][CH][C]1[N]_2_0	2	23535;101763917	2-Aminobenzoate-3,7-Dimethyl-1,6-Octadien-3-Ol; 2-aminobenzoate-3,7-dimethyl-1,6-octadien-3-ol; 3,7-Dimethylocta-1,6-Dien-3-Yl 2-Aminobenzoate; linalyl anthranilate; 2-aminobenzoate-3,7-dimethyl-1,6-octadien-3-ol	4
+C=CC(C)([O])CCC=C(C)C_1_0	3	6549;105119;131752713	(R)-Linalool; (R)-linalool; (r)-linalool; 3,7-dimethyl-1,6-octadien-3-ol; Linalool; linalool; Β-Linalool	84
+C=CC1(C)CCC(C(=C)C)CC1C(=C)C_0_0	2	10583;114523	(-)-cis-.beta.-Elemene; (1r,2r,4s)-2,4-diisopropenyl-1-methyl-1-vinylcyclohexane; Cyclohexane, 1-Ethenyl-1-Methyl-2,4-Bis(1-Methylethenyl)-, (1R,2R,4S)-Rel-; OPFTUNCRGUEPRZ-UHFFFAOYSA-N; (1R,2R,4S)-2,4-diisopropenyl-1-methyl-1-vinylcyclohexane; Beta-Elemene; Beta-elemene; beta-elemene	27
+C=CC1(C)CCC(C(C)(C)[O])CC1C(=C)C_1_0	2	129540;5320322	2-[(1R,3S,4S)-3-Isopropenyl-4-Methyl-4-Vinylcyclohexyl]Propan-2-Ol; 2-[(1R,3S,4S)-3-isopropenyl-4-methyl-4-vinylcyclohexyl]propan-2-ol; 2-[(1r,3s,4s)-3-isopropenyl-4-methyl-4-vinylcyclohexyl]propan-2-ol; Elemol	10
+C=CC1(C)CCC(C(C)(C)[O])O1_1_0	2	22310;159549	BRHDDEIRQPDPMG-UHFFFAOYSA-N; Linalool Oxide; epoxylinalool; linalool oxide; Linalool oxide	11
+C=CCCCCCCCCCCCCCC_0_0	2	12395;124355840	1-Hexadecene; Cetene; Cetene; Hexadec-1-Ene	11
+C=CC[C]1[CH][CH][C](OC)[CH][CH]1_0_0	2	8815;101297625	1-methoxy-4-(2-propenyl)-benzene; Estragole; Methylchavicol; Terragon; Terragon	33
+C=CC[C]1[CH][CH][C]([O])[C](OC)[CH]1_1_0	2	3314;21972505	Eugenol; eugenol; RAXFJUTZIXCEPR-UHFFFAOYSA-N; SCHEMBL219169	42
+C=CC[C]1[CH][CH][C]([O])[C]([C]2[CH][CH][C]([O])[C](CC=C)[CH]2)[CH]1_2_0	2	72303;5317132	Honokiol; Honokiol; Magnolol; honokiol	3
+C=CC[C]1[CH][CH][C]2OCO[C]2[CH]1_0_0	2	5144;44575609	Safrol; Safrole; safrole	20
+C=CC[C]1[CH][C](OC)[C]2OCO[C]2[CH]1_0_0	2	4276;101606639	Elemicin; Myristicin; myristicin; 1,3-Benzodioxole,4-methoxy-6-(2-propenyl)-; asaricin; Myristicin	31
+C=C[C@H]1[C@H](O[C@@H]2O[C@H](C[O])[C@@H]([O])[C@H]([O])[C@H]2[O])O[CH][C]([C]([O])[O])[C@H]1[CH][CH][C]1[CH][CH][CH]N([C@H](C[C]2[CH][CH][CH][CH][CH]2)[C]([O])[O])[CH]1_5_0	2	76309955;76328126	Lonijaposide R; Lonijaposide S	2
+CC(=CC[O])CCCC(C)CCCC(C)CCCC(C)C_1_0	2	145386;56842093	BOTWFXYSPFMFNR-UHFFFAOYSA-N; Phytol	10
+CC(C)(C[O])C([O])[C]([O])[N]CC[C]([O])[O]_4_0	3	988;11093434;11117575	3-[[(2S)-2,4-dihydroxy-3,3-dimethylbutanoyl]amino]propanoic acid; Pantothenic Acid, Racemic; PAU; Pau; Vitamin b5	12
+CC(C)(C[O])[C@@H]([O])[C]([O])[N]CC[C]([O])[O]_4_0	2	6613;167945	GHOKWGTUZJEAQD-ZETCQYMHSA-M; Pantothenic Acid; Pantothenic acid; Vitamin B5; n.a.	9
+CC(C)([O])C1CO[C]2[CH][C]3O[C]([O])[CH][CH][C]3[CH][C]21_1_0	2	5365828;49874704	Marmesine; Marmesine; Marmesine;nodakenetin	2
+CC(C)([O])CCC([O])C(C)([O])C1CCC2([O])[C]3[CH][C]([O])C4CC([O])C([O])CC4(C)C3CCC12C_6_0	2	5315539;5459840	20-HYDROXYECDYSONE; Ecdysterone,Folic Acid; Ecdysterone	8
+CC(C)([O])[C@@H]1CC[C@](C)([C@H]2[C@@H]([O])C[C@@]3(C)C4C[C@H](O[C@@H]5OC(C[O])[C@@H]([O])C([O])[C@@H]5[O])C5C(C)(C)[C@@H](O[C@@H]6OC[C@@H]([O])C([O])[C@@H]6[O])CC[C@@]56C[C@@]46CC[C@]23C)O1_9_0	2	500122;129012668	(1R,2S,4S,5R)-angelicoidenol 2-O-beta -D-glucopyranoside; (25S)-5β-sprostane-3β-ol-3-O-α-Lrhamnopyranosyl; 5alpha,6alpha-expoxymogroside I E1; Ethyl glucoside; Pseudoginsenoside-RT5; agroastragalosides IV; cinncassiol D2; 5alpha,6alpha-expoxymogroside I E1	9
+CC(C)=C1CCC(C)C2=C(C1)C(C)CC2_0_0	2	6949;11282465	GIBQERSGRNPMEH-UHFFFAOYSA-N; Β-Guaiene; Guaiene	7
+CC(C)=CCCC(C)([O])C1CCC2(C)C1C([O])CC1C3(C)CCC(OC4OC(C[O])C([O])C([O])C4[O])C(C)(C)C3CCC12C_6_0	3	119307;14081290;14526927	(20R)-Ginsenoside Rh2; 20(r)-ginsenoside-rh2; Ginsenoside Rh2; ginsenoside Rh2; ginsenoside rh2	9
+CC(C)=CCCC(C)C[CH][O]_0_0	2	7794;10909635	(r)-citronellal; 3,7-Dimethyloct-6-Enal; citronellal	11
+CC(C)=CCCC1(C)C2CC=C(C)C1C2_0_0	3	86608;627188;14827260	(1r,5r,7s)-4,7-dimethyl-7-(4-methylpent-3-enyl)bicyclo[3.1.1]hept-3-ene; Alpha-Bergamotene; YMBFCQPIMVLNIU-UHFFFAOYSA-N; Î‘-Bergamotene; Α-Bergamotene; Alpha-bergamotene	16
+CC(C)=CCC[C@](C)(O[C@@H]1O[C@H](C[O])[C@@H]([O])[C@H]([O])[C@H]1[O])[C@H]1CC[C@]2(C)[C@@H]1[C@H]([O])C[C@@H]1[C@@]3(C)CC[C@H](O[C@@H]4O[C@H](C[O])[C@@H]([O])[C@H]([O])[C@H]4[O])C(C)(C)[C@@H]3[C@@H]([O])C[C@]12C_10_0	2	76602687;118721996	Ginsenoside Ia	2
+CC(C)=CC[C]1[CH][C]([CH][CH][C]([O])[C]2[CH][CH][C]([O])[CH][C]2[O])[CH][CH][C]1[O]_3_0	2	5370090;11099375	(E)-1-(2,4-dihydroxyphenyl)-3-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]prop-2-en-1-one; (e)-1-(2,4-dihydroxyphenyl)-3-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]prop-2-en-1-one; Licoagrochalcone A	2
+CC(C)=CC[C]1[CH][C]([CH][CH][C]([O])[C]2[CH][CH][C]([O])[CH][C]2[O])[CH][C]([O])[C]1[O]_4_0	2	10085385;11267805	(E)-3-[3,4-Dihydroxy-5-(3-Methylbut-2-Enyl)Phenyl]-1-(2,4-Dihydroxyphenyl)Prop-2-En-1-One; (E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one; 5-prenylbutein	2
+CC(C)=CC[C]1[C]([O])[CH][C]([O])[C]2[C]([O])[C]([C]3[CH][CH][C]([O])[CH][CH]3)[CH]O[C]12_3_0	2	5317480;25246032	Lupiwighteone; YGCCASGFIOIXIN-UHFFFAOYSA-M	3
+CC(C)=CC[C]1[C]([O])[C]2[C]([O])[CH][C]([O])[C](CC=C(C)C)[C]2O[C]1[C]1[CH][CH][C]([O])[CH][C]1[O]_4_0	2	5481958;91749747	Kuwanon C; Mulberrin; kuwanon c; Kuwanon c	4
+CC(C)C(C)CCC(C)C1CCC2C3CC=C4CC([O])CCC4(C)C3CCC12C_1_0	2	312822;51394521	Campesterol; SGNBVLSWZMBQTH-UHFFFAOYSA-N	15
+CC(C)C1C=CC(C)([O])CC1_1_0	2	10279;526657	IZXYHAXVIZHGJV-UHFFFAOYSA-N; Trans-p-2-menthen-1-ol; trans-p-2-Menthen-1-ol	3
+CC(C)CO[C]([O])[C]1[CH][CH][CH][CH][C]1[C]([O])OCC(C)C_0_0	2	6782;5318265	1,2-benzene dicarboxylic acid-bis-(2-methyl)-propyl ester; Bis(2-Methylpropyl) Benzene-1,2-Dicarboxylate; Diisobutyl Phthalate; Diisobutyl phthalate; Isobutyl Phthalate; diisobutyl phthalate; DIBP; Dibp	36
+CC(C)C[C]([O])[O]_1_0	2	10430;3587356	3-Methylbutanoic Acid; Isovaleric Acid; Isovaleric Acid,Lupeol; Isovaleric acid; Iva; bornyl isovalerate;bornyl isovalerianate;Isobornyl;Isobornyl isovalerate; Isovalerate	7
+CC(C)C[C]1[CH][CH][C]([C@@H](C)[C]([O])[O])[CH][CH]1_1_0	2	3672;114864	GRO	2
+CC(C)O[C]([O])[CH][CH][C]1[CH][CH][CH][CH][CH]1_0_0	2	24521;5273464	Isopropyl Cinnamate; RGACABDFLVLVCT-UHFFFAOYSA-N	2
+CC(C)[C@H]([C][N])O[C@@H]1O[C@H](C[O])[C@@H]([O])[C@H]([O])[C@H]1[O]_4_0	2	181804;185872	Heterodendrin	2
+CC(C)[C@H]([N])[C]([O])[O]_3_0	2	6287;6971018	(2S)-2-Azaniumyl-3-Methylbutanoate; L-Valine; Valine; valine	22
+CC(C)[C]([O])[O]_1_0	2	6590;168034	Ammonium Isobutyrate; ISOBUTYRIC ACID; Isobutyric Acid; isobutyric acid	4
+CC(C)[C]1[CH][CH][C]([CH][O])[CH][CH]1_0_0	2	326;138113962	Cumaldehyde; Cuminaldehyde; cuminal; Cuminal	12
+CC([CH][O])C[C]1[CH][CH][CH][CH][CH]1_0_0	2	95593;137705381	(2S)-2-methyl-3-phenylpropanal; (2s)-2-methyl-3-phenylpropanal; HEPHYCJJLAUKSB-UHFFFAOYSA-N	2
+CC([N])[C]([O])[O]_3_0	2	602;12148519	Alanine; DL-alanine; LPG; Lpg	14
+CC([O])(C[C]([O])[O])C[C]([O])[O]_3_0	2	1662;5459993	Meglutol; NPOAOTPXWNWTSH-UHFFFAOYSA-L	3
+CC([O])C([O])[C]1[N][C]2[C]([O])[N][C]([N])[N][C]2[N][C]1[O]_6_0	2	6325360;135449065	7-hydroxybiopterin; IZMMJLZUJAZKES-UHFFFAOYSA-N	2
+CC([O])[C]([O])[O]_2_0	3	612;91435;6536825	Lactate; Lactic Acid; lactic acid; Magnesium Lactate	16
+CC1(C)C2CC3C1C3(C)C2_0_0	2	79022;5318213	1,3,3-Trimethyltricyclo[2.2.1.02,6]Heptane; 1,3,3-trimethyltricyclo[2.2.1.02,6]heptane; NZXWDTCLMXDSHY-UHFFFAOYSA-N; cyclofenchene; Cyclofenchene	9
+CC1(C)C2CC=C(C[O])C1C2_1_0	2	10582;101269301	19894-97-4; Myrtenol; bicyclo[3.1.1]hept-2-ene-2-methanol, 6,6-dimethyl-	7
+CC1(C)C2CCC1(C)C([O])C2_1_0	2	64685;77244	(-)-Borneol; borneol; D-isoborneol	6
+CC1(C)C2CC[C@]3(C)[C@H]([C]([O])[CH][C]4[C@@H]5C[C@@](C)([C]([O])[O])CC[C@]5(C)CC[C@]43C)[C@@]2(C)CC[C@@H]1O[C@H]1O[C@H]([C]([O])[O])[C@@H]([O])[C@H]([O])[C@H]1O[C@@H]1O[C@H]([C]([O])[O])[C@@H]([O])[C@H]([O])[C@H]1[O]_8_0	2	16213698;46902095	ILRKKHJEINIICQ-UIAZACTHSA-O; SMR000875236; LPLVUJXQOOQHMX-RQJCKTROSA-N	2
+CC1(C)C2C[CH][C]([CH][O])C1C2_0_0	2	2;61130	6,6-dimethyl-Bicyclo[3.1.1]hept-2-ene-2-carboxaldehyd; KMRMUZKLFIEVAO-UHFFFAOYSA-N; Myrtenal; Myrtenal	10
+CC1(C)CCC2(C)CCC3(C)C(=CCC4C5(C)CCC([O])C(C)(C)C5CCC43C)C2C1_1_0	2	225689;11046840	B-amyrin; b-AMYRIN; JFSHUTJDVKUMTJ-UHFFFAOYSA-N	10
+CC1(C)CCCC2(C)O[C]([O])[CH][C]12_0_0	2	27209;576719	(7aR)-4,4,7a-trimethyl-6,7-dihydro-5H-benzofuran-2-one; (7ar)-4,4,7a-trimethyl-6,7-dihydro-5h-benzofuran-2-one; Dihydroactindiolide	3
+CC1(C)CC[C@]2([C]([O])[O])CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)C[C@@H]([O])[C@H](O[C]([O])[CH][CH][C]6[CH][CH][C]([O])[CH][CH]6)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]2C1_3_0	2	14335962;101001054	3-O-(Cis-P-Coumaroyl)-Maslinic Acid; 3-O-(Trans-P-Coumaroyl)-Maslinic Acid	2
+CC1(C)C[C@@H]([O])[C@]2(C)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O[C@@H]6O[C@H]([C]([O])[O])[C@@H]([O])[C@H]([O])[C@H]6O[C@@H]6O[C@H](C[O])[C@H]([O])[C@H]([O])[C@H]6[O])[C@](C)(C[O])[C@@H]5CC[C@]43C)[C@@H]2C1_9_0	2	21607811;53477656	OKIHRVKXRCAJFQ-AHBDIROXSA-M; OKIHRVKXRCAJFQ-AHBDIROXSA-N; Soyasaponin Iii; soyasponinⅢ	3
+CC1(C)OC1CO[C]1[C]2O[CH][CH][C]2[CH][C]2[CH][CH][C]([O])O[C]21_0_0	2	182251;11833147	9-[[(2R)-3,3-dimethyloxiran-2-yl]methoxy]furo[3,2-g]chromen-7-one; 9-[[(2r)-3,3-dimethyloxiran-2-yl]methoxy]furo[3,2-g]chromen-7-one; Oxyimperatorin; Prangenin	2
+CC1(C)[C@@H](O[C@H]2O[C@H]([C]([O])[O])[C@@H]([O])[C@H]([O])[C@H]2O[C@@H]2O[C@H]([C]([O])[O])[C@@H]([O])[C@H]([O])[C@H]2[O])CC[C@]2(C)[C@H]3[C]([O])[CH][C]4[C@@H]5C[C@@](C)([C]([O])[O])CC[C@]5(C)CC[C@@]4(C)[C@]3(C)CC[C@@H]12_8_0	5	62074;656656;656852;5460305;24821862	Ammonium Glycyrrhizate; Monoammonium Glycyrrhizinate; Glycyrrhizinate Dipotassium; ILRKKHJEINIICQ-OOFFSTKBSA-O; LPLVUJXQOOQHMX-QWBHMCJMSA-K; SPPIIOPGDLITJE-VLQRKCJKSA-N	5
+CC1(C)[CH][CH][C]2[CH][C]3[C]([CH][C]2O1)O[C@@H]1[C]2[CH][CH][C]([O])[CH][C]2OC[C@]31[O]_2_0	2	5318770;14630495	Tuberosin	2
+CC12C=CC(CC1)C2(C)C_0_0	2	10047;10532968	(1R,4S)-1,7,7-trimethylbicyclo[2.2.1]hept-2-ene; (1r,4s)-1,7,7-trimethylbicyclo[2.2.1]hept-2-ene; Bornylene	2
+CC12CCC(C[C]1[O])C2(C)C_0_0	3	2537;24774881;50986185	(s)-camphor; 4,7,7-Trimethylbicyclo[2.2.1]Heptan-3-One; Camphor; camphor; Cam	35
+CC1=C2C(CC1)C(C)CCC1C2C1(C)C_0_0	2	521243;11568667	Alpha-Guriunene; Alpha-gurjunene; n.a.	4
+CC1=C2CC3CCC(C)C2(CC1)C3(C)C_0_0	2	99856;469209	Cyperene; RTBLDXVIGWSICW-UHFFFAOYSA-N; Î‘-Cyperene; Α-Cyperene	3
+CC1=C2[C@@H]3CC[C@@H](C)[C@@]2(CC1)CC3(C)C_0_0	2	21574489;73797128	Ginsinsene	2
+CC1=CC2C(C(C)C)CCC(C)([O])C2CC1_1_0	3	90971;519662;9840703	1,2,3,4,5,6-hexahydro-1,1,5,5-tetramethyl-7H-2,4a-methanonaphthalen-7-one; Δ-cadinol; δ-cadinol; Alpha-cadinol; LHYHMMRYTDARSZ-UHFFFAOYSA-N	12
+CC1=CC2C(CC1)C(C)=CCC2C(C)C_0_0	2	101708;10885642	1,2,4A,5,6,8A-Hexahydro-4,7-Dimethyl-1-(1-Methylethyl)Naphthalene; QMAYBMKBYCGXDH-UHFFFAOYSA-N; Alpha-muurolene; Alphacadinene	16
+CC1=CC2C(CC1)C2(C)C_0_0	2	79044;139583819	.alpha.-Carene; .alpha.-carene; 2-Carene	6
+CC1=CCC(=C(C)C)CC1_0_0	2	11463;21632843	A-Terpinolene; Alpha-Terpinolene; D-Terpinolene; Terpinolene; Terpinolene,Î‘-Terpinolene; delta-Terpinene; terpinolene; Tereben	36
+CC1=CCC(C(C)(C)[O])CC1_1_0	3	17100;549821;10948236	(l)-alpha-terpineol; 2-(4-Methylcyclohex-3-En-1-Yl)Propan-2-Ol; alpha-terpineol; alpha-terpinol; Î‘-Terpineol; Alpha-terpineol	76
+CC1=CCC([O])(C(C)C)CC1_1_0	3	11230;5365718;14440539	(R)-p-Menth-1-en-4-ol; (r)-p-menth-1-en-4-ol; [10]-Gingerdione; 1-Isopropyl-4-Methylcyclohex-3-Enol,4-Terpineol; 1-Terpinen-4-Ol; 4-Carvomenthenol; 4-methyl-1-isopropyl-3-cyclohexen-1-ol; Terpinene-4-Ol; Terpineol; terpinen-4-ol; 4-Terpineol; 4-terpineol; Terpinen-4-ol	65
+CC1=CCC2(C(C)C)CC12_0_0	2	17868;30874	(5S)-1-isopropyl-4-methylbicyclo[3.1.0]hex-3-ene; 5-Isopropyl-2-Methylbicyclo[3.1.0]Hex-2-Ene; 5-Isopropyl-2-Methylbicyclo[3.1.0]Hex-2-Ene,Î‘-Thujene; 5-isopropyl-2-methylbicyclo[3.1.0]hex-2-ene; KQAZVFVOEIRWHN-UHFFFAOYSA-N; 21964-48-7; 5-Isopropyl-2-Methylbicyclo[3.1.0]Hex-2-Ene,Α-Thujene; Thujene	17
+CC1=CCC2(C)CC[C@H](C(C)C)C2([O])CC1_1_0	2	101679;442347	C09628; Carotol; Carotol	4
+CC1=CCC23C(C)CCC(C(C)C)C2C13_0_0	2	86609;156852	Alpha-Cubebene; Alpha-cubebene; alpha-Cubebene; XUEHVOLRMXNRKQ-UHFFFAOYSA-N; Î‘-Cubebene; Α-Cubebene	19
+CC1=CCC23CC1C(C)(C)C2CCC3C_0_0	3	521207;3083821;21575638	(-)-alpha-cedrene; Alpha-cedrene; CEDRENE; Cedrene	12
+CC1=CCC2C(C1)C2(C)C_0_0	3	26049;5312412;21629956	10-Hexadecenoic Acid; 3-Carene; 3-carene; 3,7,7-Trimethylbicyclo[4.1.0]Hept-3-Ene,3-Carene; 3-Carene; 3-carene; Car-3-Ene; Car-3-ene; Carene; CHEBI:7; Chebi:7	34
+CC1=CCC2C3C(C(C)C)CCC2(C)C13_0_0	2	19725;5312738	Copaene; VLXDPFLIRFYIME-UHFFFAOYSA-N; alpha-copaene	19
+CC1=CCC2CC1C2(C)C_0_0	2	5312740;5319391	(-)-Alpha-Pinene; (-)-alpha-Pinene; (-)-alpha-pinene; Alpha-Pinene; TMH; Tmh	61
+CC1=CCC2CC1OC2(C)C_0_0	2	101153;11349632	Pinol; pinol	2
+CC1=C[C@@H]2[C]3[C]([O])[CH][C]([C]4[CH][C]5[CH][CH][C]([O])[CH][C]5O4)[CH][C]3O[C@]3([C]4[CH][CH][C]([O])[CH][C]4[O])O[C]4[CH][C]([O])[CH][CH][C]4[C@@H](C1)[C@H]23_5_0	2	441780;44567218	Albanol A	2
+CC1=C[C@H]2[C]3[C]([O])[CH][C]([C]4[CH][C]5[CH][CH][C]([O])[CH][C]5O4)[CH][C]3O[C@@]3([C]4[CH][CH][C]([O])[CH][C]4[O])O[C]4[CH][C]([O])[CH][CH][C]4[C@H](C1)[C@@H]23_5_0	2	196583;9959532	Albanol; Albanol; mulberrofuran G	2
+CC1C=CC2(C(C)C)CC12_0_0	2	520384;21579277	Beta-thujene; GJYKUZUTZNTBEC-UHFFFAOYSA-N	6
+CC1CCC2(C)CCC3(C)C(=CCC4C5(C)CCC([O])C(C)(C)C5CCC43C)C2C1C_1_0	2	73170;225688	3-epi-β-amyrin; Alpha-Amyrin; Alpha-amyrin; alpha-amyrin; α-amyrin	15
+CC1CCC2([C]([O])[O])CCC3(C)C(=CCC4C5(C)CC([O])C([O])C(C)(C)C5CCC43C)C2C1(C)[O]_4_0	2	13653335;91011108	OXVUXGFZHDKYLS-UHFFFAOYSA-N; Tormentic acid; n.a.	3
+CC1CCC2C1C1C(CCC2(C)[O])C1(C)C_1_0	2	101716;101232077	(+)-Ledol; (+)-ledol; Globulol; AYXPYQRXGNDJFU-UHFFFAOYSA-N	13
+CC1OC(OCC2OC(O[C]3[C]([O])[C]4[C]([O])[CH][C]([O])[CH][C]4O[C]3[C]3[CH][CH][C]([O])[C]([O])[CH]3)C([O])C([O])C2[O])C([O])C([O])C1[O]_10_0	2	10473975;142229057	Quercetin,3-o-rutinoside; quercetin,3-o-rutinoside; Rutin	26
+CC1OC(O[C]2[CH][C]([O])[C]3[C]([CH]2)O[C]([C]2[CH][CH][C]([O])[CH][CH]2)[C](OC2OC(C)C([O])C([O])C2[O])[C]3[O])C([O])C([O])C1[O]_8_0	2	12305415;101769703	Kaempferitrin; PUPKKEQDLNREIM-UHFFFAOYSA-N	5
+CC1[C]([O])CC2(C(C)C)CC12_0_0	2	11027;10869933	(1R,4R,5S)-1-isopropyl-4-methyl-3-bicyclo[3.1.0]hexanone; (1r,4r,5s)-1-isopropyl-4-methyl-3-bicyclo[3.1.0]hexanone; USMNOWBWPHYOEA-UHFFFAOYSA-N	3
+CC1[C]([O])CCC2C1(C)CCC1C2(C)CCC2(C)C3CC(C)(C)CCC3(C)CCC12C_0_0	2	244297;5317128	FRIEDELIN; Friedelin; Friedelan-3-One; OFMXGFHWLZPCFL-UHFFFAOYSA-N; friedelan-3-one	20
+CC1[C]([O])OC2CC34C5CC(C(C)(C)C)C36C(O[C]([O])C6[O])OC4([C]([O])O5)C21[O]_2_0	3	101115;115221;552393	FPUXKXIZEIDQKW-UHFFFAOYSA-N; Ginkgolid A; Ginkgolid a; Ginkgolide a; n.a.	5
+CCC(C)C1[N][C]([O])C2C(CCN2[C]([O])C([N][C]([O])C(C[C]2[CH][CH][CH][CH][CH]2)N(C)C)C(C)CC)O[C]2[CH][CH][C]([CH][CH][N][C]1[O])[CH][CH]2_3_0	2	5318120;12306074	VNEXXKFUERBRNG-CZIZESTLSA-N; VNEXXKFUERBRNG-ZZEZOPTASA-N; amphibine D	3
+CCC(C)CCCC(C)CCCC(C)CCCC(C)C_0_0	2	12523;5465785	2,6,10,14-Tetramethylhexadecane; 2,6,10,14-tetramethylhexadecane; phytane; 2,6,10,14-tetramethyl-hexadecane	8
+CCC(C)C[O]_1_0	2	8723;15268	2-Methyl Butanol; 2-Methylbutan-1-Ol; 2-Methyl-Tetradecane; 2-methyl-1-butanol	5
+CCC(CCC(C)C1CCC2C3CC=C4CC([O])CCC4(C)C3CCC12C)C(C)C_1_0	2	86821;101594685	Beta-sitosterol; Gamma-Sitosterol; KZJWDPNRJALLNS-UHFFFAOYSA-N	72
+CCC1CN2CCC3([C]([O])[N][C]4[CH][CH][CH][CH][C]43)C2CC1[C]([CH]OC)[C]([O])OC_1_0	3	643726;5281408;12360346	1-Hydroxy-7-methoxy-3-methyl-anthraquinone; Corynoxine b; Isorhyncophylline; Rhynchophylline	9
+CCC=CCCO[C](C)[O]_0_0	3	15574;10920530;21121210	Hex-3-Enyl Acetate; Hex-3-enyl acetate; Hex-3-enyl acetate; Leaf acetate	7
+CCC=CCC[O]_1_0	2	10993;57043798	Gamma-hexenol; gamma-Hexenol; UFLHIIWVXFIJGU-UHFFFAOYSA-N	11
+CCCC(CC(CC[C]1[CH][CH][C]([O])[C](OC)[CH]1)O[C](C)[O])O[C](C)[O]_1_0	2	5318274;71726240	1-(4-hydroxy-3-methoxyphenyl)-3,5-diacetoxytane; AUBPDZJRJKZQEX-UHFFFAOYSA-N	2
+CCCC(CCC)[C]([O])[O]_1_0	3	3121;86480;23663956	Calcium valproate; DIVALPROEX SODIUM; VALPROIC ACID	3
+CCCCC/C=C/C/C=C/CCCCCCC[C]([O])[O]_1_0	2	5282457;5867807	9,12-Octadecadienoate; OYHQOLUKZRVURQ-AVQMFFATSA-N	12
+CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCC[C]([O])[O]_1_0	2	231;5460265	arachidonate; cis-11,14,17-Eicosatrienoic acid	5
+CCCCC=CCCCCCCCCC[C]([O])[O]_1_0	2	442108;543388	11Z-hexadecenoic acid; 11z-hexadecenoic acid; JGMYDQCXGIMHLL-UHFFFAOYSA-N	3
+CCCCCC([O])[CH][CH][CH][CH]CCCCCCC[C]([O])[O]_2_0	2	1424;5282948	13-hydroxy-9,11-octadecadienoic acid; TRANS-12-CONJUGATEDLINOLEICACID	2
+CCCCCC/C=C\CCCCCCC[C]([O])[O]_1_0	2	4668;5461012	(1S,2R,4aS,6aR,6aS,6bR,8aR,12aR,14bS)-1,2,6a,6b,9,9,12a-heptamethyl-10-oxo-1,2,3,4,5,6,6a,7,8,8a,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid; 9-hydroxy-(10E)-octadecenoic acid; BRASSIDIC ACID; VCA; ω-Hexadecenoic acid; Palmitoleate	6
+CCCCCC=CCC=CCCCCCCCCO[C](C)[O]_0_0	2	5493674;44134803	KFXARGMQYWECBV-UHFFFAOYSA-N; Linoleyl acetate	3
+CCCCCC=CCC=CCCCCCCC[C]([O])OC_0_0	2	8203;588777	Methyl linoleate; WTTJVINHCBCLGX-UHFFFAOYSA-N	15
+CCCCCC=CCC=CCCCCCCC[C]([O])[O]_1_0	2	20615;44134802	1,1,3-trimethylcyclopentane; EIC; Eic; Trans-9,trans-12-linoleicacid; Trans-9-trans-12-linoleic acid; WYPBVHPKMJYUEO-UHFFFAOYSA-M	50
+CCCCCCCC/C=C/CCCCCCC[C]([O])[O]_1_0	3	637517;5461071;6433328	11-hydroxy-(9z)-octadecenoic,acid; Maslinic acid; Methyl erucate; cis-10-nonadecenoic acid; Elaidic Acid; Elaidic Acid,Oleic Acid; Neosclerol	19
+CCCCCCCCC=CCCCCC[C]([O])[O]_1_0	2	543268;16681563	7-hexadecenoic acid; Hypogaeic Acid; Hypogaeic acid; Hypogaeic acid	3
+CCCCCCCCCC([O])CCCCCCCCC_1_0	2	85611;545608	10-nonadecanol; Nonacasyl Alcohol-10; ACMBVSPXQQUNOF-UHFFFAOYSA-N; Nonacasyl Alcohol-10	4
+CCCCCCCCCCCCCCCCCCCC([O])CCCCCCCCC_1_0	2	75550;240925	10-nonacosanol; Ginnol	5
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC_0_0	2	11008;61031	Bicetyl; Bicetyl; QHMGJGNTMQDRQA-UHFFFAOYSA-N; n-Dotriacontane	5
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC[C]([O])[O]_1_0	2	10471;5461027	Melissate; VHOCUJPBKOZGJD-UHFFFAOYSA-M; Melissic Acid; Melissic acid; TRIACONTANOIC ACID; Triacontanoic Acid	4
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC_0_0	2	12409;11189523	Nonacosane; Nonacosane; n-nonacosane; nonacosane	38
+CCCCCCCCCCCCCCCCCCCCCCCCCCCC[O]_1_0	2	68406;6325680	1-Octacosanol,N-Octacosanol; Octacosanol; 1-Octacosanol; 1-Octacosanol,N-Octacosanol; Octacosan-1-Ol; Octacosanol	7
+CCCCCCCCCCCCCCCCCCCCCCCCCCC[C]([O])[O]_1_0	3	10470;572347;5461029	1,4-diethyl-1,4-dimethyl-2,5-cyclohexadiene; Octacosanate; Montanic acid; N-Octacosanoic Acid; OCTACOSANOIC ACID; Octacosanoate	12
+CCCCCCCCCCCCCCCCCCCCCCC[C]([O])[O]_1_0	3	11197;5461021;13966509	Lignoceric Acid; QZZGJDVWLFXDLK-UHFFFAOYSA-M; Tetracosanoate; Lignoceric Acid; lignoceric acid; n-tetracosanoic acid; n.a.; Tetracosanoic acid	30
+CCCCCCCCCCCCCCCCCCCCCCC_0_0	2	12534;21577055	FIGVVZUWCLSUEI-UHFFFAOYSA-N; N-Tricosane; Tricosane; tricosane; N-Tricosane; Tricosane	16
+CCCCCCCCCCCCCCCCCCCCCC_0_0	2	12405;93476677	Docosane; HOWGUJZVBDQJKV-UHFFFAOYSA-N; n-docosane; Docosane; TWT; Twt	24
+CCCCCCCCCCCCCCCCCCCCC[C]([O])[O]_1_0	2	8215;5460660	Behenate; Behenic Acid; Docosanoic Acid; behenic acid	29
+CCCCCCCCCCCCCCCCCCCC[O]_1_0	2	12404;5365675	1-Eicosanol; Eicosanol; Eicosanol	5
+CCCCCCCCCCCCCCCCCCC[C]([O])OC_0_0	2	14259;5319753	Methyl Icosanoate; Methyl icosanoate; QGBRLVONZXHAKJ-UHFFFAOYSA-N; Methyl icosanoate	9
+CCCCCCCCCCCCCCCCCCC[C]([O])[O]_1_0	3	10467;588163;5461017	Arachic Acid; Arachic acid; Arachidic Acid; Eicosanoic acid; Elcosanoic Acid; Arachic acid; Arachidic Acid; Arachidic acid; Elcosanoic Acid; Icosanoate; VKOBVWXKNCXXDE-UHFFFAOYSA-M	44
+CCCCCCCCCCCCCCCCCCC_0_0	2	12401;12431569	LQERIDTXQFOHKA-UHFFFAOYSA-N; N-Nonadecane; Nonadecane; nonadecane; Nonadecane; UPL; Upl	36
+CCCCCCCCCCCCCCCCCC_0_0	3	11635;520295;86172616	N-Octadecane; Octadecane; N-Octadecane; Oktadekan; RZJRJXONCZWCBN-UHFFFAOYSA-N; octadecane; Oktadekan	34
+CCCCCCCCCCCCCCCCC[CH][CH][C]([O])[O]_1_0	3	3035221;6438157;46234793	FIKTURVKRGQNQD-HNENSFHCSA-N; FIKTURVKRGQNQD-UHFFFAOYSA-N; FIKTURVKRGQNQD-VHEBQXMUSA-N	3
+CCCCCCCCCCCCCCCCC[C]([O])OCC(CO[C]([O])CCCCCCCCCCCCCCCCC)O[C]([O])CCCCCCCCCCCCCCCCC_0_0	2	11146;6451043	DCXXMTOCNZCJGO-UHFFFAOYSA-N; Stearin; TGL; Tgl	12
+CCCCCCCCCCCCCCCCC[C]([O])[O]_1_0	3	5281;189686;3033836	Octadecanoic Acid; Stearic Acid; stearic acid; QIQXTHQIDYTFRH-UHFFFAOYSA-M; Stearate; Stearic acid	130
+CCCCCCCCCCCCCCCC[CH][CH][CH][CH][C]([O])[O]_1_0	2	68262;54192568	2,6-Dimethoxy-1,4-benzoquinone; Ajugasterone B; Heneicosadienoic acid; heneicosadienoic acid	4
+CCCCCCCCCCCCCCCC[C]([O])OC_0_0	2	15609;52325855	Methyl Margarate; Methyl margarate; Methyl margarate	6
+CCCCCCCCCCCCCCCC_0_0	2	11006;23643241	Hexadecane; Hexadecane; N-Hexadecane; hexadecane; n-hexadecane	36
+CCCCCCCCCCCCCCC[CH][O]_0_0	2	984;101751331	Hexadecanal; Palmitaldehyde; PLY; Ply	9
+CCCCCCCCCCCCCCC[C]([O])OC_0_0	2	8181;5319524	Hexadecanoic Acid Methyl Ester; METHYL PALMITATE; Methyl Hexadecanate,Methyl Palmitate; methyl palmitate; Methyl Palmitate; Methyl palmitate; methyl palmitate	66
+CCCCCCCCCCCCCCC[C]([O])[O]_1_0	4	985;5326436;11299669;21577099	1-nonanoic acid; Cetylic Acid; Hexadecanoic Acid; Hexadecanoic acid; N-Hexadecanoic Acid; Palmitic Acid; Palmitic acid; Valproate sodium; cetylic acid; hexadecanoic acid; n-hexadecanoic acid; n-octacosanoic acid; palmitic acid; Cetylic acid; Hexadecanoic Acid; Palmitic acid	149
+CCCCCCCCCCCCCCC[C]1[CH][CH][CH][C]([O])[C]1[C]([O])[O]_2_0	2	15109;167551	ANACARDIC ACID; Anacardic Acid; Hydroginkgolinic acid; Lunularic acid; anacardic acid; Anacardic acid; Anacardicacid a	9
+CCCCCCCCCCCCCCC_0_0	2	12391;5321842	MYS; Mys; Pentadecane; N-Pentadecane; Pentadecane; Pentadecane , 2, 6 , 10 , 14-tetramethyl	40
+CCCCCCCCCCCCCC[C]([O])[O]_1_0	3	13849;5282316;22169126	PENTADECANOIC ACID; Pentadecanoic Acid; PENTADECYLIC ACID; Pentadecanoic acid; Pentadecylic acid; Pentadecanoate; Pentadecanoic Acid; WQEPLUUGTLDZJY-UHFFFAOYSA-M	37
+CCCCCCCCCCCCC[C]([O])[O]_1_0	4	11005;110680;4075158;53435003	2-cyclopentene-1-undecanoic acid; Tetradecanoic acid; Myristate; Myristic Acid; Tetradecanoic Acid; myristic acid; tetradecanoic acid; SCHEMBL136610; TUNFSRHWOTWDNC-UHFFFAOYSA-M; Tetradecanoate	88
+CCCCCCCCCCCCC[C]1[CH][CH][CH][C]([O])[C]1[C]([O])[O]_2_0	2	161306;5352905	6-Tridecylsalicylic acid; 6-tridecylsalicylic acid; Ginkgolic Acid 13:0	2
+CCCCCCCCCCCCC_0_0	2	12388;71458306	N-Tridecane; TRD; Trd; N-Tridecane; Tridecane	20
+CCCCCCCCCCCC_0_0	2	8182;71360448	Dodecane; Dodekan	26
+CCCCCCCCCCC[CH][O]_0_0	2	8194;590161	Dodecanal; Lauric Aldehyde; n.a.; Dodecanal; Lauric; Lauric Aldehyde; Laurinaldehyde; n-dodecanal	21
+CCCCCCCCCCC[C]([O])[O]_1_0	2	3893;4149208	Dodecanoate; Dodecanoate; Dodecanoic Acid; Lauric Acid; Lauric acid; dodecanoic acid; lauric acid	38
+CCCCCCCCCCC[C]1[C]([O])[C]([O])[CH][C]([O])[C]1[O]_2_0	2	3218;5367523	EMBELIN; Embelin; Embelin	2
+CCCCCCCCCC[C]([O])[O]_1_0	2	8180;16019974	UNDECANOIC ACID; Undecanoate; Undecanoicacid; Undekansaeure; Undecanoic Acid	7
+CCCCCCCCC[CH][CH][CH][O]_0_0	2	20967;5283361	dodec-2-enal; trans-2-dodecenal	2
+CCCCCCCCC[C]([O])[O]_1_0	2	2969;4678093	Capric Acid; Decanoic Acid; Decanoic acid; N-Decanoic Acid; decanoic acid; Decanoate	57
+CCCCCCCCC[O]_1_0	2	8914;83069	1-Nonanol; 1-nonanol; Nonanol; N-Nonanol; Nonanol	21
+CCCCCCCC[CH][CH][CH][O]_0_0	2	62447;5283356	(E)-2-Undecenal; 2-Undecenal; Trans-2-Undecenal; Undecenal	10
+CCCCCCCC[CH][O]_0_0	2	31289;13857695	Nonaldehyde,Nonanal,Nonaylaldehyde; Nonanal; Nonaldehyde,Nonanal,Nonaylaldehyde; Nonanal; n-nonanal	43
+CCCCCCCC[C]([O])[O]_1_0	2	8158;86172609	NONANOIC ACID; Nonanoate; Nonanoic Acid; nonanoic acid; Nonanoic acid	36
+CCCCCCC[CH][CH][CH][O]_0_0	2	19801;5283345	(E)-Dec-2-enal; 2-Decenal; Trans-2-Decenal; dec-2-enal	10
+CCCCCCC[CH][O]_0_0	2	454;525428	2,2-bis(methylthio)propane; OYA; Octanal; Oya; N-Octanal; Octanal	14
+CCCCCCC[C]([O])[O]_1_0	3	379;88261;23664772	Caprylic Acid; Octanoic Acid; Octanoic acid; caprylic acid; Caprylic acid; Sodium Caprylate	53
+CCCCCCC[O]_1_0	2	8129;5319556	1-Heptanol; Heptanol; Heptanol	6
+CCCCCC[CH][CH][CH][O]_0_0	2	5283335;5354833	(E)-2-Nonenal; 2-Nonenal; Trans-2-Nonenal; trans-2-nonenal; BSAIUMLZVGUGKX-FPLPWBNLSA-N	13
+CCCCCC[C]([O])[O]_1_0	2	8094;93052	Enanthate; Heptanoate; Enanthic Acid; HEPTANOIC ACID; Heptanoate; Heptanoic Acid; enanthic acid; heptanoic acid	22
+CCCCCC[O]_1_0	2	8103;91156689	1-Hexanol; 1-hexanol; 1-Hexanol; 1-hexanol; Hexanol; N-Hexanol; n-hexanol	29
+CCCCC[CH][CH][CH][CH]CCCCCCCC[C]([O])[O]_1_0	2	5282800;9882163	(10E,12Z)-octadeca-10,12-dienoic acid; CIS-10,TRANS-12-CONJUGATEDLINOLEICACID	2
+CCCCC[CH][CH][CH][CH][CH][O]_0_0	3	16899;5283349;6427087	(2E,4E)-Deca-2,4-Dienal; 2,4-Decadienal; trans-2,4-decadienal; JZQKTMZYLHNFPL-NMMTYZSQSA-N; JZQKTMZYLHNFPL-UHFFFAOYSA-N	15
+CCCCC[CH][CH][CH][CH][C]([O])[N]CC(C)C_1_0	2	5318516;11368078	N-Isobutyl-Decatrans-2-Trans-4-Dienamide; N-isobutyl-decatrans-2-trans-4-dienamide; N-Isobutyldeca-Trans-2-Trans-4-Dienamide; Pellitorin	5
+CCCCC[CH][CH][C]([O])CC[C]1[CH][CH][C]([O])[C](OC)[CH]1_1_0	2	5281794;12315512	6-Shogaol; 6-shogaol; Shogaol; [6]-Gingerdione (Enol Form); alpinoid B; OQWKEEOHDMUXEO-FPLPWBNLSA-N	6
+CCCCC[C](C)[O]_0_0	2	8051;5363228	2-Heptanone; 2-heptanone; Heptan-2-One; heptan-2-one; 2-heptanone; Methyl-N-Pentyl Ketone	12
+CCCCC[C]([O])[O]_1_0	2	8892;4398339	1-hexanoic acid; Caproic Acid; Hexanoate; Hexanoic acid; hexanoic acid; Caproate	29
+CCCCC[C]1[CH][CH][CH]O1_0_0	2	7409;19602	2-Amyl furan; 2-Pentylfuran; PENTYLFURAN; Pentylfuran	16
+CCCCC[C]1[CH][C]2OC(C)(CCC=C(C)C)[CH][CH][C]2[C]([O])[C]1[C]([O])[O]_2_0	2	3084339;54740355	Cannabichromenic Acid; HRHJHXJQMNWQTF-UHFFFAOYSA-N; HRHJHXJQMNWQTF-UHFFFAOYSA-M	2
+CCCCO[C]([O])[C]1[CH][CH][CH][CH][CH]1_0_0	2	8698;65126	Butyl benzoate; WLN: 4OVR	4
+CCCCO[C]([O])[C]1[CH][CH][CH][CH][C]1[C]([O])OCCCC_0_0	2	3026;93476678	Di-n-butyl phthalate; Dibutyl Phthalate; Dibutyl phthalate; dibutyl phthalate; Dibutyl phthalate	49
+CCCC[CH][CH][CH][CH][CH][O]_0_0	2	23203;5283339	2,4-Nonadienal; Nonadienal; Nona-2,4-Dienal; Nonadienal	2
+CCCC[CH][CH][CH][CH][C]([O])[O]_1_0	2	5320190;54498674	2,4-Nonadienic Acid; 2,4-Nonadienicacid	2
+CCCC[CH][CH][CH][O]_0_0	4	17167;5283316;5362616;11448499	(E)-2-Heptenal; Heptenal; Alpha-heptenal; NDFKTBCGKNOHPJ-UHFFFAOYSA-N; NDFKTBCGKNOHPJ-WAYWQWQTSA-N; cis-Hept-2-enal	15
+CCCC[C]([O])[O]_1_0	3	7991;114781;23616479	HUPQYPMULVBQDL-UHFFFAOYSA-N; NQPDZGIKBAWPEJ-UHFFFAOYSA-M; Pentanic Acid,Scopolin; Pentanoic Acid; Valeric Acid; WLN: QV4; Wln: Qv4; pentanoic acid	9
+CCCC_0_0	2	7843;10423261	Butane; SBU; Sbu	4
+CCC[CH][CH][CH][O]_0_0	3	10460;5281168;6428782	(E)-Hex-2-Enal; 2-Hexenal; leaf aldehyde; Hexenal; MBDOYVRWFFCFHM-PLNGDYQASA-N	25
+CCC[CH][C]1O[C]([O])[C]2[CH][CH]CC[C]12_0_0	2	5319022;5877292	(Z)-Ligustilide; Ligustilide; Z-Ligustilide; cis-ligustilide; ligustilide; Cis-Ligustilide; E-Ligustilide	8
+CCC[CH][C]1O[C]([O])[C]2[CH][CH][CH][CH][C]12_0_0	3	62368;642376;5352899	(E)-Butylidenephthalide; 3-Butylidenephthalide; Butylidenephthalide; N-Butylidene Phthalide; (Z)-Butylidenephthalide; 3-Butylidene-Phalide; BdPh; Z-Butylidenephthalide; n-butylidenephthalide; WMBOCUXXNSOQHM-UHFFFAOYSA-N	6
+CCC[CH][C]1O[C]([O])[C]2[C]([O])[CH][CH][CH][C]12_1_0	2	5281559;5852943	(3E)-3-butylidene-7-hydroxy-2-benzofuran-1-one; (Z)-3-Butylidene-7-Hydroxyphthalide; 3-Butylidene-7-hydroxyphthalide	2
+CCC[CH][C]1O[C]([O])[C]2[C]1CC[C@H]1[C@@H](CCC)[C@@]3(O[C]([O])[C]4[CH][CH]CC[C]43)[C@@H]21_0_0	2	5316848;133568458	Angelicide	2
+CCC[C]([O])[O]_1_0	3	264;38621;104775	1,3,4-trimethyl-3-cyclohexene-1-carboxaldehyde; BUA; Bua; Butanoic Acid; 2-Methyl butyric acid; 3-methyl-butanoic acid; Butanoic Acid; Butyric acid; butanoic acid; butyrate; Butyrate	25
+CCN(CC)CC[N][C]([O])[C]1[CH][C](Cl)[C]([N])[CH][C]1OC_3_0	2	21761;441347	Maxolon; Metoclopramide hydrochloride; Metoclopramide dihydrochloride	2
+CCO[CH][C]1[N][C]([C]2[CH][CH][CH][CH][CH]2)O[C]1[O]_0_0	2	1712093;1712094	OXA; Oxazolone	6
+CCO[C]([O])[CH][CH][C]1[CH][CH][CH][CH][CH]1_0_0	3	637758;5284656;11137002	Ethyl Cinnamate; Ethylcinnamate; Ethylcinnamate; KBEBGUQPQBELIU-HJWRWDBZSA-N	7
+CCO[C]([O])[CH][CH][C]1[CH][CH][C](OC)[CH][CH]1_0_0	2	5281783;13010829	4-Methoxy Ethyl Cinnamate; 4-methoxycinnamic acid ethyl ester; Ethyl Methoxycinnamate; Ethyl methoxycinnamate; Ethyl-P-Methoxycinnamate; Ethyl P-Methoxy-Cis-Cinnamate; ethyl (Z)-3-(4-methoxyphenyl)prop-2-enoate	4
+CCO[C]([O])[C]1[CH][C@@H](OC(CC)CC)[C@H]([N][C](C)[O])[C@@H]([N])C1_3_0	2	65028;78000	Oseltamivir; PGZUMBJQJWIWGJ-ONAKXNSWSA-N	2
+CCO[C]1[CH][C](OCC)[C](OCC)[CH][C]1CC(C)[N]_2_0	2	5316691;44719557	1-(2,4,5-Triethoxyphenyl)propan-2-amine; EEE; Eee	10
+CC[C@@H]1CN2CC[C@]3([C]([O])[N][C]4[CH][CH][CH][CH][C]43)[C@@H]2C[C@@H]1[C]([CH]OC)[C]([O])OC_1_0	2	10091424;53326136	Corynoxine B; SCHEMBL17531555	2
+CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O[C]([O])[CH][CH][C]5[CH][CH][C]([O])[C](OC)[CH]5)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)C_1_0	2	10769701;15056831	NMWHNQAIHFWROQ-SJVJLPRJSA-N; Stigmasteryl ferulate	2
+CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C]([O])CC[C@]4(C)[C@H]3CC[C@]12C)C(C)C_0_0	2	14807783;129669142	Stigmasta-5,22-Dien-3-One	2
+CC[CH][CH][CH][CH][CH][O]_0_0	2	5283321;6428554	(E, E)-2,4-Heptadienal; (E,E)-2,4-Heptadienal; 2,4-Heptadienal; 2,4-Heptdienal; (Z,E)-2,4-heptadienal	6
+CC[C]([O])[O]_1_0	3	1032;104745;10904630	Ppi; Propanoic Acid; Propionic Acid; Propionate ion; XBDQKXXYIPTUBI-UHFFFAOYSA-M	23
+CC[C]1[CH][CH][C](C)[C]2[CH][CH][C](C)[C]2[CH]1_0_0	2	10719;101687152	Chamazulene; Dimethulen; Dimethulen	2
+CC[C]1[CH][CH][C]([O])[C](OC)[CH]1_1_0	2	62465;5352703	4-Ethyl-2-Methoxyphenol; 4-ethylguaiacol; Homocresol; Homocresol	4
+CN(C)(C)CC[O]_1_1	2	305;253325	Choline; Choline; choline; choline chloride	35
+CN(C)(C)C[C]([O])[O]_0_0	3	247;248;104358	Betaine; Glycinebetaine; betaine; GROIBJFMWIHJHX-WNQIDUERSA-N; Glycinebetaine	14
+CN(C)CC[C]1[CH][CH][C]([O])[CH][CH]1_1_0	2	68313;77147	Hordenine; Hordenine Sulfate	3
+CN(C)C[C]1[CH][N][C]2[CH][CH][CH][CH][C]12_1_0	2	6890;3480616	Gramine; OCDGBSUVYYVKQZ-UHFFFAOYSA-O	2
+CN1CCC[C@H]1[C]1[CH][CH][CH][N][CH]1_0_0	2	89594;6919000	(?)-Nicotine; (−)-Nicotine; Isocaryophyllene; Nicotine; nicotine; (S)-Nicotinium(1+); SNICXCGAKADSCV-JTQLQIEISA-O	20
+CN1[CH][CH][CH][C]([C]([O])[O])[CH]1_0_0	3	5570;6419886;21717998	Gynesine; Trigonelline Hydrochloride; Trigonelline; gynesine; trigonelline	12
+CON1[CH][C](C[N][C]([S])SC)[C]2[CH][CH][CH][CH][C]21_1_0	2	3037463;5315830	1-Methoxybrassinin; Methoxybrassinin	3
+CO[C]([O])CCCCCCC[C]([O])OC_0_0	2	15612;101244036	Dimethyl Azelate; Methyl Azelate; Methyl azelate; Dimethyl Azelate; Methyl azelate	8
+CO[C]([O])[C@@H]1[C@H]2C[C@H]3[C]4[N][C]5[CH][CH][CH][CH][C]5[C]4CCN3C[C@@H]2CC[C@@H]1[O]_2_0	2	6169;8969	YOHIMBINE HYDROCHLORIDE; Yohimbine	3
+CO[C]([O])[C@]1([O])C[C@@H]([O])[C@@H]([O])[C@H](O[C]([O])[CH][CH][C]2[CH][CH][C]([O])[C]([O])[CH]2)C1_5_0	2	487435;6476139	3-O-caffeoylquinic acid methyl ester; Chlorogenic Acid Methyl Ester; Chlorogenic acid methyl ester; methyl chlorogenate; MZNIJRAPCCELQX-SMKXDYDZSA-N	7
+CO[C]([O])[CH][CH][C]1[CH][CH][CH][CH][CH]1_0_0	3	7644;637520;101204873	E-Methyl Cinnamate; Methyl Cinnamate; Methylcinnamate; Methyl 3-Phenylprop-2-Enoate; Methylcinnamate	8
+CO[C]([O])[CH][CH][C]1[CH][CH][C]([O])[CH][CH]1_1_0	2	92203;5319562	(E)-p-coumaryl alcohol gamma-O-methyl ether; 2-propenoic acid,3-(3-hydroxyphenyl)-,methyl ester,(2E)-; Methyl transphydroxycinnamat; Methyl-P-Hydroxycinnamate; NITWSHWHQAQBAW-UHFFFAOYSA-N; Methyl-p-coumarate	4
+CO[C]([O])[C]1[CH]OC(OC2OC(C[O])C([O])C([O])C2[O])C2C(C[O])=CCC12_5_0	2	3515873;5367382	1,3,6-Octatriene; Geniposide; IBFYXTRXDNAPMM-UHFFFAOYSA-N	8
+CO[C]([O])[C]1[CH]O[C@@H](O[C@@H]2O[C@H](CO[C@@H]3O[C@H](CO[C]([O])[CH][CH][C]4[CH][CH][C]([O])[CH][CH]4)[C@@H]([O])[C@H]([O])[C@H]3[O])[C@@H]([O])[C@H]([O])[C@H]2[O])[C@@H]2C(C[O])=CC[C@H]12_8_0	2	6324973;10842393	6''-O-P-Coumaroylgenipingentiobioside; 6''-o-p-cis-coumaroylgenipin gentiobioside; QIWWLKDHHMGRQL-SKMDTYRSSA-N; 6'-O-p-Coumaroylgenipingentiobioside	3
+CO[C]([O])[C]1[CH][CH][CH][CH][CH]1_0_0	2	7150;23667258	10-Undecenoicacid; Clorius; Methyl Benzoate	10
+CO[C]([O])[C]1[CH][CH][CH][CH][C]1[O]_1_0	2	4133;5282804	Methyl Hydroxybenzoate; Methyl Salicylate; methyl salicylate; Methyl salicylate	12
+CO[C]1[CH][CH][CH][CH][C]1[O]_1_0	3	460;11185028;12044303	2,6-dimethoxyphenol; 2-Methoxyphenol; Guaiacol; Guasol; o-methoxy phenol; Guaiacol; Phenol,2-methoxy	18
+CO[C]1[CH][CH][CH][C](OC)[C]1OC_0_0	2	12462;11830928	1,2,3-trimethoxybenzene; Methylsyringol	2
+CO[C]1[CH][CH][CH][C]([CH][CH][C]([O])[O])[CH]1_1_0	2	449005;637668	M-Methoxycinnamic Acid; M-methoxycinnamic acid	5
+CO[C]1[CH][CH][CH][C]2[C]([O])[C]3[C]([O])[C]4C[C@@]([O])([C](C)[O])C[C@H](O[C@H]5C[C@H]([N])[C@H]([O])[C@H](C)O5)[C]4[C]([O])[C]3[C]([O])[C]12_6_0	2	30323;62770	DAUNORUBICIN HYDROCHLORIDE; NSC82151; Daunorubicin; daunorubicin	3
+CO[C]1[CH][CH][C](C2C[C]([O])[C]3[C]([O])[CH][C](OC4OC(COC5OC(C)C([O])C([O])C5[O])C([O])C([O])C4[O])[CH][C]3O2)[CH][C]1[O]_8_0	2	3594;11772047	5-Hydroxy-2-(3-Hydroxy-4-Methoxyphenyl)-7-[3,4,5-Trihydroxy-6-[(3,4,5-Trihydroxy-6-Methyloxan-2-Yl)Oxymethyl]Oxan-2-Yl]Oxy-2,3-Dihydrochromen-4-One; Hesperidin	19
+CO[C]1[CH][CH][C](CC2CO[C]([O])[C]2[CH][C]2[CH][CH][C]3OCO[C]3[CH]2)[CH][C]1OC_0_0	2	9225;10915582	GVNUFBXIXQNOCF-LZYBPNLTSA-N; Suchilactone	9
+CO[C]1[CH][CH][C](CC2[C]3[CH][C](O[C]4[CH][C](CC5[C]6[CH][C]([O])[C](OC)[CH][C]6CCN5C)[CH][CH][C]4[O])[C](OC)[CH][C]3CCN2C)[CH][CH]1_2_0	2	5274591;10100278	AJPXZTKPPINUKN-UHFFFAOYSA-N; Isoliensinine	4
+CO[C]1[CH][CH][C](CC[C](C)[O])[CH][CH]1_0_0	2	61007;101916315	4-(4-Methoxyphenyl)Butan-2-One; Anisylacetone; p-methoxybenzylacetone; Anisylacetone	4
+CO[C]1[CH][CH][C](C[C](C)[O])[CH][CH]1_0_0	2	31231;5321337	1-(4-Methoxyphenyl)Acetone; Anisolacetone,Xanthotoxin , 8-Methoxypsoralen; anisolacetone; Anisketone	4
+CO[C]1[CH][CH][C]([CH][CH][CH][O])[CH][CH]1_0_0	3	230995;641294;11765414	1,3-Bis-[2-(3,4-Dihydroxyphenyl)-1-Carboxy]Ethoxycarbonyl-2-(3,4-Dihydroxyphenyl)-7,8-Di-Hydroxy-1,2-Dihydronaphthalene; P-methoxycinnamaldehyde; 3-(4-methoxyphenyl)-2-propenal; P-Methoxycinnamaldehyde; Para-Methoxy Cinnamaldehyde; p-Methoxycinnamaldehyde; AXCXHFKZHDEKTP-UHFFFAOYSA-N	6
+CO[C]1[CH][CH][C]([CH][N][N][C]([N])[S])[CH][C]1[O]_4_0	3	704492;5395837;6870649	3-Hydroxy-4-Methoxybenzaldehyde Thiosemicarbazone; ARINKVDYBABITQ-UHFFFAOYSA-N; ARINKVDYBABITQ-WZUFQYTHSA-N	3
+CO[C]1[CH][CH][C]([CH][N][O])[CH][CH]1_1_0	3	94712;5371924;5371961	4-Methoxybenzaldehyde Oxime; FXOSHPAYNZBSFO-TWGQIWQCSA-N; FXOSHPAYNZBSFO-UHFFFAOYSA-N	3
+CO[C]1[CH][CH][C]([CH][O])[CH][CH]1_0_0	2	31244;10990905	4-Methoxybenzaldehyde; 4-methoxy-benzaldehyde; 4-methoxybenzaldehyde; Anisaldehyde; Anisaldehyde,Methoxy Bengaldehyde,P-Anisaldehyde; anisaldehyde; Anisaldehyde	23
+CO[C]1[CH][CH][C]([C](C)[O])[C]([O])[CH]1_1_0	2	11092;131752411	PAEONOL; Paeonol; Peonol; paeonol; Paeonol	22
+CO[C]1[CH][CH][C]([C]([O])[O])[CH][CH]1_1_0	2	7478;3783514	4-Methoxybenzoic acid; ANN; Anisic Acid; P-Anisic Acid; Anisicacid	13
+CO[C]1[CH][CH][C]([C]([O])[O])[CH][C]1OC_1_0	2	7121;10817	3,4-Dimethoxybenzoicacid; 3-methoxybenzoic acid; PIPERONYLIC ACID; Vanillin acetate; Veratric Acid; Veratric Acid; Veratric acid	8
+CO[C]1[CH][CH][C]([C]2O[C]3[CH][C]([O])[CH][C]([O])[C]3[C]([O])[C]2[O])[CH][CH]1_3_0	2	5281666;25201489	3,5-di-O-methyl-kaempferol; Kaempferid; Kaempferide; kaempferide; SQFSKOYWJBQGKQ-UHFFFAOYSA-M	6
+CO[C]1[CH][CH][C]([C]2[CH][C]([O])[C]3[C]([CH][C]([O])[C](OC)[C]3[O])O2)[CH][C]1OC_2_0	2	5273755;21636448	Eupatilin; Eupatilin; eupatilin	2
+CO[C]1[CH][CH][C]([C]2[CH][C]([O])[C]3[C]([O])[C](C)[C](OC)[C](C)[C]3O2)[CH][CH]1_1_0	2	76573;15558632	Eucalyptin	2
+CO[C]1[CH][CH][C]([C]2[CH][C]([O])[C]3[C]([O])[C](OC)[C](OC)[C](OC)[C]3O2)[CH][C]1OC_1_0	2	358832;100987455	5-demethylnobiletin; 5-demethylnobiletin; demethylnobiletin	3
+CO[C]1[CH][CH][C]2[CH][CH][C]([O])O[C]2[CH]1_0_0	2	10748;9982084	6-methoxycoumarin; Ayapanin; herniarin; Ayapanin	5
+CO[C]1[CH][CH][C]2[CH][C]1O[C]1[CH][CH][C]([CH][CH]1)CC1[C]3[CH][C](O[C]4[C](OC)[C](OC)[CH][C]5CCN(C)C(C2)[C]54)[C](OC)[CH][C]3CCN1C_0_0	2	5422;6441391	13657-68-6; Tetrandrine; n.a.	4
+CO[C]1[CH][CH][C]2[C]([CH]N(C)[C]3[C]4[CH][C]5OCO[C]5[CH][C]4[CH][CH][C]23)[C]1OC_0_1	2	2703;5351594	1,2-Dimethoxy-12-Methyl-[1,3]Benzodioxolo[5,6-C]Phenanthridin-12-Ium;Hydroxide; Chelerythrine Hydroxide; Chelerythrine; Norsanguinarine	6
+CO[C]1[CH][C](CC[CH][CH][C]([O])CC[C]2[CH][CH][C]([O])[C](OC)[CH]2)[CH][CH][C]1[O]_2_0	3	442791;5281775;91715816	1,7-Bis(4-Hydroxy-3-Methoxyphenyl)Hept-4-En-3-One; Gingerenone A; FWDXZNKYDTXGOT-UHFFFAOYSA-N; FWDXZNKYDTXGOT-XQRVVYSFSA-N	4
+CO[C]1[CH][C](C[N][C]([O])CCCCC=CC(C)C)[CH][CH][C]1[O]_2_0	2	2548;10008574	Capsaicin; N-[(4-Hydroxy-3-Methoxyphenyl)Methyl]-8-Methylnon-6-Enamide	10
+CO[C]1[CH][C](OC)[C](OC)[CH][C]1[CH][O]_0_0	2	20525;5358363	Asaronaldehyde; Gazarin	2
+CO[C]1[CH][C]([CH][CH]C[O])[CH][CH][C]1[O]_2_0	2	1549094;1549095	(Z)-Coniferyl Alcohol; Coniferyl Alcohol	2
+CO[C]1[CH][C]([CH][CH]C[O])[CH][C](OC)[C]1O[C@@H]1O[C@H](C[O])[C@@H]([O])[C@H]([O])[C@H]1[O]_5_0	2	5316860;9799599	QJVXKWHHAMZTBY-CZZVJJMOSA-N; Syrigin; Syringin; syringin	13
+CO[C]1[CH][C]([CH][CH]C[O])[CH][C](OC)[C]1[O]_2_0	2	5280507;10130521	4-[(Z)-3-hydroxyprop-1-enyl]-2,6-dimethoxyphenol; Sinapyl Alcohol; Sinapyl alcohol	8
+CO[C]1[CH][C]([CH][CH][CH][O])[CH][CH][C]1[O]_1_0	2	9984;5280536	Coniferaldehyde; Coniferyl Aldehyde; Ferulaldehyde; Ferulaldehyde	8
+CO[C]1[CH][C]([CH][CH][C](C)[O])[CH][CH][C]1[O]_1_0	2	14121;102586322	1,5-Bis(4-hydroxy-3-methoxyphenyl)-1,4-pentadien-3-one; 4'-Hydroxy-3'-methoxycinnamaldehyde	2
+CO[C]1[CH][C]([CH][CH][C]([O])C[C@@]23CC[C@@]4([C]([O])[O])CC[C@@H](C)[C@H](C)[C@H]4C2=CC[C@@H]2[C@@]4(C)CC[C@H]([O])C(C)(C)[C@@H]4CC[C@]23C)[CH][CH][C]1[O]_3_0	2	44583694;44583695	Uncarinicacid C; Uncarinicacid D	2
+CO[C]1[CH][C]([CH][CH][C]([O])C[C]([O])[CH][CH][C]2[CH][CH][C]([O])[C](OC)[CH]2)[CH][CH][C]1[O]_2_0	4	2889;969516;6604598;21576584	(1E,6E)-1,7-Bis(4-Hydroxy-3-Methoxyphenyl)Hepta-1,6-Diene-3,5-Dione; Curcumin; Hydrastis; curcumin; Curcumin; Curcumine; SCHEMBL2804734; TNP00001	36
+CO[C]1[CH][C]([CH][CH][C]([O])C[C]([O])[CH][CH][C]2[CH][CH][C]([O])[C]([O])[CH]2)[CH][CH][C]1[O]_3_0	2	390474;5469426	1-(4-hydroxy-3-methoxyphenyl)-7-(3,4-dihydroxyphenyl)-1,6-heptadiene-3,5-dione; Mono-O-Demethylcurcumin	2
+CO[C]1[CH][C]([CH][CH][C]([O])OCC([O])C[O])[CH][CH][C]1[O]_3_0	2	10850234;11311691	1-O-feruloylglycerol; Regaloside f_qt; regaloside F_qt	2
+CO[C]1[CH][C]([CH][CH][C]([O])OCCN(C)(C)C)[CH][C](OC)[C]1[O]_1_1	2	5280385;133082937	Sinapine Bisulfate; Sinapine; sinapine	2
+CO[C]1[CH][C]([CH][CH][C]([O])OC[C@@]23CC[C@@]4([C]([O])[O])CCC(C)(C)C[C@H]4C2=CC[C@@H]2[C@@]4(C)CC[C@H]([O])C(C)(C)[C@@H]4CC[C@]23C)[CH][CH][C]1[O]_3_0	2	10604258;100967916	Uncarinicacid A; Uncarinicacid B	2
+CO[C]1[CH][C]([CH][CH][C]([O])OC[C@H]2O[C@@H](O[C@@H]3[C@@H]([O])[C@H]([O])[C@@H](C[O])O[C@H]3[C]3[C](OC)[CH][C]4O[C]([C]5[CH][CH][C]([O])[CH][CH]5)[CH][C]([O])[C]4[C]3[O])[C@H]([O])[C@@H]([O])[C@@H]2[O])[CH][CH][C]1[O]_9_0	2	11972349;21597353	6'''-feruloylspinosin; 6'-Feruloylspinosin; WZAXZHIVHPRTIU-DKULBZLCSA-N	3
+CO[C]1[CH][C]([CH][CH][C]([O])O[C@@H]2C[C@@]([O])([C]([O])[O])C[C@@H]([O])[C@@H]2[O])[CH][CH][C]1[O]_5_0	2	10133609;131853509	3-Feruloylquinic Acid; 3-O-Feruloylquinic,Acid; 3-feruloylquinic acid; 3-o-feruloylquinic,acid; RAGZUCNPTLULOL-KQJPBSFVSA-N; RAGZUCNPTLULOL-JSHWQEIDSA-N	4
+CO[C]1[CH][C]([CH][CH][C]([O])[N]CC([O])[C]2[CH][CH][C]([O])[CH][CH]2)[CH][CH][C]1[O]_4_0	2	24096391;68976271	Cis-N-Feruloyloctopamine; N-Trans-Feruloyloctopamine	2
+CO[C]1[CH][C]([CH][CH][C]([O])[N]CC[C]2[CH][CH][C]([O])[CH][CH]2)[CH][CH][C]1[O]_3_0	2	5280537;6440659	Cis-N-Feruloyltyramine; N-Cis-Feruloyltyramine; Moupinamide; N-Trans-Feruloyl Tyramine; N-Trans-Feruloyltyramine	13
+CO[C]1[CH][C]([CH][CH][C]([O])[O])[CH][CH][C]1[O]_2_0	4	445858;1548883;5460310;11734567	2-Propenoic acid,3-(3-methoxyphenyl)-,ethyl ester; 3-O-trans ferulylquinic acid; 4-Hydroxy-3,5-dimethoxycinnamic acid; Coniferol; Ferulic Acid; Ferulic acid; Methyl 3,4,5-Trimethoxycinnamate; Methyl 3,4,5-trimethoxycinnamate; Sinapaldehyde; ferulic acid; Ferulic acid; cis-Ferulic acid; n.a.	60
+CO[C]1[CH][C]([CH][CH][C]([O])[O])[CH][C](OC)[C]1[O]_2_0	3	637775;1549091;54710960	PCMORTLOPMLEFB-ARJAWSKDSA-N; PCMORTLOPMLEFB-ONEGZZNKSA-M; SINAPIC ACID; Sinapic Acid; Sinapinate; sinapic acid	13
+CO[C]1[CH][C]([CH][C]2CCC[C]([CH][C]3[CH][CH][C]([O])[C](OC)[CH]3)[C]2[O])[CH][CH][C]1[O]_2_0	2	11366;1550234	Cyclovalone; dehydrogingerdione	2
+CO[C]1[CH][C]([CH][O])[CH][CH][C]1O[C](C)[O]_0_0	2	61229;5317430	Acetovanillin; Acetovanillin; Vanillin Acetate; vanillin acetate	5
+CO[C]1[CH][C]([CH][O])[CH][CH][C]1[O]_1_0	3	1183;11972337;20405942	3-Methoxy-4-Hydroxybenzaldehyd; 4-Hydroxy-3-Methoxybenzaldehyde; 4-hydroxy-3-methoxybenzaldehyde; Vanillin; vanillin; UJGRGFLENARMJS-UHFFFAOYSA-N; Vanillin	45
+CO[C]1[CH][C]([C]([O])[O])[CH][CH][C]1[O]_2_0	2	8468;5478978	4-Hydroxy-3-Methoxy Benzoic Acid; 4-hydroxy-3-methoxy benzoic acid; Vanillic Acid; Vanillic acid; vanillic acid	36
+CO[C]1[CH][C]([C]([O])[O])[CH][C](OC)[C]1[O]_2_0	2	10742;54694262	3,5-Dimethoxy-4-hydroxybenzaldehyde; Cedar acid; Syringic Acid; Syringic acid; syringic acid; Syryngic; 1,5-dimethoxy-3-hydroxybenzoicacid; 3,5-dimethoxy-4-hydroxybenzoic acid; Cedar acid; JMSVCTWVEWCHDZ-UHFFFAOYSA-M	16
+CO[C]1[CH][C]([C]2O[C]3[CH][C]([O])[CH][C]([O])[C]3[C]([O])[C]2[O])[CH][CH][C]1[O]_4_0	2	5281654;25202413	5-hydroxy-3',4',6,7,8-pentamethoxyflavone; Gancaonin P-3'-methylether; Gardenin; Heptamethoxyflavone; Isorhamnetin; Peonidin; Quercetin-3'-Methyl Ether; isorhamnetin; malvidin chloride; quercetin-3'-methyl ether; IZQSVPBOUDKVDZ-UHFFFAOYSA-M	27
+CO[C]1[CH][C]([C]2O[C]3[CH][C]([O])[CH][C]([O])[C]3[C]([O])[C]2[O])[CH][C](OC)[C]1[O]_4_0	2	5281953;25202456	Syringetin; UZMAPBJVXOGOFT-UHFFFAOYSA-M	5
+CO[C]1[CH][C]([C]2[CH][C]([O])[C]3[C]([O])[CH][C]([O])[CH][C]3O2)[CH][C]([C]2[C]([O])[CH][C]([O])[C]3[C]([O])[CH][C]([C]4[CH][CH][C]([O])[CH][CH]4)O[C]32)[C]1OC_5_0	2	5319411;10315050	5 -methoxy-bilobetin; 5'-Methoxybilobetin	4
+CO[C]1[CH][C]([O])[CH][CH][C]1[C]([O])[CH][CH][C]1[CH][CH][C]([O])[CH][CH]1_2_0	2	572948;5319688	2'-O-Methyl Isoliquiritigenin; 3-Deoxysappanchalcone; 2'-O-Methylisoliquiritigenin; 2'-o-methylisoliquiritigenin	5
+CO[C]1[CH][C]([O])[C]([C](C)[O])[C](OC)[CH]1_1_0	2	66654;537411	Brevifolin; Xanthoxylin; brevifolin; Xanthoxylin	7
+CO[C]1[CH][C]([O])[C]2[C]([CH]1)O[C]([C]1[CH][CH][C]([O])[C]([O])[CH]1)[C]([O])[C]2[O]_4_0	2	5281691;54758607	JGUZGNYPMHHYRK-UHFFFAOYSA-M; Quercetin-7-Methyl ether; Rhamnetin	5
+CO[C]1[CH][C]([O])[C]2[C]([O])[CH][C]([C]3[CH][CH][C](OC)[C]([C]4[C]([O])[CH][C]([O])[C]5[C]([O])[CH][C]([C]6[CH][CH][C]([O])[CH][CH]6)O[C]54)[CH]3)O[C]2[CH]1_4_0	2	5271805;87579315	Ginkgetin	5
+CO[C]1[CH][C]([O])[C]2[C]([O])[C]3[C]([O])[CH][C](C)[CH][C]3[C]([O])[C]2[CH]1_2_0	2	10639;15693460	Physcion; Physcion; Physcione; physcion	13
+CO[C]1[CH][C]2CCN3C[C]4[C]([CH][CH][C](OC)[C]4OC)CC3[C]2[CH][C]1OC_0_0	2	5417;6602555	2,3,9,10-Tetramethoxy-6,8,13,13A-Tetrahydro-5H-Isoquinolino[2,1-B]Isoquinoline; Hydron;2,3,9,10-Tetramethoxy-6,8,13,13A-Tetrahydro-5H-Isoquinolino[2,1-B]Isoquinoline;Chloride	2
+CO[C]1[CH][C]2CCN3C[C]4[C]([CH][CH][C](OC)[C]4OC)CC3[C]2[CH][C]1[O]_1_0	2	10220;101106755	3,9,10-Trimethoxy-6,8,13,13A-Tetrahydro-5H-Isoquinolino[2,1-B]Isoquinolin-2-Ol; Isocorypalmine	3
+CO[C]1[CH][C]2[CH][CH][C]([O])O[C]2[CH][C]1OC_0_0	2	8417;101024596	6,7-Dimethoxycoumarin; 6,7-dimethoxycoumarin; Scoparone; scoparone; Scoparone	14
+CO[C]1[C]2[CH][CH]O[C]2[CH][C]2O[C]([O])[CH][CH][C]21_0_0	2	2355;11781748	1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone; 5-Hydroxyxanthotoxin; 5-Methoxypsoralen; 7-methoxycoumarin; Bergapten; Bergaptol; Isotrifoliol; Majudin; bergapten; Majudin	25
+CO[C]1[C]2[CH][CH]O[C]2[C](OCC=C(C)C)[C]2O[C]([O])[CH][CH][C]12_0_0	2	13024;98608	Phel-Lopterin; Phellopterin; Phellopterin	6
+CO[C]1[C]2[CH][CH]O[C]2[N][C]2[C]1[CH][CH][C]([O])[C]2OC_1_0	2	165368;5281846	Haplopine	3
+CSCCC([N])[C]([O])[O]_3_0	2	876;15378072	DL-METHIONINE; Methionine; Racemethionine	8
+CSCC[C@H]([N])[C]([O])[O]_3_0	3	6137;5460892;6992087	(2S)-2-Ammonio-4-(Methylsulfanyl)Butanoate; FFEARJCKVFRZRR-BYPYZUCNSA-M; L-Methionine; Methionine; h-Met-h	24
+C[C@@H]([O])[C@H]([N])[C]([O])[O]_4_0	2	6288;5460797	AYFVYJQAPQTCCC-GBXIJSLDSA-M; L-Threonine; Threonin; Threonine	21
+C[C@@H]1O[C@@H](O[C@H]2[C@H](O[C@H]3[C@H](O[C@H]4CC[C@@]5(C)[C@@H](CC[C@]6(C)[C@@H]5CC=C5[C@@H]7CC(C)(C)C[C@@H]([O])[C@]7(C)CC[C@]56C)[C@@]4(C)C[O])O[C@H]([C]([O])[O])[C@@H]([O])[C@@H]3[O])O[C@H](C[O])[C@@H]([O])[C@@H]2[O])[C@H]([O])[C@H]([O])[C@H]1[O]_11_0	2	21607812;177823831	Azukisaponin V; Azukisaponin V; PTDAHAWQAGSZDD-NADIDOHQSA-N	5
+C[C@@H]1O[C@@H](O[C@H]2[C@H](O[C]([O])[C@]34CCC(C)(C)C[C@H]3C3=CC[C@@H]5[C@@]6(C)C[C@H]([O])[C@H](O[C@@H]7O[C@H](CO[C@@H]8O[C@H](C[O])[C@@H]([O])[C@H]([O])[C@H]8[O])[C@@H]([O])[C@H]([O])[C@H]7[O])C(C[O])(C[O])[C@@H]6CC[C@@]5(C)[C@]3(C)C[C@H]4[O])OC[C@H]([O])[C@@H]2[O])[C@H]([O])[C@H]([O])[C@H]1O[C@@H]1OC[C@@H]([O])[C@H](O[C@@H]2OC[C@]([O])(C[O])[C@H]2[O])[C@H]1[O]_20_0	2	70698293;75251137	Platycodin D3; Platycodin D3; platycodin D3	2
+C[C@@H]1O[C@@H](O[C]2[C]([O])[C]3[C]([O])[CH][C]([O])[CH][C]3O[C]2[C]2[CH][CH][C]([O])[C]([O])[CH]2)[C@H]([O])[C@H]([O])[C@H]1[O]_7_0	3	5280459;16219923;49792009	2-(3,4-Dihydroxyphenyl)-5,7-Dihydroxy-3-[(2S,3R,4R,5R,6S)-3,4,5-Trihydroxy-6-Methyloxan-2-Yl]Oxychromen-4-One;Hydrate; 2″-O-Galloylhyperin; Cis-9,Cis-12-Linoleicacid; Quercetin-3-O-Î‘-Lrhamnoside,Quercitrin; Quercitrin; Thujin; galloylhyperin; quercetin-3-o-beta-D-glu; quercitrin; OXGUCUVFOIWWQJ-HQBVPOQASA-M	29
+C[C@H](CC[C@H]([O])C(C)(C)[O])[C@H]1CC[C@@]2(C)[C]3[CH]C[C@H]4C(C)(C)[C]([O])CC[C@]4(C)[C]3[CH]C[C@]12C_2_0	2	73294;10253565	Ganodermanondiol	2
+C[CH][CH][CH][CH][CH][CH]CC[CH][CH][CH][CH][C]([O])[N]CC(C)(C)[O]_2_0	2	14135316;14135317	Hydroxy-Gamma-Isosanshool; Hydroxy-Gamma-Sanshool	2
+C[CH][CH][CH][CH][CH][CH]CC[CH][CH][C]([O])[N]CC(C)(C)[O]_2_0	3	10084135;10220912;46870578	Hydroxy-Alpha-Sanshool; Hydroxy-Beta-Sanshool; timuramide C; LHFKHAVGGJJQFF-JRNWQWJGSA-N	3
+C[CH][CH][CH][CH][CH][CH]CC[CH][CH][C]([O])[N]CC(C)([O])C[O]_3_0	2	76331637;162966317	KJKPLXHQKKPHTL-ZWQWEHNQSA-N; hydroxy-beta-sanshool	2
+C[CH][CH][CH][O]_0_0	2	447466;643950	CROTONALDEHYDE; Crotonaldehyde; crotonaldehyde; MLUCVPSAIODCQM-IHWYPQMZSA-N	3
+C[CH][CH][C]([O])[O]_1_0	2	19499;637090	BEO; Crotonic Acid	2
+C[CH][CH][C]1[CH][CH][C](OC)[CH][CH]1_0_0	4	7703;637563;1549040;5370448	1-Methoxy-4-Prop-1-Enylbenzene; 1-Methoxy-4-[(Z)-Prop-1-Enyl]Benzene; cis-p-Propenylanisole; 1-methoxy-4-(1-propenyl)benzene; ANETHOLE; Anethole; Trans Anethole; Trans-Anethole; Trans-anethole; anethole; cis-Anethol; trans-anethole; Anethole	58
+C[CH][CH][C]1[CH][CH][C](OC)[C](OC)[CH]1_0_0	5	7128;263169;637776;1549045;11400799	Cis-Methylisoeugenol; Trans-Methyl Isoeugenol; n.a.; Isohomogenol; Isohomogenol,Trans-Methyl Isoeugenol; Methylisoeugenol; Methyl Isoeugenol; Methyl isoeugenol; NNWHUJCUHAELCL-UHFFFAOYSA-N	14
+C[CH][CH][C]1[CH][CH][C](OCC=C(C)C)[CH][CH]1_0_0	2	5316879;91746961	3,3-Dimethyl Allyl-P-Propenyl Phenyl Ether; JGELFJUQMIUNOO-SNAWJCMRSA-N; JGELFJUQMIUNOO-PLNGDYQASA-N	2
+C[CH][CH][C]1[CH][CH][C]([O])[C](OC)[CH]1_1_0	3	853433;1549041;23668813	(E)-Isoeugenol; Isoeugenol; iso-eugenol; isoeugenol; (Z)-2-Methoxy-4-(1-Propenyl)Phenol; Isoeugenol; cis-Isoeugenol; SKPCFEKMDDAMPN-UHFFFAOYSA-M	29
+C[CH][CH][C]1[CH][C](OC)[C](OC)[C](OC)[CH]1_0_0	2	78932;5318557	1,2,3-Trimethoxy-5-Propenyl-Benzene; Trans-Isoelemicin; trans-isoelemicin; ISOELEMICIN; Isoelemicin	4
+C[CH][CH][C]1[CH][C](OC)[C]2O[C@@H]([C]3[CH][CH][C]([O])[C](OC)[CH]3)[C@H](C)[C]2[CH]1_1_0	2	179578;6442393	ITDOFWOJEDZPCF-CWTRNNRKSA-N; Licarine A	2
+C[CH][CH][C]1[CH][C](OC)[C]2O[C@@H]([C]3[CH][CH][C]4OCO[C]4[CH]3)[C@H](C)[C]2[CH]1_0_0	2	162622;6441061	DMMQXURQRMNSBM-CWTRNNRKSA-N; Licarin B; Licarine B	2
+C[CH][CH][C]1[CH][C](OC)[C]2O[C@H]([C]3[CH][C](OC)[C]4OCO[C]4[CH]3)[C@@H](C)[C]2[CH]1_0_0	2	52326145;162929136	2,3-Dihydro-7-Methoxy-2-(3-Methoxy-4,5-Methylenedioxyphenyl)-3-Methyl-5-(E)-Propenyl-Benzofuran; 2,3-dihydro-7-methoxy-2-(3-methoxy-4,5-methylenedioxyphenyl)-3-methyl-5-(E)-propenyl-benzofuran; UIWUAELYQAENKN-BUXKBTBVSA-N	2
+C[CH][CH][C][C][C][C]CC[CH][CH][CH][CH][C]([O])[N]CC(C)C_1_0	2	14427417;171118621	N-Isobutyl-2 E,4 E,12 E-Tetradecatrien-8,10-Di-Ynamide; N-Isobutyl-2E,4E,12E-Tetradecatrien-8,10-Diynamide; N-Isobutyl-2E,4E,12Z-Tetradecatrien-8,10-Diynamide	2
+C[CH][C](C)[CH][CH][CH][C](C)C_0_0	3	5317469;5368821;5371125	Allo-Ocimene; Allocymene; Alloocimene; GQVMHMFBVWSSPF-DAIHKBMKSA-N	9
+C[CH][C](C)[C]([O])OCC/C=C\CC_0_0	2	15461361;16220109	JNWQKXUWZWKUAY-BHHIIOOYSA-N; [(Z)-Hex-3-Enyl] (E)-2-Methylbut-2-Enoate	2
+C[CH][C](C)[C]([O])O[C@H]1C[C@](C)([O])[C]2[CH]C[C](C)[C]2[C@H]2O[C]([O])[C@@H](C)[C@H]12_1_0	2	101078309;101672241	ASGYUBOOEJENCP-AURNDOKASA-N; ASGYUBOOEJENCP-LDJNSDIRSA-N	2
+C[CH][C](C)[C]([O])O[C@H]1C[C@](C)([O])[C]2[CH]O[C](C)[C]2[C@H]2O[C]([O])[C@@H](C)[C@H]12_1_0	2	102008484;102008485	UUYOHEAYCPQMKY-PORWQSLVSA-N; UUYOHEAYCPQMKY-UMGKDSHHSA-N	2
+C[CH][C](C)[C]([O])O[C@H]1C[C@](C)([O])[C]2[C]([O])C[C@@](C)([O])[C]2[C@H]2O[C]([O])[C@@H](C)[C@H]12_2_0	2	15922700;101143220	TVGNHRQZWVBIOL-HDUWLKQYSA-N; TVGNHRQZWVBIOL-VGDIOAILSA-N	2
+C[CH][C](C)[C]([O])O[C@H]1C[C](C)[C]2[CH][CH][C@](C)([O])[C@@H]2[C@H]2O[C]([O])[C@@H](C)[C@@H]21_1_0	2	163019353;163019354	BLTFQIZNHIDNKJ-JWWDXQHGSA-N; BLTFQIZNHIDNKJ-RIJBYODASA-N	2
+C[CH][C](C)[C]([O])[O]_1_0	2	6656;125468	Tiglic acid	2
+C[C](C)[CH][C]([O])[CH][C](C)C1CC=C(C)CC1_0_0	2	6365122;12299866	OJEFBZMKKJTKKK-JLHYYAGUSA-N; OJEFBZMKKJTKKK-RAXLEYEMSA-N	2
+C[C]([CH]CC[C@@H](C)[C@H]1CC[C@@]2(C)[C]3[C]([O])C[C@H]4C(C)(C)[C]([O])CC[C@]4(C)[C]3CC[C@]12C)[C]([O])[O]_1_0	2	11784642;46888220	Ganode-8-En-Ric Acid Dm; Ganoderic Acid DM; Ganoderic acid DM	2
+C[C]([CH][C@@H]([O])C[C@@H](C)[C@H]1C[C@H]([O])[C@@]2(C)[C]3[C]([C]([O])C[C@]12C)[C@@]1(C)CC[C]([O])C(C)(C)[C@@H]1C[C@@H]3[O])[C]([O])[O]_4_0	2	15427808;20055988	Ganode-8-En-Ricacid G; Ganoderic Acid Γ; ganoderic acid G; Ganoderic Acid Î“	2
+C[C]([CH][C@@H]1CC[C@@H](C)[C@H]2CCC(C)=C12)[C]([O])[O]_1_0	2	4229818;6440940	2,6-di(tert-butyl)-4-hydroxy-4-methyl-2,5-cyclohexadien-1-one; 3-hydroxy-α-ionone; 4-(2,6,6-Trimethyl-1-cyclohexenl-yl)-3-buten-2-ol; Valerenic Acid	4
+C[C]([CH][CH]C1([O])[C](C)[CH][C]([O])CC1(C)C)[CH][C]([O])[O]_2_0	3	287291;5375199;5375200	(2E,4E)-5-(1-Hydroxy-2,6,6-Trimethyl-4-Oxocyclohex-2-En-1-Yl)-3-Methylpenta-2,4-Dienoic Acid; 14375-45-2; Abscisic Acid; JLIDBLDQVAYHNE-UHFFFAOYSA-N	9
+C[C]([CH][CH][CH][CH][C](C)[CH][CH][CH][C](C)C1C=C2C(C)(C)CC([O])CC2(C)O1)[CH][CH][CH][C](C)[CH][CH]C1C(C)=CC([O])CC1(C)C_2_0	2	613453;5376313	Chrysanthemaxanthin; JRHJXXLCNATYLS-OMSIYMKDSA-N	6
+C[C]([CH][CH][CH][CH][C](C)[CH][CH][CH][C](C)[CH][CH][CH][C](C)CCC=C(C)C)[CH][CH][CH][C](C)[CH][CH][CH][C](C)CCC=C(C)C_0_0	2	446925;56841918	LYC; LYCOPENE; Lycopene; lycopene; cislycopene	9
+C[C]([CH][CH][CH][CH][C](C)[CH][CH][CH][C](C)[CH][CH][C]1[C](C)CCCC1(C)C)[CH][CH][CH][C](C)[CH][CH][C]1[C](C)CCCC1(C)C_0_0	2	5280489;10463072	Beta Carotene; Beta-Carotene; beta carotene; beta-carotene; Β-Carotene; Beta carotene	49
+C[C]([CH][CH][CH][CH][C](C)[CH][CH][CH][C](C)[C]([O])[O])[CH][CH][CH][C](C)[C]([O])[O]_2_0	2	5281232;25244519	Crocetin; crocetin; Α-Crocetin; PANKHBYNKQNAHN-MQQNZMFNSA-L	5
+C[C]([CH][CH][CH][C](C)[CH][C]([O])[O])[CH][CH][C]1[C](C)CCCC1(C)C_1_0	2	5538;444795	(2E,4E,6E,8Z)-3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexenyl)nona-2,4,6,8-tetraen-1-ol; 13-cis-retinal; Apocarotenal; heptadecadienoic acid; Retinoic Acid	12
+C[C]([CH][CH][O])CCC=C(C)C_0_0	4	8843;638011;643779;11197481	(E)-Citral,3,7-Dimethylocta-2,6-Dienal,Citral-B; Citral; Geranial; citral; (Z)-Citral; Citral,Neral; Neral; WTEVQBCEXWBHNA-YFHOEESVSA-N; 3,7-Dimethylocta-2,6-Dienal; YKXLOLXPAVQFLX-WPZRUTIUSA-N	34
+C[C]([CH][CH][O])[CH][CH][CH][C](C)CCC=C(C)C_0_0	2	549769;5365928	XXDVGEYVTWJVBB-KYPPLYASSA-N; XXDVGEYVTWJVBB-UHFFFAOYSA-N	2
+C[C]([CH][C]([O])[O])CCC=C(C)C_1_0	2	5275520;5312583	(2E)-3,7-Dimethylocta-2,6-Dienoic Acid; Neric acid	2
+C[C]([CH][O])[CH][CH][CH][C](C)[CH][CH][CH][C](C)[CH][CH][CH][C](C)[CH][CH][CH][CH][C](C)[CH][CH][CH][C](C)[CH][CH][CH][C](C)CCC=C(C)C_0_0	2	5316458;10128841	3,4-Dehydrolycopen-16-al; FPLASDSFNINBIY-GLXXQTDRSA-N	2
+C[C]([O])CC[C]1[CH][CH][C]([O])[CH][CH]1_1_0	2	21648;11241848	P-Hydroxybenzyl Acetone; Raspberryketone; Rheosmin	3
+C[C]([O])OC1CC2CCC1(C)C2(C)C_0_0	3	6448;442723;129716383	(4,7,7-Trimethyl-3-Bicyclo[2.2.1]Heptanyl) Acetate; 1,7,7-Trimethylbicyclo[2.2.1]Heptan-2-Yl Acetate,Bornyl Acetate; Bornyl acetate; L-bornyl acetate; ZINC00388662; Zinc00388662	15
+C[C]([O])OCC=C(C)CCC=C(C)CCC=C(C)C_0_0	2	40091;94403	Farnesol acetate; Farnesyl Acetate; Farnesyl acetate	8
+C[C]([O])OC[CH][CH][C]1[CH][CH][CH][CH][CH]1_0_0	2	5282110;5315912	Cinnamyl Acetate; Cinnamyl acetate; WJSDHUCWMSHDCR-YVMONPNESA-N; WJSDHUCWMSHDCR-VMPITWQZSA-N; cinnamyl acetate	6
+C[C]([O])O[C@H]1C[C@H]([C@H](C)CC[CH][C](C)[C]([O])[O])[C@@]2(C)C[CH][C]3[C]([CH]C[C@H]4C(C)(C)[C@H](O[C](C)[O])CC[C@]34C)[C@]12C_1_0	2	5317517;9985134	(E,6R)-6-[(3R,5R,10S,13R,14R,15S,17R)-3,15-diacetoxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-octahydro-1H-cyclopenta[a]phenanthren-17-yl]-2-methylhept-2-enoic acid; Ganodermic Acid R; Ganodermic acid R	2
+C[C]([O])[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@H]([O])CC[C@]4(C)[C@H]3CC[C@]12C_1_0	2	92786;12732768	2-Hydroxybicyclo[3.1.1]Heptan-6-One; 2-hydroxybicyclo[3.1.1]heptan-6-one; Allopregnanolone	2
+C[C]([O])[CH][CH]C1C(C)=CCCC1(C)C_0_0	2	566506;5282108	2,2,6,6-Tetramethyl-Piperidone; 24190-29-2; ALPHA-IONONE; α-ionone; α－ionone	6
+C[C]([O])[CH][CH][C]1[C](C)[C@@H]([O])CCC1(C)C_1_0	2	5363700;13854911	3-Hydroxy-Î’-Ionone; 3-Hydroxy-Β-Ionone	2
+C[C]([O])[C]1[CH][CH][CH][CH][CH]1_0_0	2	7410;441705	ACETOPHENONE; Acetophenone; Hypnon	13
+C[C]([O])[C]1[C]([O])[C](C)[C]([O])[C](C[C]2[C]([O])[C]3[CH][CH]C(C)(C)O[C]3[C]([C]([O])[CH][CH][C]3[CH][CH][CH][CH][CH]3)[C]2[O])[C]1[O]_5_0	2	5103;5281847	Rottlerin; boesenbergin A	4
+C[C]([O])[O]_1_0	3	175;176;14543446	Acetate; Fenchylacetat; QTBSBXVTEAMEQO-UHFFFAOYSA-M; [(1S,5S,7S)-7-acetoxy-5-isopropenyl-2,8-dimethylene-cyclodecyl] acetate; [(2R,4R)-4-acetyloxypentan-2-yl] acetate; Acetic Acid; Acetic Acid,Propionic Acid; acetic acid; Acetic Acid; Acetic acid; acetic acid	73
+C[C]1C[C@@H](O[C@@H]2O[C@H](C[O])[C@@H]([O])[C@H]([O])[C@H]2[O])CC(C)(C)[C]1[C]([O])[O]_5_0	2	5320582;154497761	Picrocrocinic Acid O-Î’-D-Glucopyrinoside; picrocrocinic acid; Picrocrocinic Acid O-Β-D-Glucopyrinoside	2
+C[C]1[CH][CH]C(C(C)C)C[CH]1_0_0	2	7460;5318241	(s)-(+)-alpha-phellandrene; 5-Isopropyl-2-Methylcyclohexa-1,3-Diene,Α-Phellandrene; Alpha-Phellandrene; Alpha-phellandrene; alpha-phellandrene; 2-Methyl-5-Propan-2-Ylcyclohexa-1,3-Diene; Phellandrene; alpha-phellandrene; phellandrene; Α-Phellandrene	21
+C[C]1[CH][CH]C(C(C)CCC=C(C)C)C[CH]1_0_0	2	521253;90250735	KKOXKGNSUHTUBV-UHFFFAOYSA-N; Zingiberene	9
+C[C]1[CH][CH][CH][C](C)[CH]1_0_0	2	7929;15605917	1,3-dimethylnaphthalene; M-XYLENE; M-Xylene; m-xylene; M-xylene	16
+C[C]1[CH][CH][C](C(C)C)CC1_0_0	2	7462;101148425	1-Isopropyl-4-Methylcyclohexa-1,3-Diene,Terpilene,Α-Terpinene; Terpilene; Alpha-Terpinene; Terpilene; alpha-terpinene; Α-Terpinen; Α-Terpinene	32
+C[C]1[CH][CH][C](C(C)C)[CH][CH]1_0_0	2	7463;101806253	4-Cymol; P-Cymene; P-Cymol,P-Cymene,Umbelliferone; p-cymene; Cymol	55
+C[C]1[CH][CH][C](C(C)C)[C]([O])[CH]1_1_0	2	6989;101241953	THYMOL; Thymol; thymol; Thymol	34
+C[C]1[CH][CH][C](C(C)CCC=C(C)C)[CH][CH]1_0_0	2	92139;96355400	Alpha-curcumene; alpha-Curcumene; Curcumene; VMYXUZSZMNBRCN-UHFFFAOYSA-N; alpha-curcumene; Α-Curcumene	16
+C[C]1[CH][CH][C]2[C](C)[CH]CC(C(C)C)[C]2[CH]1_0_0	2	528708;636694	CUUMXRBKJIDIAY-UHFFFAOYSA-N; calacorene; Calacorene	8
+C[C]1[CH][CH][C]2[C](C)[CH][CH][C](C(C)C)[C]2[CH]1_0_0	2	10225;129775721	Cadalin	4
+C[C]1[CH][CH][C]2[C]([CH]1)C(C(C)C)CCC2C_0_0	2	6537502;53318464	(Z)-calamenene; (z)-calamenene; Trans-calamenene	5
+C[C]1[CH][C]([CH][CH][C]([O])[O])[CH][CH][C]1[O]_2_0	2	5319676;53404339	(E-P-Hydroxy-Cinnamic Acid; 3-Methyl-4-hydroxycinnamic acid	1
+C[C]1[CH][C]([O])C2CC1C2(C)C_0_0	2	29025;131750874	DCSCXTJOXBUFGB-UHFFFAOYSA-N; L-verbenone; l-Verbenone	4
+C[C]1[CH][C]([O])CC(C)(C)C1([O])C=CC(C)OC1OC(C[O])C([O])C([O])C1[O]_5_0	2	3016654;73815023	(4S)-4-hydroxy-3,5,5-trimethyl-4-[(E,3R)-3-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydropyran-2-yl]oxybut-1-enyl]cyclohex-2-en-1-one; (6s,9r)-roseoside	5
+C[C]1[CH][C]([O])[C]2[C]([CH][C]3[CH][C]([O])[CH][C]([O])[C]3[C]2[O])O1_3_0	2	5320218;135453893	Nor-Rubrofusarin; Nor-Rubrofusarin; nor-rubrofusarin	3
+C[C]1[CH][C]([O])[C]2[C]([O])[C]3[C]([O])[CH][C]([O])[CH][C]3[C]([O])[C]2[CH]1_3_0	2	3220;25201450	1,6,8-trihydroxy-3-carboxylanthraquinone; Emodin; emodin; Emodin-1; RHMXXJGYXNZAPX-UHFFFAOYSA-M	21
+C[C]1[CH][C]2[CH][C]3[C](C)[CH][C]([O])O[C]3[C](C)[C]2O1_0_0	2	5585;11338042	LACTONE; Lactone; Trioxsalen	9
+C[C]1[CH][C]2[N][CH]N(C3OC(C[O])C(O[P]([O])([O])OC(C)C[N][C]([O])CCC4(C)[C]5[N]C(C4C[C]([N])[O])C4(C)[N][C]([C](C)[C]6[N][C]([CH][C]7[N][C]([C]5C)C(CC[C]([N])[O])C7(C)C)C(CC[C]([N])[O])C6(C)C[C]([N])[O])C(CC[C]([N])[O])C4(C)C[C]([N])[O])C3[O])[C]2[CH][C]1C_17_0	2	5474658;54605677	AGVAZMGAQJOSFJ-UHFFFAOYSA-M; Depinar	5
+C[C]1[CH][N][C]([O])[N][C]1[O]_2_0	2	1135;21637637	11Alpha-Methoxysaikosaponin F; Thymine; 5-methyluracil; Thymine	15
+C[C]1[C](C)[C]2OC(C)(CCCC(C)CCCC(C)CCCC(C)C)CC[C]2[C](C)[C]1[O]_1_0	2	2116;7019274	Alpha-Tochopherol; DL-ALPHA-TOCOPHEROL; Α-Tocopherol; α-tocopherol; Vitamin e	24
+C[C]1[C]([O])[C]2[CH][CH][CH][CH][C]2[C]([O])[C]1CC=C(C)CCCC(C)CCCC(C)CCCC(C)C_0_0	2	4812;9975052	MBWXNTAXLNYFJB-UHFFFAOYSA-N; Vitamin k	4
+C[C]1[N][CH][C](CO[P]([O])([O])[O])[C]([CH][O])[C]1[O]_3_0	3	1051;644168;22833598	Pyridoxal 5'-Phosphate(2-); Pyridoxal Phosphate; Vitamin b6	9
+C[C]1[N][C]([N])[CH][C](CN2[CH]S[C](CC[O])[C]2C)[N]1_3_1	2	44134964;44134965	WQRHEUJLQBIGEO-UHFFFAOYSA-M; n.a.	4
+C[C][C][C][C][C][C][CH][CH]CC[C]([O])CC_0_0	2	5321840;24720988	6-tetradecene-8,10,12-triyn-3-one; Tetradec-8,10,12-Triyne-6-Ene-3-One; Tetradec-8,10,12-triyne-6-ene-3-one	2
+C[N]C[C@H]([O])[C]1[CH][CH][C]([O])[CH][CH]1_3_0	2	854067;6951208	4-[(1R)-1-Hydroxy-2-(Methylamino)Ethyl]Phenol; D-synephrine; YRCWQPVGYLYSOX-VIFPVBQESA-O	4
+C[S]([O])/C=C/CC[N][C][S]_0_0	2	6433206;90479303	Raphanin; raphanin; sulforaphene	2
+C[S]([O])CCC([N])[C]([O])[O]_3_0	2	5321888;5321889	(2S)-2-ammonio-4-[(R)-methylsulfinyl]butyrate; (2s)-2-ammonio-4-[(r)-methylsulfinyl]butyrate; Methionine sulfoxide; n.a.	6
+C[S]([O])CCCC[N][C][S]_0_0	2	5350;10419733	4-Methylsulfinyl Butyl Isothiocyanate; Sulforaphane; L-Sulforaphane	3
+C[S]([O])CCC[C]([N]OS([O])([O])[O])S[C@@H]1O[C@H](C[O])[C@@H]([O])[C@H]([O])[C@H]1[O]_5_0	2	656543;9548622	PHYYADMVYQURSX-WWFIZPDBSA-N; glucoiberin	2
+[Al]_0_0	2	5359268;6398623	7429-90-5; Aluminium; Aluminum; Q27115691	13
+[CH2][CH][CH][CH]CCC=C_0_0	2	101945;5365557	ZTJHDEXGCKAXRZ-FNORWQNLSA-N; ZTJHDEXGCKAXRZ-UHFFFAOYSA-N	2
+[CH2][CH][C](C)[CH]C/C=C(\C)CCC=C(C)C_0_0	2	5281516;5362889	(3E,6E)-3,7,11-Trimethyldodeca-1,3,6,10-Tetraene; (E,E)-Î‘-Farnesene,3,7,11-Trimethyldodeca-1,3,6,10-Tetraene,Farnesene,Î‘-Farnesene; Alpha-Farnesene; Farnesene; alpha-Farnesene; alpha-farnesene; CXENHBSYCFFKJS-OXYODPPFSA-N	28
+[CH2][CH][C](C)[CH]CC=C(C)C_0_0	4	18756;5281553;5320250;5352710	(E)Ocimene; (E)ocimene; E-ocimene; Ocimene; P-Ocimene; Trans-Beta-Ocimene; Trans-Ocimene; p-Ocimene; Β-Trans-Ocimene; (Z)-3,7-Dimethyl-1,3,6-Octatriene ,Î’-Cis-Ocimene; (Z)-Beta-Ocimene; IHPKGUQCSIINRJ-NTMALXAHSA-N; cis-beta-Ocimene; cis-ocimene; 3,7-Dimethyl-1,3,6-Octatriene; 3,7-Dimethylocta-1,3,6-Triene; Aplotaxene; Ocimene	40
+[CH2][CH][C](C)[CH]CCC(=C)C_0_0	3	101720;5320249;5463455	Alpha-ocimene; XJPBRODHZKDRCB-NTMALXAHSA-N; alpha-Ocimene; alpha-trans-ocimene ;1,3,7-octatriene,3,7-dimethyl;alpha-Ocimene	6
+[CH2][CH][C]([CH2])CCC=C(C)CCC=C(C)C_0_0	3	10407;447938;11460797	(E)-beta-Farnesene; (e)-beta-farnesene; Cis-beta-farnesene; JSNRRGGBADWTMC-UHFFFAOYSA-N	23
+[CH2][CH][C]([CH2])CCC=C(C)C_0_0	2	31253;184489	Beta-Myrcene; Myrcene; beta-myrcene; Myrcene	66
+[CH2][CH][C]1[CH][CH][CH][CH][CH]1_0_0	2	7501;9548843	STYRENE; Styrene; styrene; Styrene	9
+[CH2][CH][C]1[C]2[CH][C]3[N][C]([CH][C]4[N][C]([CH][C]5[N][C]([CH][C]([N]2)[C]1C)[C](C)[C]5CC[C]([O])[O])[C](CC[C]([O])[O])[C]4C)[C]([CH][CH2])[C]3C_4_0	2	4971;455658	Hemin; hemin; Protoporphyrin; Protoporphyrin Ix	4
+[CH2][C](C)[CH][CH][C@H](CC[C](C)[O])C(C)C_0_0	2	5319691;16058296	(?)-Solanone; 8-Methyl-5-Isopropyl-6,8-Nonadiene-2-One; PQDRXUSSKFWCFA-STMXVASLSA-N; 8-Methyl-5-Isopropyl-6,8-Nonadiene-2-One	4
+[CH2][C]1[CH][CH]C(C(C)C)CC/C(C)=C/CC1_0_0	2	6436582;74764030	GAIBLDCXCZKKJE-NWYXHMAXSA-N; GAIBLDCXCZKKJE-YZJXYJLZSA-N	6
+[CH2][C]1[CH][CH]C(C(C)C)CC/C(C)=C\CC1_0_0	2	5373727;92003564	GAIBLDCXCZKKJE-BZXLUOIMSA-N; GAIBLDCXCZKKJE-XMUOOQAISA-N	6
+[CH2][C]1[CH][CH]C(C(C)CCC=C(C)C)CC1_0_0	2	519764;129716102	Beta-Sesquiphellandrene; Beta-sesquiphellandrene; PHWISBHSBNDZDX-UHFFFAOYSA-N	6
+[CH]1[CH][CH][CH][CH][CH]1_0_0	2	241;5319754	Benzene; Phenanthrene; anthracene; RNG; Rng	13
+[CH]1[CH][CH][C]([N][C]2[CH][CH][CH][CH][CH]2)[CH][CH]1_1_0	2	11487;5362851	DFA; Dfa; Diphenylamine	5
+[CH]1[CH][CH][C]([N][C]2[CH][CH][CH][C]3[CH][CH][CH][CH][C]32)[CH][CH]1_1_0	2	7013;10897459	N-Phenyl-1-naphthylamine; N-Phenylnaphthalen-1-Amine; PANA; Pana	5
+[CH]1[CH][CH][C]2S[CH][N][C]2[CH]1_0_0	2	7222;60024406	Benzo[D]Thiazole; THZ; Benzothiazole	14
+[CH]1[CH][CH][C]2[CH][CH][CH][CH][C]2[CH]1_0_0	2	931;5365678	10,13-Octadecadienoic acid, methyl ester; Naphthalene; Naphthalene; naphthalene; napthalene	33
+[CH]1[CH][CH][C]2[CH][C]3[CH][CH][CH][CH][C]3[CH][C]2[CH]1_0_0	2	8418;6325620	Anthracene; anthracene; Green Oil; Green oil	12
+[CH]1[CH][CH][C]2[N][CH][CH][C]2[CH]1_1_0	2	798;5318122	Indole; Indole; indole	8
+[CH][N]_0_0	2	768;5975	Cyanide; Hydrocyanic Acid; Hydrocyanicacid; Hydrocyanic acid; XFXPMWWXUTWYJX-UHFFFAOYSA-N	8
+[C]C([C])=[C][C][C]/C([C])=[C]/[C][C]/C([C])=[C]/[C][C]/[C]=C(\[C])[C][C]/[C]=C(\[C])[C][C][C][C][O]_0_0	2	5283292;91730038	(E)-5-Decenol; 2-(4a,8-dimethyl-1,2,3,4,4a,5,6,7-octahydro-napthalen-2-yl)-prop-2en-1-ol	2
+[C]O[C]1[C]([C][C]=C([C])[C])[C]([O])[CH][C]2O[C][C@H]3[C]4[CH][C]([C][C]=C([C])[C])[C]([O])[CH][C]4O[C@H]3[C]21_0_0	2	15840593;21774617	(-)-Variabillin; (-)-variabillin; Licoagrocarpin	2
+[C]O[C]1[C]2O[CH][CH][C]2[C](O[C]/[C]=C(\[C])[C][C][C]=C([C])[C])[C]2[CH][CH][C]([O])O[C]21_0_0	2	5316012;10043694	Collinin; cnidicin	2
+[Ca]_0_2	2	14778;5460341	Calcium Oxide; Calcium; calcium	46
+[Cl]_1_0	2	312;5234	16887-00-6; Sodium Chloride	8
+[Cu]_0_0	2	23978;5487843	7440-50-8; Copper; Cuprum; cuprum; DTXSID80216900	34
+[Fe]_0_3	2	14833;518696	Ferric Oxide; ferric oxide; HEMATITE	3
+[K]_0_1	2	4873;5462222	7440-09-7; Potassium; potassium; Potassium Chloride	33
+[N]C1CCCCC1_2_0	2	7965;1549093	Cyclohexylamine; HAI	2
+[N]CC([O])[C]1[CH][CH][C]([O])[CH][CH]1_4_0	2	4581;21680226	4-[(1S)-1-hydroxy-2-methylaminoethyl]phenol; Octopamine	4
+[N]CCCC[C@H]([N])[C]([O])[O]_5_0	2	5962;24848423	KDXKERNSBIXSRK-YFKPBYRVSA-O; L-Lysine; Lysine; Lysine Acid; lysine acid	18
+[N]CCCC[N]CCCC[N]_5_0	2	368;25245489	Sym-homospermidine; UODZHRGDSPLRMD-UHFFFAOYSA-Q	2
+[N]CCCC[N]CCC[N]_5_0	2	1102;10958964	SPD;spermidine; Spermidine; Spermine; sym-Homospermidine; Spermidine	10
+[N]CCCC[N]_4_0	2	1045;5351466	1,4-Diaminobutane; Putrescine; putrescine; Putrescine Hydrochloride	14
+[N]CCC[C]([O])[O]_3_0	3	119;539806;6992099	4-Aminobutyric Acid; Gamma-Aminobutyric Acid; Γ-Aminobutyric Acid; Gamma-Aminobutyric Acid; gamma-aminobutyric acid; Gamma-aminobutyric acid	35
+[N]CCS([O])([O])[O]_3_0	2	1123;4068592	Taurine	13
+[N]CC[C@@H]([N])[C]([O])[O]_5_0	2	638153;7019698	L-Î‘,Î“-Diaminobutyric Acid; L-Α,Γ-Diaminobutyric Acid	2
+[N]CC[C]1[CH][CH][C]([O])[CH][CH]1_3_0	2	5610;5249538	DZGWFCGJZKJUFP-UHFFFAOYSA-O; N-Candicine; Tyramine; tyramine	9
+[N]CC[C]1[CH][N][CH][N]1_3_0	2	774;25201573	Histamine; Histaminium	11
+[N]CC[C]1[CH][N][C]2[CH][CH][CH][CH][C]12_3_0	2	1150;11970467	TSS; Tryptamine; XYNMIXARELPXEJ-UHFFFAOYSA-L	8
+[N]C[C@H]([O])[C]1[CH][CH][C]([O])[C]([O])[CH]1_5_0	2	6921840;25127519	(R)-Noradrenaline(1+); WNPNNLQNNJQYFA-YIDNRZKSSA-N	2
+[N]C[C]([O])[O]_3_0	3	750;476547;5257127	GLY; Glycine	39
+[N][C@@H](CCC[O])[C]([O])[O]_4_0	2	5287587;86309005	L-Alpha-Amino-Delta-Hydroxyvaleric Acid; L-Î‘-Amino-Î”-Hydroxyvaleric Acid; L-Α-Amino-Δ-Hydroxyvalericacid; L-Α-Amino-Δ-Hydroxyvaleric Acid	2
+[N][C@@H](CC[C]([O])[O])[C]([O])[O]_4_0	3	33032;5147171;14598502	3dln; WHUUTDBJXJRKMK-VKHMYHEASA-O; Glutamate; Glutamic Acid; Gulutamine; L-Glutamate; L-Glutamic Acid; Leucinum; glutamate; L-Glutamate Ion	34
+[N][C@@H](CC[O])[C]([O])[O]_4_0	2	12647;44539543	ANRLEQNQSYGXBB-DFWYDOINSA-N; Homoserine; L-Homoserine; n.a.	5
+[N][C@@H](C[C]([O])[O])[C]([O])[O]_4_0	2	5960;13828960	Aspartate; Aspartic Acid; L-Aspartic Acid; Calcium (S)-2-amino-3-carboxypropanoate	28
+[N][C@@H](C[C]1[CH][CH][CH][CH][CH]1)[C]([O])[O]_3_0	2	6140;6925665	(2S)-2-Azaniumyl-3-Phenylpropanoate; 3-phenylpropanoic acid; DL-Tyrosine; L-Phenylalanine; Phenylalanine	26
+[N][C]([N])[N]CCC[C@H]([N])[C]([O])[O]_7_0	3	6322;444360;5287702	Arginine; L-; L-Arginine; arginine; ODKSFYDXXFIFQN-BYPYZUCNSA-O; ODKSFYDXXFIFQN-BYPYZUCNSA-P	29
+[N][C]([N])[N]OCC[C@H]([N])[C]([O])[O]_7_0	2	439202;46224610	Canavanine; Canavanine; GGB; L-canavanine	5
+[N][C]([O])CC([N])[C]([O])[O]_5_0	3	236;522362;5247114	Asparagine; DL-Asparagine; DL-Asparagine Monohydrate	3
+[N][C]([O])C[C@H]([N])[C]([O])[O]_5_0	2	6267;6992089	(2S)-4-Amino-2-Ammonio-4-Oxobutanoate; Crystal VI; L-Asparagine; L-Aspargine; asparamide; l-aspargine; n.a.	12
+[N][C]([O])[CH][CH][C]([O])[O]_3_0	2	5280451;5460391	FSQQTNAZHBEJLS-UPHRSURJSA-M; FSQQTNAZHBEJLS-UPHRSURJSA-N	2
+[N][C]([O])[C]1[CH][CH][CH][N][CH]1_2_0	3	936;21579305;101700544	N'-Methyl nicotineamide; Niacinamide; Nicotinamide; Nicotinamide-N-oxide; Vitamin B; NCA; Nca; Vitamin b; Nicotinamide	21
+[N][C]1[CH][CH]N([C@@H]2O[C@H](CO[P]([O])([O])[O])[C@@H]([O])[C@H]2[O])[C]([O])[N]1_6_0	2	6131;18530344	CMP; Cytidine 5'-Monophosphate; Cytidine 5'-monophosphate (hydrate)	3
+[N][C]1[C]2[CH][CH][CH][CH][C]2[N][C]2[CH][CH][CH][CH][C]21_2_0	2	7019;5124248	Leukol; isoquinoline	2
+[N][C]1[N][CH][N][C]2[C]1[N][CH]N2C1OC(C[O])C([O])C1[O]_5_0	3	191;145447;544574	2-(6-Aminopurin-9-Yl)-5-(Hydroxymethyl)Oxolane-3,4-Diol; ADO; Ado; Adenosine	28
+[N][C]1[N][CH][N][C]2[C]1[N][CH]N2[C@@H]1O[C@@H]2CO[P]([O])([O])O[C@H]2[C@H]1[O]_4_0	3	6076;7059571;23616165	Cyclic AMP; Cyclic Adenosine Monophosphate; IVOMOUWHDPKRLL-KQYNXXCUSA-M; cyclic adenosine 3',5'-monophosphate(cAMP)	15
+[N][C]1[N][C]([O])[C]2[C]([N]CC(C[N][C]3[CH][CH][C]([C]([O])[N][C@@H](CC[C]([O])[O])[C]([O])[O])[CH][CH]3)N2[CH][O])[N]1_8_0	2	143;6006	5-formyltetrahydrofolate; Folinic acid; Leucovorin	6
+[N][C]1[N][C]([O])[C]2[N][CH]N([C@@H]3O[C@@H]4CO[P]([O])([O])O[C@H]4[C@H]3[O])[C]2[N]1_5_0	2	24316;135398570	Cgmp; Cyclic guanosine monophosphate	7
+[N][C]1[N][C]([O])[C]2[N][CH]N([C@@H]3O[C@H](C[O])[C@@H]([O])[C@H]3[O])[C]2[N]1_6_0	3	6802;16219429;135398635	Guanosine; YCHNAJLCEKPFHB-GWTDSMLYSA-N	27
+[N][C]1[N][C]([O])[C]2[N][CH][C]([O])[N][C]2[N]1_4_0	2	10729;135398700	Isoxanthopterin; Ranachrome 4	4
+[N][C]1[N][C]([O])[C]2[N][C](C[N][C]3[CH][CH][C]([C]([O])[N][C@@H](CC[C]([O])[O])[C]([O])[O])[CH][CH]3)[CH][N][C]2[N]1_7_0	2	6037;135398658	(2S)-2-[[4-[(2-Amino-4-Oxo-1H-Pteridin-6-Yl)Methylamino]Benzoyl]Amino]Pentanedioic Acid; Folic Acid; Folic Acid; Folicacid	14
+[O]C1C([O])C([O])C([O])C([O])C1[O]_6_0	2	14038843;15523672	(1R,4E,7E,11R)-1,5,9,9-tetramethyl-12-oxabicyclo[9.1.0]dodeca-4,7-diene; Inositol; Myoinositol	13
+[O]CC([O])C([O])C([O])C([O])C[O]_6_0	3	453;5318861;24848105	Alexitol Sodium; Dulcitol; SWMBOMMGMHMOHE-MVNLRXSJSA-N	10
+[O]CC([O])C[O]_3_0	2	753;74426514	Glycerin; Glycerol; IFP; glycerol; IFP; Ifp	25
+[O]CC1OC(OC2(C[O])OC(C[O])C([O])C2[O])C([O])C([O])C1[O]_8_0	2	1115;189086	CZMRCDWAGMRECN-UHFFFAOYSA-N; Sucrose	16
+[O]CC1OC(O[C]2[CH][C]3[CH][CH][C]([O])O[C]3[CH][C]2[O])C([O])C([O])C1[O]_5_0	2	5351506;44134702	7-Hydroxy-6-[3,4,5-Trihydroxy-6-(Hydroxymethyl)Oxan-2-Yl]Oxychromen-2-One; HMS3373P07	2
+[O]CC1OC(O[C]2[C]([O])[C]3[C]([O])[CH][C]([O])[CH][C]3O[C]2[C]2[CH][CH][C]([O])[CH][CH]2)C([O])C([O])C1[O]_7_0	2	5315698;14756212	5,7-dihydroxy-2-(4-hydroxyphenyl)-3-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one; 5,7-dihydroxy-2-(4-hydroxyphenyl)-3-[(2r,3r,4s,5r,6r)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one; Astragalin	13
+[O]CC1OC(O[C]2[C]([O])[C]3[C]([O])[CH][C]([O])[CH][C]3O[C]2[C]2[CH][CH][C]([O])[C]([O])[CH]2)C([O])C([O])C1[O]_8_0	2	5378597;11616469	2-(3,4-Dihydroxyphenyl)-5,7-Dihydroxy-3-[3,4,5-Trihydroxy-6-(Hydroxymethyl)Oxan-2-Yl]Oxychromen-4-One; Isoquercitrin; isoquercitrin	23
+[O]CC[C]1[CH][CH][CH][CH][CH]1_1_0	2	6054;522487	(R)-(-)-1-phenyl-1,2-ethanediol; 2-PHENYLETHANOL; 2-Phenylethanol; Benzyl Ethyl Alcohol; Phenethyl Alcohol; Phenylethyl Alcohol; p-Cymen-9-ol; PEL; Pel	22
+[O]CC[C]1[CH][CH][C]([O])[CH][CH]1_2_0	2	10393;14192854	2-(4-Hydroxyphenyl)Ethanol; 4-Hydroxyphenethyl Alcohol; P-Hydroxyphenylethyl Alcohol; Tyrosol; Tyrosol	10
+[O]C[C@@]1([O])CO[C@@H]([O])[C@@H]1[O]_4_0	2	441474;12306753	Apiose	3
+[O]C[C@H]1OC(O[C]2[C]([O])[C]3[C]([O])[CH][C]([O])[CH][C]3O[C]2[C]2[CH][CH][C]([O])[CH][CH]2)[C@H]([O])[C@@H]([O])[C@H]1[O]_7_0	2	5462193;5488283	Kaempferol 3-O-D-Galactoside; Kaempferol-3-beta-D-gluco-7-beta-L-rhamnoside; Multiflorin B; quercetin 3-rhamnoside	6
+[O]C[C@H]1OC(O[C]2[C]([O])[C]3[C]([O])[CH][C]([O])[CH][C]3O[C]2[C]2[CH][CH][C]([O])[C]([O])[CH]2)[C@H]([O])[C@@H]([O])[C@H]1[O]_8_0	2	11751616;54758589	OVSQVDMCBVZWGM-HBDJNLTOSA-M; Quercetin-3-Ogalactopyranoside	6
+[O]C[C@H]1O[C@@H](O[C]2[CH][CH][C]([CH][CH][C]([O])[O])[CH][C]2[O])[C@H]([O])[C@@H]([O])[C@@H]1[O]_6_0	2	14825516;54150205	Caffeic Acid 4-O-Glucoside; OHEYCHKLBCPRLZ-TVKJYDDYSA-N	2
+[O]C[C@H]1O[C@@H](O[C]2[CH][CH][C]([C]([O])[CH][CH][C]3[CH][CH][C]([O])[CH][CH]3)[C]([O])[CH]2)[C@H](O[C@@H]2OC[C@]([O])(C[O])[C@H]2[O])[C@@H]([O])[C@@H]1[O]_8_0	2	6442433;14282455	Licuroside; isoliquiritin apioside; Licuroside; licuraside	2
+[O]C[C@H]1O[C@@H](O[C]2[CH][C]3C[C@@H]([C]([O])[O])N([CH][CH][C]4[CH][C]([C]([O])[O])[N][C@@H]([C]([O])[O])C4)[C]3[CH][C]2[O])[C@H]([O])[C@@H]([O])[C@@H]1[O]_8_0	2	6325438;57505033	DHHFDKNIEVKVKS-RYGANQNKSA-N; Isobetanin; isobetanidin; isobetanin	2
+[O]C[C@H]1O[C@@H](S[C](C[C]2[CH][CH][C]([O])[CH][CH]2)[N]OS([O])([O])[O])[C@H]([O])[C@@H]([O])[C@@H]1[O]_6_0	2	9601115;76956748	Sinalbine	2
+[O]C[C@H]1O[C@@H](S[C](C[C]2[CH][N][C]3[CH][CH][CH][CH][C]23)[N]OS([O])([O])[O])[C@H]([O])[C@@H]([O])[C@@H]1[O]_6_0	2	656506;6602378	Glucobrassicin	2
+[O]C[C@H]1O[C@@H]([O])[C@H](O[C]([O])[C]2[CH][C]([O])[C]([O])[C]([O])[CH]2)[C@@H](O[C]([O])[C]2[CH][C]([O])[C]([O])[C]([O])[CH]2)[C@@H]1[O]_9_0	2	471118;21146989	2,3-Di-O-Galloyl-D-Glucose	2
+[O]C[C@H]1O[C@H](OC[C@H]2O[C@@H](O[C@]3(C[O])O[C@H](C[O])[C@@H]([O])[C@@H]3[O])[C@H]([O])[C@@H]([O])[C@@H]2[O])[C@H]([O])[C@@H]([O])[C@H]1[O]_11_0	2	44420456;54580959	(25R)-Samogenin 3-O-β-D-glucopyranosyl (1→2)-β-D-galactopyranoside; (25S)-26-O-β-D-glucopyranosyl-5β-furostan-3β,22α,26-triol; Aspafilioside A; TRE; n-Decyl glucoside; Raffinose	5
+[O]C[C@H]1O[C@H](OC[C@H]2O[C@H](O[C@H]3[C@H]([O])[C@@H]([O])[C@H]([O])O[C@@H]3C[O])[C@H]([O])[C@@H]([O])[C@@H]2[O])[C@H]([O])[C@@H]([O])[C@@H]1[O]_11_0	2	94448;21596275	Panose; panose; WURCS=2.0/2,3,2/[A2122h-1b_1-5][A2122h-1a_1-5]/1-2-2/A4-B1_b6-C1	3
+[O]C[C@H]1O[C@H](O[C@H]2O[C@H](C[O])[C@@H]([O])[C@H]([O])[C@H]2[O])[C@H]([O])[C@@H]([O])[C@@H]1[O]_8_0	2	7427;181978	(2R,3S,4S,5R,6R)-2-(Hydroxymethyl)-6-[(2R,3R,4S,5S,6R)-3,4,5-Trihydroxy-6-(Hydroxymethyl)Oxan-2-Yl]Oxyoxane-3,4,5-Triol;Dihydrate; Trehalose	4
+[O]C[C@H]1[N]C[C@@H]([O])[C@@H]1[O]_4_0	2	451991;21592099	(2R,3R,4R)-2-(Hydroxymethyl)Pyrrolidine-3,4-Diol; 2,5-Dihydroxymethyl-3,4-dihydroxypyrrolidine	2
+[O]C[CH][CH][C]1[CH][CH][CH][CH][CH]1_1_0	2	308;5315892	3-Phenylprop-2-En-1-Ol; Cinnamic Alcohol; Cinnamyl Alcohol; Styrone	7
+[O]C[C]1[CH][CH][CH][CH][CH]1_1_0	3	244;10399059;21575641	10,12-peroxycalamenene; WLN: Q1R; Wln: q1r; Aromatic alcohol; Benzyl Alcohol; phenylmethol; Benzyl Alcohol; Benzyl alcohol	39
+[O]S([O])([O])[O]_2_0	4	24083;24393;24436;24497	Calcium Sulfate; calcium sulfate; Ferrous Salt; Ferrous Sulfate; Magnesium Sulfate; Sodium Sulfate	21
+[O][CH]C[C]1[CH][CH][CH][CH][CH]1_0_0	3	998;10889657;101024583	Hyacinthin; Hyacinthin; Phenylacetaldehyde; benzene acetaldehyde; Phenylacetaldehyde	27
+[O][CH][CH][CH][C]1[CH][CH][CH][CH][CH]1_0_0	3	637511;6325381;6428995	Cinnamaldehyde; Cinnamaldehyde; cinnamaldehyde; cinnamic aldehyde; Cinnamic Aldehyde; cis-Cinnamaldehyde	22
+[O][CH][CH][CH][C]1[CH][CH][C]([O])[CH][CH]1_1_0	2	440733;641301	Trans-P-Coumaryl Aldehyde; p-hydroxycinnamaldehyde	2
+[O][CH][C]1[CH][CH][CH][CH][CH]1_0_0	3	240;5283378;20375919	BHLWLVTYEDJFGZ-UHFFFAOYSA-N; Benzaldehyde; Benzaldehyde; WLN: VHR; benzaldehyde; benzaldehyde,4-(1-methylethyl); p-Tolualdehyde	48
+[O][CH][C]1[CH][CH][C]([CH][O])[CH][CH]1_0_0	2	12173;44630212	Terephthaldehyde; terephthaldehyde; WLN: VHR DVH; Wln: vhr dvh	5
+[O][CH][C]1[CH][CH][C]([O])[C]([O])[CH]1_2_0	2	8768;102093834	3,4-Dihydroxybenzaldehyde; Protocatechualdehyde; Protocatechuic Aldehyde; protocatechualdehyde; pyrocatechualdehyde; Protocatechualdehyde	17
+[O][CH][O]_1_0	4	283;284;44152240;100998120	2(R)-(3,4-dimethoxy-phenyl)-propanel,3-diol-l-O-β-D-glucopyranoside; Formic Acid; Saturated Fatty Acids; Formate; Formic Acid; Formic Acid; Formic acid; Formic acid, copper salt	18
+[O][C]([CH][CH]CC[C]1[CH][CH][C]2OCO[C]2[CH]1)N1CCCCC1_0_0	2	276753;5320618	(E)-5-(4-hydroxy-3-methoxy-phenyl)-1-piperidino-pent-2-en-1-one; 5,6-dihydropiperlonguminine; Piperanine; piperdardine; Piperanine	2
+[O][C]([CH][CH][CH][CH]CC[CH][CH][C]1[CH][CH][C]2OCO[C]2[CH]1)N1CCCCC1_0_0	2	6439947;16098225	(2E,4Z,8E)-N-[9-(3,4-Methylenedioxyphenyl)-2,4,8-Nonatrienoyl]Piperidine; Dehydropipernoline; Dehydropipernonaline; dehydropipernonaline	2
+[O][C]([CH][CH][CH][CH][CH][CH][C]1[CH][CH][C]2OCO[C]2[CH]1)N1CCCCC1_0_0	5	10244953;101878852;168291522;177824899;177825820	7-(Benzo[D][1,3]Dioxol-5-Yl)-1-(Piperidin-1-Yl)Hepta-2,4,6-Trien-1-One; DLKOUKNODPCIHZ-JDVQUKNZSA-N; DLKOUKNODPCIHZ-LRUJQQLNSA-N; DLKOUKNODPCIHZ-RSZQDEMGSA-N; n.a.	5
+[O][C]([CH][CH][CH][CH][C]1[CH][CH][C]2OCO[C]2[CH]1)N1CCCCC1_0_0	5	4840;638024;1548912;1548913;1548914	(2Z,4Z)-5-(1,3-Benzodioxol-5-Yl)-1-Piperidin-1-Ylpenta-2,4-Dien-1-One; MXXWOMGUGJBKIW-BPMFVRGZSA-N; MXXWOMGUGJBKIW-MFDSWNTHSA-N; isochavicine; Piperine; piperine; Piperlonguminine	15
+[O][C]([CH][CH][C]1[CH][CH][CH][CH][CH]1)OC[C]1[CH][CH][CH][CH][CH]1_0_0	3	15558051;21577250;21598953	Benzyl cinnamate; Cinnamein; NGHOLYJTSCBCGC-QXMHVHEDSA-N	3
+[O][C]([CH][CH][C]1[CH][CH][C]([O])[C]([O])[CH]1)OC(C[C]1[CH][CH][C]([O])[C]([O])[CH]1)[C]([O])[O]_5_0	2	5315614;5315615	3-(3,4-Dihydroxyphenyl)-2-[(E)-3-(3,4-Dihydroxyphenyl)Prop-2-Enoyl]Oxypropanoic Acid; RosA; Salvianolic acid; potassium salvianolate d; Rosmarinate	5
+[O][C]([CH][CH][C]1[CH][CH][C]([O])[C]([O])[CH]1)OC1CC([O])([C]([O])[O])CC([O])C1[O]_6_0	4	14238;5315832;5322042;101661273	5-o-caffeoylquinic acid; CWVRJTMFETXNAD-DUXPYHPUSA-N; Heriguard; Isochlorogenic acid	27
+[O][C]([CH][CH][C]1[CH][CH][C]([O])[C]([O])[CH]1)O[C@@H]1C[C@@]([O])([C]([O])[O])C[C@@H]([O])[C@@H]1[O]_6_0	2	91492;5280633	3-O-Caffeoylquinic Acid; 5-Caffeoylquinic Acid; 5-O-Caffeoylquinic Acid; 5-O-caffeoylquinic acid; 5-o-caffeoylquinic acid; Neochlorogenic Acid; Neochlorogenic acid; neochlorogenic acid; CWVRJTMFETXNAD-UNIGVISCSA-N	16
+[O][C]([CH][CH][C]1[CH][CH][C]([O])[C]([O])[CH]1)O[C@@H]1C[C@]([O])([C]([O])[O])C[C@@H]([O])[C@@H]1[O]_6_0	2	73081;6436237	3- Caffeoylquinic Acid; Caffetannic Acid; Chlorgenic Acid; Isochlorogenic Acid; CWVRJTMFETXNAD-HLSYRSCKSA-N	9
+[O][C]([CH][CH][C]1[CH][CH][C]([O])[C]([O])[CH]1)O[C@@H]1C[C@]([O])([C]([O])[O])C[C@@H]([O])[C@H]1[O]_6_0	2	9476;1794425	(1S,3R,4R,5R)-3-[3-(3,4-Dihydroxyphenyl)Prop-2-Enoyloxy]-1,4,5-Trihydroxycyclohexane-1-Carboxylic Acid; CWVRJTMFETXNAD-XYXZIBEBSA-N	9
+[O][C]([CH][CH][C]1[CH][CH][C]([O])[C]([O])[CH]1)O[C@H]1[C@H]([O])C[C@]([O])([C]([O])[O])C[C@H]1O[C]([O])[CH][CH][C]1[CH][CH][C]([O])[C]([O])[CH]1_7_0	2	460890;6474309	4,5-Dicaffeoylquinic Acid; Isochlorogenic Acid B; Isochlorogenic Acid C; Isochlorogenic acid B; Isochlorogenic acid C; Isochlorogenic acid b; isochlorogenic acid C; UFCLZKMFXSILNL-GCBRTHAASA-N	6
+[O][C]([CH][CH][C]1[CH][CH][C]([O])[C]2OC([C]3[CH][CH][C]([O])[C]([O])[CH]3)C([C]([O])OC(C[C]3[CH][CH][C]([O])[C]([O])[CH]3)[C]([O])[O])[C]12)OC(C[C]1[CH][CH][C]([O])[C]([O])[CH]1)[C]([O])[O]_9_0	2	119177;6438135	Lithospermate B; Salvianolic Acid B	6
+[O][C]([CH][CH][C]1[CH][CH][C]([O])[C]2O[C@H]([C]3[CH][CH][C]([O])[C]([O])[CH]3)[C@@H]([C]([O])O[C@H](C[C]3[CH][CH][C]([O])[C]([O])[CH]3)[C]([O])[O])[C]12)O[C@H](C[C]1[CH][CH][C]([O])[C]([O])[CH]1)[C]([O])[O]_9_0	2	6451084;6918234	Danfensuan B; Lithospermic acid B; Magnesium Lithospermate B	3
+[O][C]([O])C1CCCC[N]1_2_0	2	25200477;85350942	Cpi; D-Homoproline; D-homoproline; Pipecolic Acid; Pipecolic acid; Pipecolic Acid	4
+[O][C]([O])CC([O])(C[C]([O])[O])[C]([O])[O]_4_0	3	311;13136;31348	(2R,3S,4S,5R)-2,3,4,5,6-pentahydroxyhexanoic acid; 2- hydroxy- 1, 2, 3- propane tricarboxylic acid- 2- etester; AKG; Citric Acid; Citric acid; D-Sorbose; D-galacturonic acid; D-ribose; Gluconic acid; L-(-)-Xylose; L-fructose; aldehydo-L-arabinose; citric acid; Calcium Citrate; Citrate; Isocitric acid; homopolymer; keto-L-fructose	56
+[O][C]([O])CC([O])[C]([O])[O]_3_0	2	525;160434	Malic Acid; Malic Acid; Malic acid; malic acid	10
+[O][C]([O])CCCCCCC[C]([O])[O]_2_0	2	3801344;19347555	Azelaic Acid; BDJRBEYXGGNYIS-UHFFFAOYSA-L; Nonanedioate	6
+[O][C]([O])CC[C]([O])[O]_2_0	3	1110;160419;101366551	Butanedioic Acid; Succinic Acid; succinic acid; Succinate; Succinic acid	58
+[O][C]([O])CC[C]1[CH][CH][CH][CH][CH]1_1_0	3	107;4740700;15479233	3-Phenylpropionic acid; 3-PhenylpropionicAcid; Benzenepropanoic acid; Phenyl Propionic Acid; HCI; Hci; XMIIGOLPHOKFCH-UHFFFAOYSA-M	8
+[O][C]([O])CC[C]1[CH][CH][CH][CH][C]1[O]_2_0	2	873;6930705	3-(2-Hydroxyphenyl)Propanoic Acid; Melilotic Acid	2
+[O][C]([O])C[C@@H]1[C]([O])O[C@@H]2C(CO[C]([O])[C]3[CH][C]([O])[C]([O])[C]([O])[CH]3)O[C@@H](O[C]([O])[C]3[CH][C]([O])[C]([O])[C]([O])[CH]3)[C@@H](O[C]([O])[C]3[CH][C]([O])[C]([O])[C]4O[C]([O])[C@@H]([O])[C@@H]1[C]34)[C@H]2O[C]([O])[C]1[CH][C]([O])[C]([O])[C]([O])[CH]1_13_0	2	250396;16745534	Chebulagic acid; n.a.	2
+[O][C]([O])C[C]([O])[O]_2_0	2	867;9084	MLI; Malonic Acid; Malonicacid; malonicacid; Malonic acid; methyltartronic acid	7
+[O][C]([O])C[C]1[CH][N][C]2[CH][CH][CH][CH][C]12_2_0	2	802;23677501	IES; Indole-3-Acetic Acid; YGSPWCVTJRFZEL-UHFFFAOYSA-M	5
+[O][C]([O])[C@@H]([O])[C@H]([O])[C]([O])[O]_4_0	2	439655;5460284	FEWJPZIEWOKRBE-LWMBPPNESA-L; Tar; Tartaric Acid; d-Tartaric acid	18
+[O][C]([O])[C@H]([O])[C@@H]([O])[C]([O])[O]_4_0	2	444305;24848123	(+)-L-Tartaric Acid; L-Tartaric acid; Tartaric Acid; Tartrate; XPQGQRUKEBSKNW-OLXYHTOASA-M	17
+[O][C]([O])[C@H]1O[C@@H]([O])[C@H]([O])[C@@H]([O])[C@@H]1[O]_5_0	2	65041;441478	6556-12-3; DL-Glucuronic acid; Glucuronic Acid; glucuronic acid; Glucuronic Acid	11
+[O][C]([O])[CH][CH][C]([O])[O]_2_0	3	723;444266;444972	FUM; Fumaric Acid; Fumaric acid; Maiyenic Acid; Fumaric acid; MAE; Maleic Acid	28
+[O][C]([O])[CH][CH][C]1[CH][CH][CH][CH][CH]1_1_0	4	29161;444539;5372954;6857483	Cinnamic Acid; Trans-Cinnamic Acid; cinnamic acid; hydroxycinnamic acid; poly(vinyl cinnamate); Cinnamic acid; WBYWAXJHAXSJNI-SREVYHEPSA-M; WBYWAXJHAXSJNI-SREVYHEPSA-N	28
+[O][C]([O])[CH][CH][C]1[CH][CH][C]([O])[CH][CH]1_2_0	4	322;637542;1549106;102332302	(E)-p-coumaryl alcohol; 3-(4-Methoxyphenyl)-2-methyl-2-acrylic acid; Caffeic acid; NGSWKAQJJWESNS-UHFFFAOYSA-N; cinnamate; 4-Hydroxy Cinnamic Acid; 4-Hydroxycinnamic Acid; 4-hydroxy cinnamic acid;trans- p- hydroxy cinnamic acid;trans-p-coumaric acid;p-cumaric acid;4-coumaric acid;P-hydroxy- cinnamic acid;Hydroxycinnamic acid; Cinnamic Acid,Hydroxycinnamic Acid,P-Coumaric Acid,P-Hydroxy Cinnamic Acid; Coumaric Acid; Isoliquiriligenin; P-Coumaric Acid; P-Coumaricacid; p-coumaric acid; Cis-P-Coumaric Acid; cis-p-Coumarate; P-Coumaric Acid; P-coumaric acid; p-Coumaric acid; p-coumaric acid	65
+[O][C]([O])[CH][CH][C]1[CH][CH][C]([O])[C]([O])[CH]1_3_0	5	2518;689043;1549111;25089936;54710367	(Z)-3-(3,4-Dihydroxyphenyl)Prop-2-Enoic Acid; 3-(3,4-Dihydroxyphenyl)Prop-2-Enoic Acid; 3-(3,4-dimethoxyphenyl)acrylic acid; FERULIC ACID (CIS); Hespertitinic acid; caffeic acid ethyl ester; p-Coumaric acid; Caffeate; Caffeic Acid; FERULIC ACID (CIS); Hespertitinic acid; caffeic acid; trans-caffeic acid; Caffeic acid; QAIPRVGONGVQAS-UHFFFAOYSA-M	114
+[O][C]([O])[CH][C](C[C]([O])[O])[C]([O])[O]_3_0	2	444212;643757	Aconitic Acid; Cis-Aconitic Acid	2
+[O][C]([O])[C]([O])[O]_2_0	4	971;71081;6325679;24893872	Glycolic acid; OXL; OXL; Oxl; Oxalic Acid; Oxalic acid; oxalic acid; Oxalic Acid; Oxalicacid	26
+[O][C]([O])[C]1[CH]C([O])C([O])C([O])C1_4_0	2	1094;140362	JXOHGGNKMLTUBP-UHFFFAOYSA-N; Shikimicacid	8
+[O][C]([O])[C]1[CH][C@@H]([O])[C@@H]([O])[C@H]([O])C1_4_0	2	8742;7057976	Shikimate; Shikimic Acid; Shikimic; Shikimic Acid; Shikimic acid; Shikimicacid; shikimic acid; shikimicacid	10
+[O][C]([O])[C]1[CH][CH][CH]O1_1_0	3	6919;5460151;100983030	2-Furan-Carboxylate; 2-Furancarboxylic Acid,2-Furoic Acid; 2-furan-carboxylate; SMNDYUVBFMFKNZ-UHFFFAOYSA-M; 2-Furancarboxylicacid; 2-furancarboxylicacid; Furan-2-Carboxylic Acid	5
+[O][C]([O])[C]1[CH][CH][CH][CH][CH]1_1_0	5	242;243;20144841;74000367;102056661	1,2-Benzenedicarboxylic Acid; 1,2-benzenedicarboxylic acid; BOX; Benzoate; Benzoic Acid; WLN: QVR BVQ; BOX; Box; Benzenecarboxylic Acid; Benzoic Acid; Benzoic acid; Hydroginkgolinicacid; benzoic acid; Benzoic Acid; Benzoic acid	65
+[O][C]([O])[C]1[CH][CH][CH][CH][C]1[C]([O])[O]_2_0	2	1017;181977	Phthalate; Phthalic Acid; Phthalic Acid; WLN: QVR BVQ	9
+[O][C]([O])[C]1[CH][CH][CH][CH][C]1[O]_2_0	2	338;54675850	PHB; Salicylic Acid; salicylic acid; Salicylate	25
+[O][C]([O])[C]1[CH][CH][CH][N][CH]1_1_0	2	937;938	Niacin; Nicotinic Acid; gynesine; nicotinic acid; Nicotinate	20
+[O][C]([O])[C]1[CH][CH][C]([O])[C]([O])[CH]1_3_0	2	72;54675866	3,4-DIHYDROXYBENZOIC ACID; 3,4-Dihydroxybenzoic Acid; 3,4-Dihydroxybenzoicacid; 3,4-dihydroxybenzoicacid; Protocatechuic Acid; Protocatechuicacid; protocatechuic acid; 3,4-Dihydroxybenzoate; YQUVCSBJEUQKSH-UHFFFAOYSA-M	69
+[O][C]([O])[C]1[CH][C]([O])[C]([O])[C](O[C]([O])[C]2[CH][C]([O])[C]([O])[C]([O])[CH]2)[CH]1_6_0	2	341;54711004	Digallate; digallate; Digallic Acid	4
+[O][C]([O])[O]_2_0	3	10112;19005;61833	Calcite; Calcium Carbonate; calcium carbonate; Dolomite; Zinc Carbonate	9
+[O][C]1CCCC2C3CCCN4CCCC(CN12)C34_0_0	3	165549;285698;101606432	83148-91-8; Matrine; Sophoridine	3
+[O][C]1[CH][CH]CC2C3CCCN4CCCC(CN12)C34_0_0	2	115269;11739020	Sophocarpine	2
+[O][C]1[CH][CH][CH][CH][CH]1_1_0	3	359;17785442;20488062	Hydron;Phenoxide; Phloroglucinol; XXWFDPVOXNJASB-UHFFFAOYSA-N	6
+[O][C]1[CH][CH][CH][CH][C]1[O]_2_0	2	289;101717754	1,2-Benzenediol; Catechol; Pyrocatechol; catechol; Catechol	30
+[O][C]1[CH][CH][CH][C]([C]([O])[O])[CH]1_2_0	2	7420;54675842	3-Hydroxybenzoic Acid; IJFXRHURBJZNAO-UHFFFAOYSA-M; m-hydroxybenzoicacid	2
+[O][C]1[CH][CH][C](COC[C]2[CH][CH][C]([O])[CH][CH]2)[CH][CH]1_2_0	2	5315477;5318259	Bis(4-Hydroxybenzyl)Ether; OCOMKVVSXFCESC-UHFFFAOYSA-N; Bis(4-hydroxybenzyl)ether	2
+[O][C]1[CH][CH][C]([CH][CH][C]([O])OC[C@H]2O[C@@H](O[C]3[C]([O])[C]4[C]([O])[CH][C]([O])[CH][C]4O[C]3[C]3[CH][CH][C]([O])[CH][CH]3)[C@H]([O])[C@@H]([O])[C@@H]2[O])[CH][CH]1_7_0	2	5320686;10175330	Cis-Tiliroside; Kaempferol-3-Beta-D-(6-O-Cis-P-Coumaroyl)Glucopyranoside; Tiliroside; tribuloside	5
+[O][C]1[CH][CH][C]([CH][CH][C]([O])O[C@@H]2C[C@]([O])([C]([O])[O])C[C@@H]([O])[C@H]2[O])[CH][CH]1_5_0	2	6441280;90478782	3-O-p-coumaroylquinic acid; 5-O-(E)-P-Coumaroylquinic Acid; BMRSEYFENKXDIS-JMYXGHFSSA-N	4
+[O][C]1[CH][CH][C]([CH][CH][C]([O])[CH][C]([O])[CH][CH][C]2[CH][CH][C]([O])[CH][CH]2)[CH][CH]1_3_0	2	468139;5324473	(1E,4E,6E)-1,7-bis(4-hydroxyphenyl)-1,4,6-heptatrien-3-one; (1E,4Z,6E)-5-Hydroxy-1,7-Bis(4-Hydroxyphenyl)Hepta-1,4,6-Trien-3-One	3
+[O][C]1[CH][CH][C]([CH][CH][C]([O])[C]2[CH][CH][C]([O])[CH][C]2[O])[CH][CH]1_3_0	2	638278;6603886	(Z)-1-(2,4-Dihydroxyphenyl)-3-(4-Hydroxyphenyl)Prop-2-En-1-One; (Z)-1-(2,4-dihydroxyphenyl)-3-(4-hydroxyphenyl)prop-2-en-1-one; Isoliquiritigenin; isoliquiritigenin	10
+[O][C]1[CH][CH][C]([CH][CH][C]([O])[N]CC[C]2[CH][CH][C]([O])[CH][CH]2)[CH][CH]1_3_0	2	5372945;13939145	N-( Trans-P-Coumaroyl) Tyramine; N-P-Coumaroyl Tyramine; coumaroyltyramine; n-coumaroyltyramine; N-P-Cis-Coumaroyltyramine; n.a.	6
+[O][C]1[CH][CH][C]([CH][CH][C]2[CH][C]([O])[CH][C]([O])[CH]2)[CH][CH]1_3_0	2	445154;1548910	3,5-Dihydroxy-4'-methoxystilbene; Resveratrol; Trans-Resveratrol; trans-resveratrol; Cis-Resveratrol; cis-resveratrol	20
+[O][C]1[CH][CH][C]([C]([O])[CH][CH][C]2[CH][CH][C]([O])[C]([O])[CH]2)[C]([O])[CH]1_4_0	2	2483;5281222	2',3,4,4'-Tetrahydrochalcone; Butein	3
+[O][C]1[CH][CH][C]([C]([O])[O])[CH][CH]1_2_0	4	135;3702506;54675830;101995266	2, 4-dihydroxy benzoic acid; 4-HYDROXYBENZOIC ACID; 4-Hydroxy Benzoic Acid; 4-Hydroxybenzoic Acid; 4-Hydroxybenzoic acid; 4-hydroxybenzoic acid; 6-hydroxy-2-naphthoic acid; Hydroxybenzoic Acid; P-Hydroxybenzoic; Paraben; P-Hydroxybenzoicacid; P-hydroxybenzoicacid; Paraben; p-hydroxybenzoate	48
+[O][C]1[CH][CH][C]([C]2O[C]3[CH][C]([O])[CH][C]([O])[C]3[C]([O])[C]2[O])[CH][CH]1_4_0	2	5280863;101426476	3,4'-dihydroxyflavone; 3,7-dihydroxy-6-methoxyflavone; 5,7,4'-trihydroxy-3-methoxyflavone; Kaemferol; Kaempferol; kaempferol; kaempferol,3-glucoside_qt; pelargonidin chloride; Kaempferol	83
+[O][C]1[CH][CH][C]([C]2O[C]3[CH][C]([O])[C]([O])[C]([O])[C]3[C]([O])[C]2[O])[CH][C]1[O]_6_0	2	8013;5281680	1,3-Propanedithiol; Quercetagetin; Quercetagetin	5
+[O][C]1[CH][CH][C]2[CH][CH][CH][CH][C]2O1_0_0	2	323;126556	16-Hydroxytriptolide; Coumarin; Coumarin; Isomeramazin; coumarin; psoralen; skimmin;Skimmin (8CI)	31
+[O][C]1[CH][CH][C]2[CH][CH][CH][CH][C]2[C]1[N][N][C]1[CH][CH][C]([N][N][C]2[CH][CH][CH][CH][CH]2)[CH][CH]1_1_0	4	62331;5379348;5809667;6789251	HTPQPMPFXUWUOT-BSDCMEITSA-N; HTPQPMPFXUWUOT-SRURNFRUSA-N; HTPQPMPFXUWUOT-UHFFFAOYSA-N; Sudan III; Sudan Iii	5
+[O][C]1[CH][CH][C]2[CH][CH][C]([O])[C]([O])[C]2O1_2_0	2	5280569;11297130	Daphnetin; Daphnetin; Daphnetol	3
+[O][C]1[CH][CH][C]2[CH][CH][C]3O[CH][CH][C]3[C]2O1_0_0	2	10658;5320025	Angelicin; Angelicin; Isopsoralen; angelicin	13
+[O][C]1[CH][CH][C]2[CH][C]([O])[C]([O])[CH][C]2O1_2_0	2	5281416;21578963	6-Hydroxycoumarin; Ellagic acid; Esculetin; esculetin; Esculetin	23
+[O][C]1[CH][C]([C]([O])OC[C@H]2O[C@H]([O])[C@@]([O])(CO[C]([O])[C]3[CH][C]([O])[C]([O])[C]([O])[CH]3)[C@@H]2[O])[CH][C]([O])[C]1[O]_9_0	2	9982777;21145076	FEPAFOYQTIEEIS-LONLNUGOSA-N; Hamamelitannin; Hamamelitannin	3
+[O][C]1[CH][C]([O])[CH][C]([CH][CH][C]2[CH][CH][C](O[C@@H]3O[C@H](CO[C]([O])[C]4[CH][C]([O])[C]([O])[C]([O])[CH]4)[C@@H]([O])[C@H]([O])[C@H]3[O])[CH][CH]2)[CH]1_8_0	2	5322088;11800639	HQQSMUBDNVIUPF-XJMHNOTHSA-N; HQQSMUBDNVIUPF-XMPPFBFMSA-N	2
+[O][C]1[CH][C]([O])[C]2CC([O])C([C]3[CH][CH][C]([O])[C]([O])[CH]3)O[C]2[CH]1_5_0	2	15619;5316892	(-)Epicatechin; (-)epicatechin; 1,1-Dimethyl-2-(3-Methyl-1,3-Butadiene)-Cyclo-Propane; 1,1-Dimethyl-2-(3-Methyl-1,3-Butadiene)Cyclo-Propane; 1,1-DIMETHOXY-2-METHYLPROPANE; Epicatechin	9
+[O][C]1[CH][C]([O])[C]2[CH][CH][CH][CH][C]2[C]1[O]_1_0	2	6755;25202955	Lawsone; WVCHIGAIXREVNS-UHFFFAOYSA-M	3
+[O][C]1[CH][C]([O])[C]2[CH][C]([O])[C]([C]3[CH][C]([O])[C]([O])[C]([O])[CH]3)O[C]2[CH]1_6_1	2	68245;128853	Delphinidin Chloride; Delphinidin; delphinidin	6
+[O][C]1[CH][C]([O])[C]2[C]([CH]1)OC([C]1[CH][CH][C]([O])[C]([O])[CH]1)C([O])C2[O]_6_0	2	71629;44446832	Leucocyanidin	2
+[O][C]1[CH][C]([O])[C]2[C]([CH]1)OC([C]1[CH][CH][C]([O])[C]([O])[CH]1)C([O])[C]2[O]_5_0	2	471;41440	11-DECYLDOCOSANE; Taxifolin; Taxifolin	7
+[O][C]1[CH][C]([O])[C]2[C]([CH]1)OC([C]1[CH][C]([O])[C]([O])[C]([O])[CH]1)C([O])C2[O]_7_0	2	364825;3081374	Leucodelphinidin; leucodelphinidin	4
+[O][C]1[CH][C]([O])[C]2[C]([CH]1)OC([C]1[CH][C]([O])[C]([O])[C]([O])[CH]1)C([O])[C]2[O]_6_0	2	161557;5319751	1-Methyl-2-[(Z)-6-Pentadecenyl]-4(1H)-Quinolone; Ampeloptin; Ampelopsin; Dihydromyricetin	5
+[O][C]1[CH][C]([O])[C]2[C]([CH]1)O[C]([C]1[CH][CH][C]([O])[C]([O])[CH]1)[C]([O])[C]2[O]_5_0	2	5280343;16212154	11-methoxyluteolin; 3-Methoxyherbacetin; Centaureidin; Gancaonin P; Meletin; Morin; Quercetin; Syringetin; cyanidin chloride; isoetin; isoquercetin_qt; jaceidin; quercetin; Quercetin Dihydrate	62
+[O][C]1[CH][C]([O])[C]2[C]([CH]1)O[C]([C]1[CH][C]([O])[C]([O])[C]([O])[CH]1)[C]([O])[C]2[O]_6_0	2	5281672;5319811	3,3',4',5,5',7-Hexahydroxyflavone; 3,5,6-Trihydroxy-4',7-dimethoxyflavone; Azaleatin; Myricetin; Quercetin dihydrate; chrysosplenetin B; myricetin; quercetagetin-3,5,6,3'-tetramethylether; Myricetin	28
+[O][C]1[CH][C]([O])[C]2[C]([O])CC([C]3[CH][CH][C]([O])[C]([O])[CH]3)O[C]2[CH]1_4_0	2	11095;57404335	(+/-)-Eriodictyol; Eriodictyol	3
+[O][C]1[CH][C]2[C]([O])O[C]3[C]([O])[C]([O])[CH][C]4[C]([O])O[C]([C]1[O])[C]2[C]43_4_0	2	5281855;16760409	Ellagic Acid Dihydrate; Ellagic Acid; ellagic acid	17
+[O][C]1[N][CH][N][C]2[C]1[N][CH]N2[C@H]1C[C@H]([O])[C@@H](CO[P]([O])([O])O[P]([O])([O])[O])O1_5_0	2	439488;135398667	Deoxyinosine diphosphate; dIDP	2
+[O][P]([O])([O])[O]_3_0	2	1004;24456	Calcium Phosphate; calcium phosphate; Phosphoric Acid	11
+[Zn]_0_2	2	32051;3007857	Zinc Ion; zinc; Zinc Oxide; Zinc oxide	19

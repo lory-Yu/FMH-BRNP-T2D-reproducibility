@@ -1,0 +1,6 @@
+alpha	spearman_vs_direct_adjusted	top20_overlap_with_direct_adjusted	top20_jaccard_with_direct_adjusted	alpha_selected_using_clinical_data
+0.0	1.0	20	1.0	False
+0.25	0.8802731249333193	13	0.48148148148148145	False
+0.5	0.6280699882641632	10	0.3333333333333333	False
+0.75	0.32300224047796866	7	0.21212121212121213	False
+1.0	-0.03294587083089036	2	0.05263157894736842	False

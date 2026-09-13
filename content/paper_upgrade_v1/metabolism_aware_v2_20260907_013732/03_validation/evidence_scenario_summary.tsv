@@ -1,0 +1,6 @@
+scenario	n_eligible_paths	n_herbs_with_routes	spearman_vs_primary	top20_overlap_vs_primary
+primary_human_lotus_causal	572	85	1.0	20
+human_any_occurrence_causal	597	85	0.9867303963312305	17
+human_plus_mixed_lotus_causal	817	85	0.6918456400900468	15
+all_microbial_nonconflict	1244	90	0.4829228869340255	10
+inclusive_nonconflict	1440	91	0.4899591109516331	9

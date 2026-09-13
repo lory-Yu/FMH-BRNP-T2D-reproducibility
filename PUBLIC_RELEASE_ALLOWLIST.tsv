@@ -14,11 +14,13 @@ INPUT_SCHEMAS.md	KEEP	Safe public-release documentation or licence file.	documen
 LICENCE_DECISIONS_REQUIRED.md	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
 LICENSE	KEEP	Safe public-release documentation or licence file.	documentation
 LICENSE-DATA	KEEP	Safe public-release documentation or licence file.	documentation
+DATA_LICENSE.md	KEEP	Scoped provisional licence notice for author-generated redistributable data; third-party materials explicitly excluded.	documentation
 LOCAL_PATH_AUDIT.tsv	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
 MANIFEST.tsv	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
 PUBLIC_RELEASE_ALLOWLIST.tsv	KEEP	Safe public-release documentation or licence file.	documentation
 PUBLIC_RELEASE_BLOCKERS.md	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
 README.md	KEEP	Safe public-release documentation or licence file.	documentation
+MANUSCRIPT_AVAILABILITY_TEXT.md	KEEP	Draft manuscript Data and Code Availability text with unresolved URL/DOI placeholders.	documentation
 RELEASE_METADATA.json	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
 RUN_REPRODUCTION.md	KEEP	Safe public-release documentation or licence file.	documentation
 SHA256SUMS.txt	EXCLUDE	Private build/audit metadata or superseded release-control document; not needed in clean scientific package.	private_release_engineering
@@ -109,7 +111,7 @@ content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/scripts/run_rdk
 content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/scripts/scan_agora2_full_coverage.py	KEEP	Portable scientific analysis or figure code.	code
 content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/00_spec/ANALYSIS_SPEC.md	KEEP	Study-generated scientific report or analysis specification.	report
 content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/00_spec/analysis_spec.json	KEEP	Configuration, session record or path-free derived provenance.	configuration_or_provenance
-content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/01_routes/herb_transformation_paths_v2.tsv	OPTIONAL	Row-level join to multi-database herb occurrences; excluded until database-by-database redistribution review.	source_terms_pending
+content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/01_routes/herb_transformation_paths_v2.tsv	EXCLUDE	DO NOT REDISTRIBUTE by adopted policy; row-level join to multi-database herb occurrences whose accessibility does not establish redistribution permission.	third_party_row_level_excluded
 content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/01_routes/transformation_routes_audited_v2.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
 content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/02_rankings/KG_metabolism_aware_v2_alpha_sensitivity.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data
 content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/02_rankings/KG_metabolism_aware_v2_evidence_scenarios.tsv	KEEP	Study-generated structured input, summary or analysis output selected for public release.	derived_data

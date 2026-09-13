@@ -30,7 +30,7 @@ conda activate wei2025-dada2
 
 The portable `environment.yml` includes R 4.5, DADA2 1.38.0, BiocParallel, vegan, ggplot2, jsonlite and metafor. The exact locked Wei file is the authoritative 16S environment record.
 
-## RCT meta-analysis — fully reproducible
+## RCT meta-analysis — DIRECTLY REPRODUCIBLE
 
 ```bash
 python content/paper_upgrade_v1/scripts/run_rct_rebuild.py \
@@ -47,7 +47,9 @@ Expected core SHA256:
 
 The optional `--study-master` and `--old-results` inputs only regenerate ancillary trial characteristics and implementation comparisons; they are not required for the pooled estimates.
 
-## Metabolism-aware prioritisation v2 — conditional upstream reproduction
+## Metabolism-aware prioritisation v2 — CONDITIONALLY REPRODUCIBLE
+
+The row-level `herb_transformation_paths_v2.tsv` input is deliberately not redistributed. It incorporates occurrence information derived from 11 third-party databases whose accessibility does not establish permission to redistribute the integrated records. The source names, required schema and reconstruction procedure are documented, but the input must be reconstructed locally under the providers' terms.
 
 Reconstruct the seven inputs listed in `INPUT_SCHEMAS.md`, then run:
 
@@ -61,7 +63,7 @@ python content/paper_upgrade_v1/metabolism_aware_v2_20260907_013732/tests/test_v
 
 The frozen direct-edge comparator is not overwritten. The random seed is 20260907, the topology null has 1,000 iterations and clinical outcomes are not used to tune weights or alpha.
 
-## Ranking evidence sensitivity — conditional upstream reproduction
+## Ranking evidence sensitivity — CONDITIONALLY REPRODUCIBLE
 
 ```bash
 python content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/scripts/run_ranking_evidence_sensitivity.py \
@@ -72,7 +74,7 @@ python content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/scripts/
 
 The expected outputs are `01_ranking_scenarios_long.tsv`, `02_ranking_scenario_summary.tsv`, `03_herb_rank_shifts.tsv`, `04_top20_by_scenario.tsv` and `05_regression_diagnostics.tsv`. The private verification regenerated all five byte-identically.
 
-## AGORA2 coverage scan — reproducible with user-supplied models
+## AGORA2 coverage scan — REQUIRES EXTERNAL INPUT
 
 ```bash
 python content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/scripts/scan_agora2_full_coverage.py \
@@ -83,11 +85,11 @@ python content/paper_upgrade_v1/kg_evidence_sensitivity_20260908_110558/scripts/
 
 The frozen run read 7,302 models with zero read failures. Both output TSVs were reproduced byte-identically. Absence of a matched model under these rules is not evidence that a biological strain cannot catalyse the reaction.
 
-## Optional RDKit entity audit
+## Optional RDKit entity audit — REQUIRES EXTERNAL INPUT
 
 Run `run_rdkit_entity_audit.py --help` and supply all six external/local inputs. The integrated herb–compound input and raw PubChem cache are not redistributed. The private verification reproduced eight frozen core outputs byte-identically. This step is optional upstream provenance, not a prerequisite for rerunning the deposited RCT synthesis or figures.
 
-## Wei 2025 workflow — accession based
+## Wei 2025 workflow — REQUIRES EXTERNAL INPUT
 
 Download the 100 paired FASTQ files listed in `content/wei_2025_calibration/metadata/Wei2025_ENA_fastq_manifest.tsv`, verify each recorded MD5, place them under `content/wei_2025_calibration/raw/`, and obtain the DADA2-formatted SILVA NR99 138.2 files. Then run:
 
@@ -99,11 +101,11 @@ Rscript content/wei_2025_calibration/scripts/12_rarefaction_sensitivity.R conten
 
 The repository contains accession metadata and final derived result tables, not FASTQ, filtered reads, SILVA files or intermediate RDS objects.
 
-## Three-cohort analysis
+## Three-cohort analysis — REQUIRES EXTERNAL INPUT for end-to-end rerunning
 
 The public candidate contains the adjusted cohort-effect and meta-analysis tables and the recorded session information. The legacy `01_butyrate_core_meta.R` is not the source of the final adjusted abundance-ratio result and is excluded from the clean candidate. Reproduction of cohort-level modelling requires the original curatedMetagenomicData objects, cohort metadata and covariate-processing code; this remains a documented reproducibility limitation rather than being disguised as a runnable workflow.
 
-## Figure regeneration — fully reproducible from deposited derived source data
+## Figure regeneration — DIRECTLY REPRODUCIBLE from deposited derived source data
 
 ```bash
 FIGROOT=content/paper_upgrade_v1/13_biotransformation_resolved_manuscript_v1/figures_submission_detail_optimized_v1

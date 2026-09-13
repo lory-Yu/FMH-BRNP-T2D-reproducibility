@@ -2,6 +2,8 @@
 
 The labels below distinguish access from redistribution. `PUBLIC` means that a source can be accessed publicly; it does not automatically mean that every bulk export can be republished. `DERIVED` denotes study-generated summaries or analysis outputs. `ACCESSION-ONLY` means that this repository publishes identifiers and acquisition metadata, not the source files. `NOT REDISTRIBUTED` and `RESTRICTED/LOCAL` require users to obtain the source independently under its own terms.
 
+Under the adopted release policy, row-level `herb_transformation_paths_v2.tsv` and complete or reduced versions of `2_3_herb_compound_clean.csv` are **NOT REDISTRIBUTED**. This is a data-governance decision, not a failed scientific reproduction test. The package instead supplies source names, provenance, schemas, safe derived outputs, checksums and reconstruction instructions.
+
 | Source | Project use | Release class | Material provided here | Version or identifier recorded in the project |
 |---|---|---|---|---|
 | CMAUP, SymMap, HIT, TCMSP, TCMID, TCM-BANK, HERB, ETCM, BATMAN, TCMIP and ccTCM | herb–compound occurrence integration | RESTRICTED/LOCAL | database names, methods, schemas and aggregate derived outputs only | per-source versions were not consistently recorded in the public candidate |

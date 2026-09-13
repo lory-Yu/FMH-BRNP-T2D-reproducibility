@@ -23,7 +23,7 @@ The integrated herb–compound table is not redistributed because its 85,110 row
 - `01_routes/herb_transformation_paths_v2.tsv` and `02_rankings/KG_metabolism_aware_v2_two_axis.tsv` below the supplied v2 directory;
 - `07_route_entity_crosswalk.tsv` and `11_route_entity_crosswalk_final.tsv` below the supplied chemistry-QC directory.
 
-Row-level route and occurrence tables remain conditional on source-term review. Frozen aggregate ranking outputs are provided separately.
+Row-level route and occurrence tables are excluded by release policy and must be reconstructed locally under the source providers' terms. Frozen safe derived ranking outputs are provided separately.
 
 ## RDKit entity audit inputs
 

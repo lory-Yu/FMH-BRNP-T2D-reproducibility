@@ -1,4 +1,8 @@
-# Data licence (author-generated derived materials)
+# Provisional data-licence notice
+
+Status: PENDING FINAL CO-AUTHOR APPROVAL. This file records the intended
+licence and must not be read as a representation that final author
+authorisation has already been obtained. See `DATA_LICENSE.md` for scope.
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
@@ -8,12 +12,10 @@ This licence applies to author-generated derived tables, figure source files,
 and reproducibility records included in this repository that the authors are
 entitled to distribute.
 
-It does NOT apply to third-party restricted materials excluded from public
-release (including, without limitation, raw GBD/IHME extracts, IDF Atlas
-source extracts, copyrighted RCT full texts, signed ethics or assessment
-PDFs, and proprietary model binaries). Those materials remain under their
-original terms and are listed in EXCLUDED_FILES.tsv / private_internal
-records.
+It does NOT apply to third-party data or database content, restricted
+database-derived records, external models or databases, or any material
+governed by its original provider's terms. Those materials are excluded from
+the candidate or remain governed by their original terms.
 
 Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
 Human-readable summary: https://creativecommons.org/licenses/by/4.0/

@@ -1,8 +1,10 @@
 # FMH BRNP T2D data and code
 
-This is the private engineering repository supporting the manuscript *Biotransformation-resolved network pharmacology for food-medicine homology materials in type 2 diabetes*. It contains portable analysis code, configurations, author-generated derived results and Figures 2–6. A separate clean public candidate is built from `PUBLIC_RELEASE_ALLOWLIST.tsv`; manuscripts, author forms, reviewer-specific assessments, signatures and restricted third-party inputs are not copied into that candidate.
+This release-candidate package supports the manuscript *Biotransformation-resolved network pharmacology for food-medicine homology materials in type 2 diabetes*. It contains portable analysis code, configurations, author-generated derived results and Figures 2–6. It is assembled from `PUBLIC_RELEASE_ALLOWLIST.tsv`; manuscripts, author forms, reviewer-specific assessments, signatures and restricted third-party inputs are excluded.
 
-The RCT synthesis and Figures 2–6 are reproducible from redistributed structured inputs. Metabolism-aware v2, ranking sensitivity, chemical-identity audit, AGORA2, Wei 2025 and three-cohort workflows have explicitly documented external-input boundaries. See `RUN_REPRODUCTION.md`.
+The RCT synthesis and Figures 2–6 are **DIRECTLY REPRODUCIBLE** from redistributed structured inputs. Metabolism-aware v2 is **CONDITIONALLY REPRODUCIBLE**: its code, schemas, provenance information, safe derived outputs, checksums and reconstruction instructions are provided, but a complete from-scratch run requires local reconstruction of a non-redistributed third-party database-derived transformation input. Optional upstream reconstruction, AGORA2 model scanning and raw-data reprocessing are classified **REQUIRES EXTERNAL INPUT**. See `RUN_REPRODUCTION.md`.
+
+Certain row-level integrated inputs derived from third-party databases are not redistributed because accessibility does not necessarily imply redistribution permission. Their source databases, input schema, provenance and reconstruction procedure are documented. In particular, neither `herb_transformation_paths_v2.tsv` nor a complete or reduced `2_3_herb_compound_clean.csv` is included.
 
 ## Integrity and privacy
 
@@ -14,10 +16,10 @@ For a clean-candidate integrity check, run `sha256sum -c CLEAN_SHA256SUMS.txt`. 
 
 ## Licence
 
-Author-written code is MIT licensed (LICENSE). Author-generated derived data that the authors are entitled to distribute are CC BY 4.0 (LICENSE-DATA). Third-party materials remain under their original terms.
+The intended licence for author-written code is MIT (`LICENSE`). The intended licence for explicitly identified, author-generated and redistributable derived data is CC BY 4.0 (`DATA_LICENSE.md`). These licence choices remain provisional until all authors confirm them. Third-party materials and records with unclear redistribution rights are excluded or remain under their original providers' terms.
 
 ## Release status
 
-Target tag: v1.0.0-submission. The private GitHub repository exists, but no public repository, GitHub release or Zenodo deposit is created by this build. The final audit deliberately stops before those actions.
+Target tag: v1.0.0-submission. No public repository, GitHub release or Zenodo deposit has been created. The final audit deliberately stops before those actions.
 
 Zenodo automatic GitHub archiving requires a public repository. If the GitHub repository remains private, use a manual Zenodo deposit with Restricted or Embargoed file access instead.

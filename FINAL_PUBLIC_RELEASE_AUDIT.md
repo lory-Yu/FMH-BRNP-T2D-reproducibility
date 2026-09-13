@@ -2,7 +2,7 @@
 
 Audit date: 13 September 2026
 
-Private engineering repository: `lory-Yu/FMH-BRNP-T2D`, branch `main`
+Internal archive: retained separately as PRIVATE; it is not a public-release source
 
 Clean candidate: `FMH-BRNP-T2D-public-candidate` (local only; no remote configured)
 
@@ -10,10 +10,13 @@ Clean candidate: `FMH-BRNP-T2D-public-candidate` (local only; no remote configur
 
 **READY_FOR_PUBLIC_RELEASE = NO**
 
-All technical portability and clean-candidate checks described below passed. Public release is held for two author/governance decisions:
+All technical portability and clean-candidate checks described below passed. Public release is held for one governance action: all authors must confirm the MIT licence for author-written code and CC BY 4.0 for explicitly identified distributable author-generated data, together with the final CRediT and AI disclosure.
 
-1. all authors must confirm the MIT licence for author-written code and CC BY 4.0 for distributable author-generated data, together with the final CRediT and AI disclosure;
-2. the authors must either complete database-by-database redistribution review for `herb_transformation_paths_v2.tsv` or retain its exclusion and ensure that the manuscript describes full v2/ranking reruns as conditional on locally reconstructed inputs.
+`AUTHOR_APPROVAL_PENDING` is the only release blocker. `THIRD_PARTY_ROW_LEVEL_DATA_EXCLUDED_BY_POLICY` is a settled data-governance choice, not a technical or scientific failure. The adopted policy is not to redistribute `herb_transformation_paths_v2.tsv` or complete/minimal versions of `2_3_herb_compound_clean.csv`.
+
+- Scientific reproduction failure: **NONE**
+- Technical blockers: **NONE**
+- Pending governance action: **co-author approval of licensing, CRediT and AI disclosure**
 
 The missing GitHub release and Zenodo DOI are intentional next-stage actions, not failed QA. No repository visibility, release or Zenodo action was performed.
 
@@ -22,19 +25,19 @@ The missing GitHub release and Zenodo DOI are intentional next-stage actions, no
 | Workflow | Status | Verification |
 |---|---|---|
 | Metabolism-aware v2 | portable CLI complete | full and minimal local-input reruns reproduced frozen core outputs; invariant test passed |
-| RCT synthesis | fully portable from redistributed structured input | core result byte-identical; SHA256 `24a84bded9beaa811186b9657dfdfc683aad0cc8573395698359dc8b39f3d463` |
+| RCT synthesis | DIRECTLY REPRODUCIBLE from redistributed structured input | core result byte-identical; SHA256 `24a84bded9beaa811186b9657dfdfc683aad0cc8573395698359dc8b39f3d463` |
 | Ranking evidence sensitivity | portable CLI complete | five frozen outputs byte-identical |
 | AGORA2 scan | portable CLI with user-supplied models | 7,302 models, zero read failures; two frozen outputs byte-identical |
 | RDKit entity audit | portable optional upstream CLI | eight frozen outputs byte-identical with local non-redistributed inputs |
-| Figures 2–6 | portable project-local builders | PDF text identical for all five; Figure 4 only showed negligible raster rounding documented in `FIGURE_REPRODUCTION_QA.md` |
+| Figures 2–6 | DIRECTLY REPRODUCIBLE from deposited source data | PDF text identical for all five; Figure 4 only showed negligible raster rounding documented in `FIGURE_REPRODUCTION_QA.md` |
 
 No scientific scoring rule, model, random seed, route definition, pooled effect, confidence interval, rank or figure label was changed by these portability patches.
 
 ## Reproducibility status by workflow
 
-- **Fully reproducible from the clean package:** RCT synthesis; Figures 2–6.
-- **Reproducible after the named public/external resource is supplied:** AGORA2 scan; Wei 2025 DADA2 and downstream analyses.
-- **Conditional upstream reproduction:** metabolism-aware v2, ranking sensitivity and RDKit entity audit, because the integrated herb–compound occurrence input is not redistributed.
+- **DIRECTLY REPRODUCIBLE:** RCT synthesis; Figures 2–6.
+- **CONDITIONALLY REPRODUCIBLE:** metabolism-aware v2 and ranking sensitivity, because the required integrated row-level transformation input is not redistributed.
+- **REQUIRES EXTERNAL INPUT:** AGORA2 scan; Wei 2025 DADA2 and downstream analyses; optional RDKit entity audit; end-to-end three-cohort modelling.
 - **Deposited results but incomplete end-to-end public rerun:** final adjusted three-cohort modelling. The clean package contains adjusted cohort effects, pooled results, leave-one-out results and session information. The legacy R script was excluded because it is not the final adjusted abundance-ratio workflow and points to absent RDS objects.
 
 ## Restricted-data status
@@ -49,7 +52,7 @@ The clean candidate contains none of the following:
 - AGORA2 XML/SBML/MAT/ZIP models;
 - API keys, tokens, passwords, private keys or `.env` files.
 
-`herb_transformation_paths_v2.tsv` is marked `OPTIONAL` in the allowlist and was not copied, because it joins route records to multi-database herb occurrences whose redistribution terms have not been adjudicated source by source.
+`herb_transformation_paths_v2.tsv` is marked `EXCLUDE` in the allowlist and was not copied, because it joins route records to multi-database herb occurrences whose accessibility does not establish redistribution permission. Its exclusion is the adopted release policy.
 
 ## Absolute-path audit
 
@@ -100,6 +103,24 @@ FMH_FIGURE_OUT=/tmp/fmh-public-qa-*/Figure6 python content/paper_upgrade_v1/15_c
 
 The RCT output matched the frozen SHA256 exactly. `pdftotext` comparison reported `PDF_TEXT_IDENTICAL` for Figures 2, 3, 4, 5 and 6.
 
+### Post-policy final QA rerun
+
+After adopting the do-not-redistribute policy for the third-party-derived row-level tables, final QA was rerun on 13 September 2026:
+
+- allowlist match: 120 `KEEP` paths and 120 candidate files; no missing or unlisted file;
+- integrity manifest: 118 file records plus header; checksum list: 119 entries including the manifest but excluding the checksum file itself;
+- `sha256sum -c CLEAN_SHA256SUMS.txt`: all entries passed;
+- Python compile audit: passed with the byte-code cache redirected outside the candidate;
+- Git remote: none configured;
+- prohibited exact-file scan: no `herb_transformation_paths_v2.tsv`, `2_3_herb_compound_clean.csv`, internal extraction/QC log or submission DOCX;
+- restricted-format scan: no FASTQ/FQ, SILVA database file, AGORA2 XML/SBML/MAT/ZIP model or `.env` file;
+- PDF inventory: only the five author-generated final Figures 2–6;
+- high-confidence credential/private-key scan: no match;
+- personal email scan: no match;
+- large-file audit: no file exceeded 5 MiB; the largest remained the 936,191-byte derived AGORA2 scan table.
+
+The filename `make_figure6_final_signed.py` contains the word `signed` but is a portable figure builder; inspection found no signed form or reviewer-specific record in the candidate.
+
 ## Relevant private-repository commits
 
 - `dd08927` — Add missing metabolism-aware v2 transformation paths
@@ -118,7 +139,6 @@ The authoritative file-by-file decision is `PUBLIC_RELEASE_ALLOWLIST.tsv`. Broad
 
 ## Required author action before changing the decision to YES
 
-1. Sign off the code/data licence and declaration choices.
-2. Confirm that the manuscript's Data and Code Availability wording matches the conditional v2 and incomplete three-cohort rerun boundaries.
-3. Decide whether the source-term-pending 1,694-row path table remains excluded.
-4. After a final manual inspection, create the public repository or manual embargoed Zenodo deposit, then insert the final URL/DOI into `CITATION.cff`, release metadata and the manuscript.
+1. All three authors must confirm the MIT code licence, scoped CC BY 4.0 data licence, final CRediT statement and final AI-assisted-use disclosure.
+2. After that confirmation, rerun clean-candidate integrity, allowlist, secret, restricted-data and checksum checks and change the decision to `READY_FOR_PUBLIC_RELEASE = YES` only if all still pass.
+3. Stop after reporting `PUBLIC RELEASE CANDIDATE PASSED FINAL QA`; do not create a repository, Release or Zenodo deposit without a separate explicit authorisation.

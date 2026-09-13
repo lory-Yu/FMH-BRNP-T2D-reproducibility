@@ -1,19 +1,18 @@
 # Data-licence scope
 
-Status: **PROVISIONAL — PENDING FINAL CO-AUTHOR APPROVAL**
+Status: **FINAL CO-AUTHOR APPROVAL CONFIRMED — 13 SEPTEMBER 2026**
 
-The intended licence for data products explicitly identified as both
-author-generated and redistributable in this release is the Creative Commons
+The licence for data products explicitly identified as both author-generated
+and redistributable in this release is the Creative Commons
 Attribution 4.0 International licence (CC BY 4.0). The full legal text is at
 <https://creativecommons.org/licenses/by/4.0/legalcode>.
 
 ## Included scope
 
-Subject to final author confirmation, CC BY 4.0 is intended to cover only
-study-generated aggregate analysis outputs, author-generated figure source
-data, and reproducibility records for which the authors hold the necessary
-rights. Inclusion in the repository alone does not override third-party
-rights or source-provider terms.
+CC BY 4.0 covers only study-generated aggregate analysis outputs,
+author-generated figure source data, and reproducibility records for which the
+authors hold the necessary rights. Inclusion in the repository alone does not
+override third-party rights or source-provider terms.
 
 ## Explicit exclusions
 
@@ -36,5 +35,4 @@ procedures are documented without granting redistribution rights.
 
 ## Code
 
-Author-written source code is covered separately by the MIT `LICENSE`, also
-pending final co-author confirmation.
+Author-written source code is covered separately by the MIT `LICENSE`.

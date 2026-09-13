@@ -16,7 +16,7 @@ For a clean-candidate integrity check, run `sha256sum -c CLEAN_SHA256SUMS.txt`. 
 
 ## Licence
 
-The intended licence for author-written code is MIT (`LICENSE`). The intended licence for explicitly identified, author-generated and redistributable derived data is CC BY 4.0 (`DATA_LICENSE.md`). These licence choices remain provisional until all authors confirm them. Third-party materials and records with unclear redistribution rights are excluded or remain under their original providers' terms.
+Author-written code is licensed under the MIT licence (`LICENSE`). Explicitly identified, author-generated and redistributable derived data are licensed under CC BY 4.0 within the scope defined in `DATA_LICENSE.md`. All three authors confirmed these licence choices on 13 September 2026. Third-party materials and records with unclear redistribution rights are excluded or remain under their original providers' terms.
 
 ## Release status
 

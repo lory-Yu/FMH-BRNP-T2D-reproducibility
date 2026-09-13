@@ -8,15 +8,15 @@ Clean candidate: `FMH-BRNP-T2D-public-candidate` (local only; no remote configur
 
 ## Decision
 
-**READY_FOR_PUBLIC_RELEASE = NO**
+**READY_FOR_PUBLIC_RELEASE = YES**
 
-All technical portability and clean-candidate checks described below passed. Public release is held for one governance action: all authors must confirm the MIT licence for author-written code and CC BY 4.0 for explicitly identified distributable author-generated data, together with the final CRediT and AI disclosure.
+All technical portability and clean-candidate checks described below passed. On 13 September 2026, the user confirmed on behalf of the three authors that they approve the MIT licence for author-written code, the scoped CC BY 4.0 licence for explicitly identified distributable author-generated data, the final CRediT statement and the final AI-assisted-use disclosure.
 
-`AUTHOR_APPROVAL_PENDING` is the only release blocker. `THIRD_PARTY_ROW_LEVEL_DATA_EXCLUDED_BY_POLICY` is a settled data-governance choice, not a technical or scientific failure. The adopted policy is not to redistribute `herb_transformation_paths_v2.tsv` or complete/minimal versions of `2_3_herb_compound_clean.csv`.
+`AUTHOR_APPROVAL_CONFIRMED` is complete. `THIRD_PARTY_ROW_LEVEL_DATA_EXCLUDED_BY_POLICY` remains a settled data-governance choice, not a technical or scientific failure. The adopted policy is not to redistribute `herb_transformation_paths_v2.tsv` or complete/minimal versions of `2_3_herb_compound_clean.csv`.
 
 - Scientific reproduction failure: **NONE**
 - Technical blockers: **NONE**
-- Pending governance action: **co-author approval of licensing, CRediT and AI disclosure**
+- Pending governance action: **NONE**
 
 The missing GitHub release and Zenodo DOI are intentional next-stage actions, not failed QA. No repository visibility, release or Zenodo action was performed.
 
@@ -137,8 +137,9 @@ The filename `make_figure6_final_signed.py` contains the word `signed` but is a 
 
 The authoritative file-by-file decision is `PUBLIC_RELEASE_ALLOWLIST.tsv`. Broad categories are manuscript/author internal records, reviewer-specific or signed assessments, internal extraction/QC provenance, restricted raw data, source-term-pending joins, historical personal-path manifests, obsolete wrappers and local packaging tools.
 
-## Required author action before changing the decision to YES
+## Author confirmation and publication boundary
 
-1. All three authors must confirm the MIT code licence, scoped CC BY 4.0 data licence, final CRediT statement and final AI-assisted-use disclosure.
-2. After that confirmation, rerun clean-candidate integrity, allowlist, secret, restricted-data and checksum checks and change the decision to `READY_FOR_PUBLIC_RELEASE = YES` only if all still pass.
-3. Stop after reporting `PUBLIC RELEASE CANDIDATE PASSED FINAL QA`; do not create a repository, Release or Zenodo deposit without a separate explicit authorisation.
+1. All three authors' confirmation of the MIT code licence, scoped CC BY 4.0 data licence, final CRediT statement and final AI-assisted-use disclosure was reported complete on 13 September 2026.
+2. Final clean-candidate integrity, allowlist, secret, restricted-data, checksum and documentation checks passed after that confirmation.
+3. `READY_FOR_PUBLIC_RELEASE = YES` means that the local candidate passed preparation QA. It is not authorisation to create a public repository, GitHub Release or Zenodo deposit.
+4. Stop here. A separate explicit instruction, `创建公开GitHub仓库`, is required before creating or configuring any public remote.

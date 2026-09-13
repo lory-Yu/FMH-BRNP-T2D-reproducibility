@@ -14,7 +14,7 @@ authors:
   - family-names: "Wang"
     given-names: "Zhouping"
     affiliation: "Jiangnan University"
-# repository-code: "[GitHub repository URL]"
+repository-code: "https://github.com/lory-Yu/FMH-BRNP-T2D-reproducibility"
 # identifiers:
 #   - type: doi
 #     value: "10.5281/zenodo.XXXXXXX"

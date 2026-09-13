@@ -1,14 +1,14 @@
 # Manuscript availability text
 
-Status: draft for manuscript use. Repository URL and DOI are intentionally
-left as placeholders until separately authorised public-release steps are
-completed.
+Status: draft for manuscript use. The public GitHub repository is verified;
+the Zenodo DOI remains a placeholder until release archiving is complete.
 
 ## Code availability
 
 The analysis code, reproducible workflows, environment specifications, and
 instructions required to reproduce the publicly redistributable components of
-this study are available at [GitHub repository URL] and will be archived at
+this study are available at
+https://github.com/lory-Yu/FMH-BRNP-T2D-reproducibility and will be archived at
 Zenodo upon release [Zenodo DOI].
 
 ## Data availability
@@ -29,8 +29,6 @@ third-party database-derived transformation input.
 
 ## Author checks before submission
 
-- Replace `[GitHub repository URL]` only after the new clean public repository
-  has been created under explicit authorisation.
 - Replace `[Zenodo DOI]` only after the authorised release has been archived
   and the DOI verified.
 - Do not state that all underlying third-party data are openly available.

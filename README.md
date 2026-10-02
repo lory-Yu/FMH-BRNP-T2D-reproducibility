@@ -1,10 +1,10 @@
 # FMH BRNP T2D data and code
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22731841.svg)](https://doi.org/10.5281/zenodo.22731841)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23097072.svg)](https://doi.org/10.5281/zenodo.23097072)
 
-This repository supports the manuscript *Biotransformation-resolved network pharmacology for food-medicine homology materials in type 2 diabetes*. The submission-frozen release `v1.0.0-submission` is archived at Zenodo (https://doi.org/10.5281/zenodo.22731841). It contains portable analysis code, configurations, author-generated derived results and Figures 2–6. It is assembled from `PUBLIC_RELEASE_ALLOWLIST.tsv`; manuscripts, author forms, reviewer-specific assessments, signatures and restricted third-party inputs are excluded.
+This repository supports the manuscript *Evidence gating exposes representation gaps in gut microbial biotransformation inference: four computational case studies*. The BMC Microbiology release `v1.1.0-bmc-microbiology` is archived at Zenodo (https://doi.org/10.5281/zenodo.23097072). It contains portable analysis code, configurations, author-generated derived results and source data for Figures 1–4. It is assembled from an explicit public-release allowlist; manuscripts, author forms, reviewer-specific assessments, signatures and restricted third-party inputs are excluded.
 
-The RCT synthesis and Figures 2–6 are **DIRECTLY REPRODUCIBLE** from redistributed structured inputs. Metabolism-aware v2 is **CONDITIONALLY REPRODUCIBLE**: its code, schemas, provenance information, safe derived outputs, checksums and reconstruction instructions are provided, but a complete from-scratch run requires local reconstruction of a non-redistributed third-party database-derived transformation input. Optional upstream reconstruction, AGORA2 model scanning and raw-data reprocessing are classified **REQUIRES EXTERNAL INPUT**. See `RUN_REPRODUCTION.md`.
+The current BMC release provides direct reproduction paths for the redistributed analyses and Figures 1–4. Legacy RCT synthesis materials and Figures 2–6 from the earlier release remain in the repository. Metabolism-aware v2 is **CONDITIONALLY REPRODUCIBLE**: its code, schemas, provenance information, safe derived outputs, checksums and reconstruction instructions are provided, but a complete from-scratch run requires local reconstruction of a non-redistributed third-party database-derived transformation input. Optional upstream reconstruction, AGORA2 model scanning and raw-data reprocessing are classified **REQUIRES EXTERNAL INPUT**. See `RUN_REPRODUCTION.md`.
 
 Certain row-level integrated inputs derived from third-party databases are not redistributed because accessibility does not necessarily imply redistribution permission. Their source databases, input schema, provenance and reconstruction procedure are documented. In particular, neither `herb_transformation_paths_v2.tsv` nor a complete or reduced `2_3_herb_compound_clean.csv` is included.
 
@@ -22,8 +22,10 @@ Author-written code is licensed under the MIT licence (`LICENSE`). Explicitly id
 
 ## Release status
 
-Release: `v1.0.0-submission`.
+Current release: `v1.1.0-bmc-microbiology`.
 
-- GitHub: https://github.com/lory-Yu/FMH-BRNP-T2D-reproducibility/releases/tag/v1.0.0-submission
-- Zenodo version DOI: https://doi.org/10.5281/zenodo.22731841
+- GitHub: https://github.com/lory-Yu/FMH-BRNP-T2D-reproducibility/releases/tag/v1.1.0-bmc-microbiology
+- Zenodo version DOI: https://doi.org/10.5281/zenodo.23097072
 - Zenodo concept DOI: https://doi.org/10.5281/zenodo.22731840
+
+The earlier `v1.0.0-submission` archive remains available at https://doi.org/10.5281/zenodo.22731841.

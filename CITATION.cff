@@ -26,5 +26,5 @@ authors:
 repository-code: "https://github.com/lory-Yu/FMH-BRNP-T2D-reproducibility"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.22731841"
-    description: "Previous archived v1.0.0-submission release"
+    value: "10.5281/zenodo.23097072"
+    description: "Archived v1.1.0-bmc-microbiology release"

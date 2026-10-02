@@ -1,0 +1,2 @@
+n_high	n_low	high_median_library_size	low_median_library_size	median_difference	mann_whitney_u	p_value	spearman_depth_observed_rho	spearman_depth_observed_p	spearman_depth_chao1_rho	spearman_depth_chao1_p
+10	10	37699.0	36960.0	739.0	47.0	0.8501067391385259	-0.19248120300751878	0.41620647341979905	-0.1819548872180451	0.4426210667757499

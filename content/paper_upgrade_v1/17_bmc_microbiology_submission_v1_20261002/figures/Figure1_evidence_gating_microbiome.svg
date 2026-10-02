@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="481.889764pt" height="388.346457pt" viewBox="0 0 481.889764 388.346457" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-02T02:02:27.715236</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 388.346457 
+L 481.889764 388.346457 
+L 481.889764 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 68.182583 89.627126 
+L 190.977732 89.627126 
+Q 202.181669 89.627126 202.181669 87.132539 
+L 202.181669 46.82002 
+Q 202.181669 44.325433 190.977732 44.325433 
+L 68.182583 44.325433 
+Q 56.978646 44.325433 56.978646 46.82002 
+L 56.978646 87.132539 
+Q 56.978646 89.627126 68.182583 89.627126 
+z
+" style="fill: #e2e9f1; stroke: #58759a; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 211.747878 66.477362 
+Q 252.823901 66.477362 292.44648 66.477362 
+" style="fill: none; stroke: #607078; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 288.84648 64.677362 
+L 292.44648 66.477362 
+L 288.84648 68.277362 
+z
+" style="fill: #607078; stroke: #607078; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 314.669197 89.627126 
+L 432.982772 89.627126 
+Q 444.186709 89.627126 444.186709 87.132539 
+L 444.186709 46.82002 
+Q 444.186709 44.325433 432.982772 44.325433 
+L 314.669197 44.325433 
+Q 303.46526 44.325433 303.46526 46.82002 
+L 303.46526 87.132539 
+Q 303.46526 89.627126 314.669197 89.627126 
+z
+" style="fill: #dce9e7; stroke: #4e7e7b; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #26343a" x="21.126047" y="17.708923" transform="rotate(-0 21.126047 17.708923)">a</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #26343a" x="42.189449" y="16.76683" transform="rotate(-0 42.189449 16.76683)">Database records contract after route-level deduplication</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #607078" x="42.189449" y="25.931292" transform="rotate(-0 42.189449 25.931292)">Counting unit changes from composed source records to unique taxon–substrate–product routes.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #58759a" x="129.580157" y="61.171973" transform="rotate(-0 129.580157 61.171973)">8,063</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(95.602228 75.852695)">database-composed</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(104.780353 83.931133)">source records</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #607078" x="252.823465" y="58.179875" transform="rotate(-0 252.823465 58.179875)">group identical</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.3px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #607078" x="252.823465" y="77.087015" transform="rotate(-0 252.823465 77.087015)">taxon + substrate + product</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4e7e7b" x="373.825984" y="61.171973" transform="rotate(-0 373.825984 61.171973)">300</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(346.521297 75.852695)">unique microbial</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(338.396101 83.931133)">transformation routes</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #607078" x="250.582677" y="104.054409" transform="rotate(-0 250.582677 104.054409)">Deduplication is a contraction; box area is not proportional to count.</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 41.293134 216.352126 
+L 119.272535 216.352126 
+Q 128.235685 216.352126 128.235685 214.356457 
+L 128.235685 177.037441 
+Q 128.235685 175.041772 119.272535 175.041772 
+L 41.293134 175.041772 
+Q 32.329984 175.041772 32.329984 177.037441 
+L 32.329984 214.356457 
+Q 32.329984 216.352126 41.293134 216.352126 
+z
+" style="fill: #e2e9f1; stroke: #58759a; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 153.332504 216.352126 
+L 231.311906 216.352126 
+Q 240.275055 216.352126 240.275055 214.356457 
+L 240.275055 177.037441 
+Q 240.275055 175.041772 231.311906 175.041772 
+L 153.332504 175.041772 
+Q 144.369354 175.041772 144.369354 177.037441 
+L 144.369354 214.356457 
+Q 144.369354 216.352126 153.332504 216.352126 
+z
+" style="fill: #dce9e7; stroke: #4e7e7b; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 265.371874 216.352126 
+L 343.351276 216.352126 
+Q 352.314425 216.352126 352.314425 214.356457 
+L 352.314425 177.037441 
+Q 352.314425 175.041772 343.351276 175.041772 
+L 265.371874 175.041772 
+Q 256.408724 175.041772 256.408724 177.037441 
+L 256.408724 214.356457 
+Q 256.408724 216.352126 265.371874 216.352126 
+z
+" style="fill: #f2e7d6; stroke: #b68142; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 377.411244 216.352126 
+L 455.390646 216.352126 
+Q 464.353795 216.352126 464.353795 214.356457 
+L 464.353795 177.037441 
+Q 464.353795 175.041772 455.390646 175.041772 
+L 377.411244 175.041772 
+Q 368.448094 175.041772 368.448094 177.037441 
+L 368.448094 214.356457 
+Q 368.448094 216.352126 377.411244 216.352126 
+z
+" style="fill: #f2dfda; stroke: #a95f50; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 125.703694 195.696949 
+Q 136.527117 195.696949 146.232507 195.696949 
+" style="fill: none; stroke: #607078; stroke-linecap: round"/>
+    <path d="M 142.632507 193.896949 
+L 146.232507 195.696949 
+L 142.632507 197.496949 
+z
+" style="fill: #607078; stroke: #607078; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 237.743064 195.696949 
+Q 248.566487 195.696949 258.271877 195.696949 
+" style="fill: none; stroke: #607078; stroke-linecap: round"/>
+    <path d="M 254.671877 193.896949 
+L 258.271877 195.696949 
+L 254.671877 197.496949 
+z
+" style="fill: #607078; stroke: #607078; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 349.782434 195.696949 
+Q 360.605857 195.696949 370.311247 195.696949 
+" style="fill: none; stroke: #607078; stroke-linecap: round"/>
+    <path d="M 366.711247 193.896949 
+L 370.311247 195.696949 
+L 366.711247 197.496949 
+z
+" style="fill: #607078; stroke: #607078; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #26343a" x="21.126047" y="147.427427" transform="rotate(-0 21.126047 147.427427)">b</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 9.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #26343a" x="42.189449" y="146.485334" transform="rotate(-0 42.189449 146.485334)">Taxonomic mapping expands routes into strain-model evaluations</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #607078" x="42.189449" y="155.649796" transform="rotate(-0 42.189449 155.649796)">This is a coverage expansion, not a screening funnel; each stage uses a different unit.</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #58759a" x="80.282835" y="193.45955" transform="rotate(-0 80.282835 193.45955)">147</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(61.103561 201.925221)">source taxon</text>
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(70.416561 208.899188)">strings</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4e7e7b" x="192.322205" y="193.45955" transform="rotate(-0 192.322205 193.45955)">133</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #26343a" x="192.322205" y="205.412204" transform="rotate(-0 192.322205 205.412204)">mapped taxa</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #b68142" x="304.361575" y="193.45955" transform="rotate(-0 304.361575 193.45955)">2,906</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(281.276934 201.925221)">AGORA2 strain</text>
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(293.563059 208.899188)">models</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #a95f50" x="416.400945" y="193.45955" transform="rotate(-0 416.400945 193.45955)">9,550</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(387.722328 201.925221)">loaded strain–route</text>
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(407.650117 208.899188)">cases</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 5.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #607078" transform="translate(123.513809 163.897128)">taxonomy</text>
+    <text style="font-size: 5.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #607078" transform="translate(123.512426 170.252165)">resolution</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 5.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #607078" transform="translate(240.307749 163.897128)">model</text>
+    <text style="font-size: 5.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #607078" transform="translate(239.64953 170.252165)">lookup</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 5.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #607078" transform="translate(343.082736 163.897128)">route × strain</text>
+    <text style="font-size: 5.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #607078" transform="translate(343.983408 170.252165)">enumeration</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6.1px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #607078" x="250.582677" y="231.120079" transform="rotate(-0 250.582677 231.120079)">133/147 taxa mapped; 21 no-model route placeholders retained (9,571 matrix rows total).</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_12">
+    <path d="M 111.653858 306.157244 
+L 331.251024 306.157244 
+Q 336.628913 306.157244 336.628913 304.959843 
+L 336.628913 295.480413 
+Q 336.628913 294.283012 331.251024 294.283012 
+L 111.653858 294.283012 
+Q 106.275969 294.283012 106.275969 295.480413 
+L 106.275969 304.959843 
+Q 106.275969 306.157244 111.653858 306.157244 
+z
+" style="fill: #a95f50"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 111.653858 328.109606 
+L 161.551853 328.109606 
+Q 166.929743 328.109606 166.929743 326.912205 
+L 166.929743 317.432776 
+Q 166.929743 316.235374 161.551853 316.235374 
+L 111.653858 316.235374 
+Q 106.275969 316.235374 106.275969 317.432776 
+L 106.275969 326.912205 
+Q 106.275969 328.109606 111.653858 328.109606 
+z
+" style="fill: #b68142"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 111.653858 350.061969 
+L 135.982005 350.061969 
+Q 141.359895 350.061969 141.359895 348.864567 
+L 141.359895 339.385138 
+Q 141.359895 338.187736 135.982005 338.187736 
+L 111.653858 338.187736 
+Q 106.275969 338.187736 106.275969 339.385138 
+L 106.275969 348.864567 
+Q 106.275969 350.061969 111.653858 350.061969 
+z
+" style="fill: #4e7e7b"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 337.230195 343.875394 
+Q 352.536585 343.875394 366.724942 343.875394 
+" style="fill: none; stroke: #607078; stroke-linecap: round"/>
+    <path d="M 363.124942 342.075394 
+L 366.724942 343.875394 
+L 363.124942 345.675394 
+z
+" style="fill: #607078; stroke: #607078; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 377.411244 325.116102 
+L 455.390646 325.116102 
+Q 464.353795 325.116102 464.353795 323.120433 
+L 464.353795 301.766772 
+Q 464.353795 299.771102 455.390646 299.771102 
+L 377.411244 299.771102 
+Q 368.448094 299.771102 368.448094 301.766772 
+L 368.448094 323.120433 
+Q 368.448094 325.116102 377.411244 325.116102 
+z
+" style="fill: #dce9e7; stroke: #4e7e7b; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 377.411244 356.048976 
+L 455.390646 356.048976 
+Q 464.353795 356.048976 464.353795 354.053307 
+L 464.353795 332.699646 
+Q 464.353795 330.703976 455.390646 330.703976 
+L 377.411244 330.703976 
+Q 368.448094 330.703976 368.448094 332.699646 
+L 368.448094 354.053307 
+Q 368.448094 356.048976 377.411244 356.048976 
+z
+" style="fill: #f2e7d6; stroke: #b68142; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 416.400945 325.914857 
+Q 416.400945 327.90974 416.400945 328.898393 
+" style="fill: none; stroke: #607078; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 418.200945 325.298393 
+L 416.400945 328.898393 
+L 414.600945 325.298393 
+z
+" style="fill: #607078; stroke: #607078; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #26343a" x="21.126047" y="277.145931" transform="rotate(-0 21.126047 277.145931)">c</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 9.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #26343a" x="42.189449" y="276.203838" transform="rotate(-0 42.189449 276.203838)">Chemical and flux criteria leave a small model-supported subset</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #607078" x="42.189449" y="285.3683" transform="rotate(-0 42.189449 285.3683)">Counts remain strain–route combinations until the final collapse to unique routes.</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(35.467087 298.957951)">Loaded strain–route</text>
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(35.467087 305.446378)">cases</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #a95f50" x="336.628913" y="302.082003" transform="rotate(-0 336.628913 302.082003)">9,550</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(35.467087 320.910314)">Both structures</text>
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(35.467087 327.39874)">verified</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #b68142" x="166.929743" y="324.034365" transform="rotate(-0 166.929743 324.034365)">2,170</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(35.467087 342.862676)">Formal F1 flux</text>
+    <text style="font-size: 6.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(35.467087 349.351102)">combinations</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4e7e7b" x="141.359895" y="345.986727" transform="rotate(-0 141.359895 345.986727)">1,058</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 5.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #607078" x="329.010236" y="321.401347" transform="rotate(-0 329.010236 321.401347)">collapse to unique routes</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4e7e7b" x="391.752283" y="315.805321" transform="rotate(-0 391.752283 315.805321)">26</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 5.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(409.261874 311.00557)">routes with ≥1</text>
+    <text style="font-size: 5.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(407.114827 316.933041)">formal F1 result</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #b68142" x="391.752283" y="346.738195" transform="rotate(-0 391.752283 346.738195)">9</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(407.939257 341.962817)">routes linked to</text>
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #26343a" transform="translate(399.289101 347.789823)">prespecified T2D core</text>
+   </g>
+   <g id="text_40">
+    <text style="font-style: italic; font-size: 5.6px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #26343a" x="35.467087" y="361.173335" transform="rotate(-0 35.467087 361.173335)">One E. coli tryptophan→indole route contributed 987/1,058 F1-positive strain cases (93.3%); route counts are the primary summary.</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 5.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #607078" x="35.467087" y="369.592679" transform="rotate(-0 35.467087 369.592679)">F1 required eligible taxonomy, verified structures, native exchange reactions and increased product export under curated anaerobic model conditions.</text>
+   </g>
+  </g>
+ </g>
+</svg>

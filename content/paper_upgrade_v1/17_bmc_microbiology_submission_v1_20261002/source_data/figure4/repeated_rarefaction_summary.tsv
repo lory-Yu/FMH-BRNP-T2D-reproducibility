@@ -1,0 +1,2 @@
+replicates	seed	rarefaction_depth	median_adjusted_difference	difference_q025	difference_q975	fraction_positive	fraction_p_lt_0_05	median_p	max_p
+500	20260903	30000	76.06009341129479	74.01424700513392	77.96659387478594	1.0	1.0	0.03525310130798708	0.04454481395057075

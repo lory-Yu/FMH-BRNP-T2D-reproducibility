@@ -1,0 +1,7 @@
+cohort	pathway_id	eligible_control	eligible_t2d	complete_case_control	complete_case_t2d	positive_control	positive_t2d	eligible_to_complete_attrition_control	eligible_to_complete_attrition_t2d	complete_but_not_detected_control	complete_but_not_detected_t2d	interpretation_note
+Qin	PWY-5676	193	170	174	170	174	168	19	0	0	2	Positive-abundance estimand among detected complete cases
+Qin	CENTFERM-PWY	193	170	174	170	168	161	19	0	6	9	Positive-abundance estimand among detected complete cases
+Karlsson	PWY-5676	43	53	43	53	43	53	0	0	0	0	Pathway detected in all complete cases
+Karlsson	CENTFERM-PWY	43	53	43	53	43	52	0	0	0	1	Positive-abundance estimand among detected complete cases
+MetaCardis	PWY-5676	234	550	153	503	88	366	81	47	65	137	Complete demographic model restricted to Germany/France; country and covariate attrition cannot be separated from frozen table
+MetaCardis	CENTFERM-PWY	234	550	153	503	95	309	81	47	58	194	Complete demographic model restricted to Germany/France; country and covariate attrition cannot be separated from frozen table

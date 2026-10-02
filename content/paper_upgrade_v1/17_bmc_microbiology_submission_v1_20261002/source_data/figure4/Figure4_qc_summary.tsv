@@ -1,0 +1,5 @@
+stage	value	note
+Donors linked	50/50	unique sequence records
+QC / DADA2 pass	50/50	DADA2 1.38.0; SILVA 138.2
+ASVs retained	4,141	bacterial/archaeal
+Primary contrast	10 vs 10	High vs Low; Middle n=30 exploratory

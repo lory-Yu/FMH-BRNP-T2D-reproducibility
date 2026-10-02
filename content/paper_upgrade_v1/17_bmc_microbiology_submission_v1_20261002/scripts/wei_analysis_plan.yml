@@ -1,0 +1,44 @@
+study: Wei 2025 public-data Rb1 calibration
+project_accession: PRJNA1268742
+primary_contrast: rb1_group High versus Low
+primary_sample_count: 20
+secondary_analysis: ordered Low-Middle-High trend across 50 donors
+sequencing:
+  assay: 16S rRNA V3-V4 amplicon
+  primers:
+    forward: ACTCCTACGGGAGGCAGCAG
+    reverse: GGACTACHVGGGTWTCTAAT
+  platform: Illumina MiSeq PE300
+dada2:
+  trim_left: [20, 20]
+  trunc_len: [280, 230]
+  max_ee: [2, 5]
+  trunc_q: 2
+  max_n: 0
+  min_overlap: 20
+  chimera_method: consensus
+  parallel_backend: BiocParallel::SerialParam
+taxonomy:
+  database: SILVA NR99 138.2 DADA2 formatted
+  doi: 10.5281/zenodo.14169026
+statistics:
+  alpha: [Observed_ASV, Chao1, Shannon, Simpson]
+  alpha_primary_test: Wilcoxon rank-sum High versus Low
+  beta_distance: Bray-Curtis
+  beta_primary_test: PERMANOVA High versus Low adjusted for age and gender
+  beta_method_matched_sensitivity: ANOSIM High versus Low
+  dispersion_test: PERMDISP
+  differential_taxa_primary: genus CLR linear model adjusted for age and gender
+  multiple_testing: Benjamini-Hochberg FDR
+  prespecified_candidate_genera:
+    - Eubacterium_hallii_group
+    - Anaerostipes
+    - norank_f_Eubacterium_coprostanoligenes_group
+    - Coprococcus
+    - Barnesiella
+    - norank_f_Oscillospiraceae
+    - UBA1819
+    - Family_XIII_AD3011_group
+claims_boundary:
+  allowed: Public healthy-donor high/low Rb1 conversion groups have reproducibly testable microbiome differences.
+  forbidden: T2D or metformin causally changes Rb1-to-Compound-K conversion.

@@ -1,0 +1,28 @@
+{
+  "title": "Data and code for evidence gating in gut microbial biotransformation inference",
+  "description": "Reproducibility materials for four computational case studies of microbial biotransformation evidence, AGORA2 model compatibility, type 2 diabetes metagenomic pathway associations, and source-defined Rb1 converter groups. This version excludes raw reads, AGORA2 model files, SILVA reference files, restricted third-party row-level inputs, submission documents, and internal review records.",
+  "creators": [
+    {
+      "name": "Yu, Simiao",
+      "affiliation": "Jiangnan University"
+    },
+    {
+      "name": "Lu, Xiaodong",
+      "affiliation": "Jiangnan University"
+    },
+    {
+      "name": "Wang, Zhouping",
+      "affiliation": "Jiangnan University"
+    }
+  ],
+  "keywords": [
+    "gut microbiome",
+    "microbial biotransformation",
+    "AGORA2",
+    "ginsenoside Rb1",
+    "type 2 diabetes",
+    "reproducibility"
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}

@@ -1,10 +1,18 @@
 cff-version: 1.2.0
 message: "Please cite the archived release and associated article."
-title: "Data and code for biotransformation-resolved network pharmacology of FMH materials in type 2 diabetes"
+title: "Data and code for evidence gating in gut microbial biotransformation inference"
 type: software
-version: "1.0.0-submission"
-date-released: 2026-09-13
+version: "1.1.0-bmc-microbiology"
+date-released: 2026-10-02
 license: "MIT"
+abstract: "Reproducibility materials for four computational case studies of microbial biotransformation evidence, AGORA2 model compatibility, type 2 diabetes metagenomic pathway associations, and source-defined Rb1 converter groups."
+keywords:
+  - "gut microbiome"
+  - "microbial biotransformation"
+  - "AGORA2"
+  - "ginsenoside Rb1"
+  - "type 2 diabetes"
+  - "reproducibility"
 authors:
   - family-names: "Yu"
     given-names: "Simiao"
@@ -19,4 +27,4 @@ repository-code: "https://github.com/lory-Yu/FMH-BRNP-T2D-reproducibility"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.22731841"
-    description: "Archived v1.0.0-submission release"
+    description: "Previous archived v1.0.0-submission release"
